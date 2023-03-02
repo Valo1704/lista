@@ -222,6 +222,25 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140225
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140226
 
 
+#EXTINF:-1 group-title="2.0 LAS ESTRELLAS",Las Estrellas
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/1156
+#EXTINF:-1 group-title="2.0 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52495.m3u8
+
+
+#EXTINF:-1 group-title="2.1 LAS ESTRELLAS",Las Estrellas SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/4641.ts
+#EXTINF:-1 group-title="2.1 LAS ESTRELLAS",Las Estrellas HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/176534.ts
+#EXTINF:-1 group-title="2.1 LAS ESTRELLAS",Las Estrellas FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/16827.ts
+#EXTINF:-1 group-title="2.1 LAS ESTRELLAS",Las Estrellas SD -2hr (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/176539.ts
+#EXTINF:-1 group-title="2.1 LAS ESTRELLAS",Las Estrellas FHD -2hr (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/176538.ts
+
+
+
 #EXTINF:-1 group-title="2 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS -2HRS HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86996
 #EXTINF:-1 group-title="2 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS HD CDMX
@@ -501,30 +520,112 @@ http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51007.m3u8
 
 #EXTINF:-1 group-title="2.9.2 NBA",NBCSWA Feed
 http://176.57.50.167:25461/557496/064121/83043
-#EXTINF:-1 group-title="2.9.1 NBA",TNT Feed
+#EXTINF:-1 group-title="2.9.2 NBA",TNT Feed
 http://176.57.50.167:25461/557496/064121/83044
-#EXTINF:-1 group-title="2.9.1 NBA",TNT Feed
+#EXTINF:-1 group-title="2.9.2 NBA",TNT Feed
 http://176.57.50.167:25461/557496/064121/83045
-#EXTINF:-1 group-title="2.9.1 NBA",Toronto Raptors vs Washington Wizards
+#EXTINF:-1 group-title="2.9.2 NBA",Toronto Raptors vs Washington Wizards
 http://176.57.50.167:25461/557496/064121/86042
-#EXTINF:-1 group-title="2.9.1 NBA",Philadelphia vs Dallas Mavericks
+#EXTINF:-1 group-title="2.9.2 NBA",Philadelphia vs Dallas Mavericks
 http://176.57.50.167:25461/557496/064121/86043
-#EXTINF:-1 group-title="2.9.1 NBA",Los Angeles Clippers vs Golden State Warriors
+#EXTINF:-1 group-title="2.9.2 NBA",Los Angeles Clippers vs Golden State Warriors
 http://176.57.50.167:25461/557496/064121/86045
-#EXTINF:-1 group-title="2.9.1 NBA",NBA LP05
+#EXTINF:-1 group-title="2.9.2 NBA",NBA LP05
 http://176.57.50.167:25461/557496/064121/86046
-#EXTINF:-1 group-title="2.9.1 NBA",NBA LP06
+#EXTINF:-1 group-title="2.9.2 NBA",NBA LP06
 http://176.57.50.167:25461/557496/064121/86047
-#EXTINF:-1 group-title="2.9.1 NBA",NBA LP 08
+#EXTINF:-1 group-title="2.9.2 NBA",NBA LP 08
 http://176.57.50.167:25461/557496/064121/86049
-#EXTINF:-1 group-title="2.9.1 NBA",NBA LP 09
+#EXTINF:-1 group-title="2.9.2 NBA",NBA LP 09
 http://176.57.50.167:25461/557496/064121/86050
-#EXTINF:-1 group-title="2.9.1 NBA",NBA LP 10
+#EXTINF:-1 group-title="2.9.2 NBA",NBA LP 10
 http://176.57.50.167:25461/557496/064121/86051
-#EXTINF:-1 group-title="2.9.1 NBA",NBA LP12
+#EXTINF:-1 group-title="2.9.2 NBA",NBA LP12
 http://176.57.50.167:25461/557496/064121/86053
-#EXTINF:-1 group-title="2.9.1 NBA",NBA LP13
+#EXTINF:-1 group-title="2.9.2 NBA",NBA LP13
 http://176.57.50.167:25461/557496/064121/86054
+
+
+#EXTINF:-1 group-title="2.9.3 NBA",NBA ATLANTA HAWKS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207586
+#EXTINF:-1 group-title="2.9.3 NBA",NBA BOSTON SELTICS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207595
+#EXTINF:-1 group-title="2.9.3 NBA",NBA BROOKLYN NETS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207596
+#EXTINF:-1 group-title="2.9.3 NBA",NBA CHARLOTTE HORNETS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207597
+#EXTINF:-1 group-title="2.9.3 NBA",NBA CHICAGO BULLS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207598
+#EXTINF:-1 group-title="2.9.3 NBA",NBA CLEVLAND CAVALIERS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207599
+#EXTINF:-1 group-title="2.9.3 NBA",NBA DALLAS MAVERICKS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207587
+#EXTINF:-1 group-title="2.9.3 NBA",NBA DENVER NUGGETS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207588
+#EXTINF:-1 group-title="2.9.3 NBA",NBA DETROIT PISTONS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207589
+#EXTINF:-1 group-title="2.9.3 NBA",NBA GOLDEN STATE WARRIORS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207590
+#EXTINF:-1 group-title="2.9.3 NBA",NBA HOUSTON ROCKETS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207591
+#EXTINF:-1 group-title="2.9.3 NBA",NBA INDIANA PACERS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207592
+#EXTINF:-1 group-title="2.9.3 NBA",NBA LOS ANGLES CLIPPERS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207593
+#EXTINF:-1 group-title="2.9.3 NBA",NBA LOS ANGLES LAKERS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207594
+#EXTINF:-1 group-title="2.9.3 NBA",NBA MEMPHIS GRIZZLIES
+http://smartes-plus.com:2095/45510529834617/45510529834617/207372
+#EXTINF:-1 group-title="2.9.3 NBA",NBA MIAMI HEAT
+http://smartes-plus.com:2095/45510529834617/45510529834617/207373
+#EXTINF:-1 group-title="2.9.3 NBA",NBA MILWAUKEE BUCKS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207374
+#EXTINF:-1 group-title="2.9.3 NBA",NBA MINNESOTA TIMBERWOLVES
+http://smartes-plus.com:2095/45510529834617/45510529834617/207375
+#EXTINF:-1 group-title="2.9.3 NBA",NBA NEW ORLEANS PELICANS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207376
+#EXTINF:-1 group-title="2.9.3 NBA",NBA NEW YORK KNICKS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207377
+#EXTINF:-1 group-title="2.9.3 NBA",NBA OKLAHOMA CITY THUNDERS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207378
+#EXTINF:-1 group-title="2.9.3 NBA",NBA ORLANDO MAGIC
+http://smartes-plus.com:2095/45510529834617/45510529834617/207379
+#EXTINF:-1 group-title="2.9.3 NBA",NBA PHILADELPHIA 76ERS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207380
+#EXTINF:-1 group-title="2.9.3 NBA",NBA PHOENIX SUNS
+http://smartes-plus.com:2095/45510529834617/45510529834617/207381
+
+
+#EXTINF:-1 group-title="2.9.4 NBA",NBA ON ESPN
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59661
+#EXTINF:-1 group-title="2.9.4 NBA",NBA ON FOX SPORTS
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59662
+#EXTINF:-1 group-title="2.9.4 NBA",NBA ON ABC
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59663
+#EXTINF:-1 group-title="2.9.4 NBA",NBA HD 77
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
+#EXTINF:-1 group-title="2.9.4 NBA",NBA Raptors vs Wizards
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/176789
+#EXTINF:-1 group-title="2.9.4 NBA",NBA 76ers vs Mavericks
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/176790
+#EXTINF:-1 group-title="2.9.4 NBA",NBA Pacers vs Suns
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/176791
+#EXTINF:-1 group-title="2.9.4 NBA",NBA Clippers vs Warriors
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/176792
+#EXTINF:-1 group-title="2.9.4 NBA",NBA Sacramento Kings
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78480
+#EXTINF:-1 group-title="2.9.4 NBA",NBA New Orleans Pelicans
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78483
+#EXTINF:-1 group-title="2.9.4 NBA",NBA Golden State Warriors
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78489
+#EXTINF:-1 group-title="2.9.4 NBA",NBA Cleveland Cavaliers
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78492
+#EXTINF:-1 group-title="2.9.4 NBA",NBA Portland Trail Blazers
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78503
+#EXTINF:-1 group-title="2.9.4 NBA",NBA Phoenix Suns
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78504
+#EXTINF:-1 group-title="2.9.4 NBA",NBA ON TNT
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
 
 
 
@@ -1348,6 +1449,12 @@ http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/10774.m3u8
 http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/10774.m3u8
 #EXTINF:-1 group-title="1.0 AMERICA TV",America TV HD
 http://176.57.50.167:25461/557496/064121/85837
+
+
+#EXTINF:-1 group-title="1.0.1 AMERICA TV",AMERICA
+http://smartes-plus.com:2095/45510529834617/45510529834617/211404
+#EXTINF:-1 group-title="1.0.1 AMERICA TV",America Peru
+http://smartes-plus.com:2095/45510529834617/45510529834617/211405
 
 
 #EXTINF:-1 group-title="1.1 AMERICA TV",AMERICA TV FHD
@@ -3080,6 +3187,14 @@ http://main-paneltv.com:8080/Tony/Tony/408513
 http://185.209.15.152:37500/riad2023/riad2023/103651
 
 
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",LAS ESTRELLAS R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126394
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",LAS ESTRELLAS HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126395
+#EXTINF:-1 group-title="2.0.2 LAS ESTRELLAS",LAS ESTRELLAS LQ R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126396
+
+
 #EXTINF:-1 group-title="STAR CHANNEL 1",FOX CHANNEL HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86982
 #EXTINF:-1 group-title="STAR CHANNEL 1",FOX
@@ -3396,3 +3511,658 @@ http://main-paneltv.com:8080/Tony/Tony/278780
 
 #EXTINF:-1 group-title="ALF 1",Alf
 http://dns.k4livetv.com:8080/lisandro123/lisandro123/302766
+
+
+#EXTINF:-1 group-title="1 VARIOS",Fox Life Latin
+http://176.57.50.167:25461/557496/064121/22087
+#EXTINF:-1 group-title="1 VARIOS",BEIN Sports Latin
+http://176.57.50.167:25461/557496/064121/22197
+#EXTINF:-1 group-title="1 VARIOS",Music Choice Video
+http://176.57.50.167:25461/557496/064121/13738
+#EXTINF:-1 group-title="1 VARIOS",Az Clic
+http://176.57.50.167:25461/557496/064121/61717
+#EXTINF:-1 group-title="1 VARIOS",AZ Corazon
+http://176.57.50.167:25461/557496/064121/61718
+#EXTINF:-1 group-title="1 VARIOS",Az Corazon
+http://176.57.50.167:25461/557496/064121/61719
+#EXTINF:-1 group-title="1 VARIOS",Azteca
+http://176.57.50.167:25461/557496/064121/61720
+#EXTINF:-1 group-title="1 VARIOS",Cartoon Network
+http://176.57.50.167:25461/557496/064121/61752
+#EXTINF:-1 group-title="1 VARIOS",El Trece
+http://176.57.50.167:25461/557496/064121/61784
+#EXTINF:-1 group-title="1 VARIOS",ESPN 3
+http://176.57.50.167:25461/557496/064121/61789
+#EXTINF:-1 group-title="1 VARIOS",Fox Life
+http://176.57.50.167:25461/557496/064121/61798
+#EXTINF:-1 group-title="1 VARIOS",Fox Sports 2 FHD BR
+http://176.57.50.167:25461/557496/064121/61802
+#EXTINF:-1 group-title="1 VARIOS",FX
+http://176.57.50.167:25461/557496/064121/61805
+#EXTINF:-1 group-title="1 VARIOS",RCN Novelas
+http://176.57.50.167:25461/557496/064121/61830
+#EXTINF:-1 group-title="1 VARIOS",Unicable
+http://176.57.50.167:25461/557496/064121/61862
+#EXTINF:-1 group-title="1 VARIOS",Universal
+http://176.57.50.167:25461/557496/064121/61863
+#EXTINF:-1 group-title="1 VARIOS",Universal Channel
+http://176.57.50.167:25461/557496/064121/61864
+#EXTINF:-1 group-title="1 VARIOS",TUDN
+http://176.57.50.167:25461/557496/064121/61873
+#EXTINF:-1 group-title="1 VARIOS",BANDAMAX
+http://176.57.50.167:25461/557496/064121/61879
+#EXTINF:-1 group-title="1 VARIOS",FOROTV
+http://176.57.50.167:25461/557496/064121/61891
+#EXTINF:-1 group-title="1 VARIOS",Fox_Life
+http://176.57.50.167:25461/557496/064121/61892
+#EXTINF:-1 group-title="1 VARIOS",GOL TV
+http://176.57.50.167:25461/557496/064121/61895
+#EXTINF:-1 group-title="1 VARIOS",TUDN X3
+http://176.57.50.167:25461/557496/064121/61919
+#EXTINF:-1 group-title="1 VARIOS",TUDN X6
+http://176.57.50.167:25461/557496/064121/61922
+
+
+#EXTINF:-1 group-title="1.0 VARIOS",Foro TV HD
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/141
+#EXTINF:-1 group-title="1.0 VARIOS",ADN40 HD
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/146
+#EXTINF:-1 group-title="1.0 VARIOS",Fox Sports 1
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/151
+#EXTINF:-1 group-title="1.0 VARIOS",Paramount Channel HD
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/152
+#EXTINF:-1 group-title="1.0 VARIOS",Fox Sports 2 HD
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/153
+#EXTINF:-1 group-title="1.0 VARIOS",Fox Sports 3
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/156
+#EXTINF:-1 group-title="1.0 VARIOS",CNN en Español
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/159
+#EXTINF:-1 group-title="1.0 VARIOS",Warner
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/171
+#EXTINF:-1 group-title="1.0 VARIOS",Azteca 7
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/172
+#EXTINF:-1 group-title="1.0 VARIOS",Studio Universal
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/173
+#EXTINF:-1 group-title="1.0 VARIOS",A&E
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/176
+#EXTINF:-1 group-title="1.0 VARIOS",AXN
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/1770
+#EXTINF:-1 group-title="1.0 VARIOS",Comedy Central
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/184
+#EXTINF:-1 group-title="1.0 VARIOS",Unicable
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/185
+#EXTINF:-1 group-title="1.0 VARIOS",Multimedios
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/191
+#EXTINF:-1 group-title="1.0 VARIOS",Investigation Discovery
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/201
+#EXTINF:-1 group-title="1.0 VARIOS",Animal Planet
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/202
+#EXTINF:-1 group-title="1.0 VARIOS",AZ Corazon
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/207
+#EXTINF:-1 group-title="1.0 VARIOS",Fox
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/208
+#EXTINF:-1 group-title="1.0 VARIOS",SyFy
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/210
+#EXTINF:-1 group-title="1.0 VARIOS",TNT Series
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/212
+#EXTINF:-1 group-title="1.0 VARIOS",Telenovelas
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/218
+#EXTINF:-1 group-title="1.0 VARIOS",Discovery Kids
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/220
+#EXTINF:-1 group-title="1.0 VARIOS",Disney Jr.
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/221
+#EXTINF:-1 group-title="1.0 VARIOS",Nick Jr.
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/222
+#EXTINF:-1 group-title="1.0 VARIOS",Disney Channel
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/223
+#EXTINF:-1 group-title="1.0 VARIOS",Nicktoons
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/224
+#EXTINF:-1 group-title="1.0 VARIOS",Nickelodeon
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/225
+#EXTINF:-1 group-title="1.0 VARIOS",Cartoon Network
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/227
+#EXTINF:-1 group-title="1.0 VARIOS",Disney XD
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/228
+#EXTINF:-1 group-title="1.0 VARIOS",Boomerang
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/229
+#EXTINF:-1 group-title="1.0 VARIOS",Tooncast
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/231
+#EXTINF:-1 group-title="1.0 VARIOS",Discovery Theater
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/233
+#EXTINF:-1 group-title="1.0 VARIOS",History
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/234
+#EXTINF:-1 group-title="1.0 VARIOS",Nat Geo Wild
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/235
+#EXTINF:-1 group-title="1.0 VARIOS",Discovery World
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/236
+#EXTINF:-1 group-title="1.0 VARIOS",Discovery Channel
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/237
+#EXTINF:-1 group-title="1.0 VARIOS",Discovery H&H
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/238
+#EXTINF:-1 group-title="1.0 VARIOS",National Geographic
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/239
+#EXTINF:-1 group-title="1.0 VARIOS",Discovery Science
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/241
+#EXTINF:-1 group-title="1.0 VARIOS",AZ Cinema
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/250
+#EXTINF:-1 group-title="1.0 VARIOS",Cinecanal
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/251
+#EXTINF:-1 group-title="1.0 VARIOS",TNT
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/252
+#EXTINF:-1 group-title="1.0 VARIOS",AMC
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/256
+#EXTINF:-1 group-title="1.0 VARIOS",Space
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/257
+#EXTINF:-1 group-title="1.0 VARIOS",Cinemax
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/259
+#EXTINF:-1 group-title="1.0 VARIOS",Espn 3
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/264
+#EXTINF:-1 group-title="1.0 VARIOS",ESPN
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/265
+#EXTINF:-1 group-title="1.0 VARIOS",Espn 2
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/266
+#EXTINF:-1 group-title="1.0 VARIOS",VH1
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/273
+#EXTINF:-1 group-title="1.0 VARIOS",MTV
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/275
+#EXTINF:-1 group-title="1.0 VARIOS",NAT GEO
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/284
+#EXTINF:-1 group-title="1.0 VARIOS",AZTECA UNO
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/65081
+
+
+#EXTINF:-1 group-title="1.1 VARIOS",ESPN 2 HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/234511.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Investigation Discovery SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7087.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Investigation Discovery FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7088.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Discovery Channel (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7090.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Discovery Channel FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7089.ts
+#EXTINF:-1 group-title="1.1 VARIOS",History (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7369.ts
+#EXTINF:-1 group-title="1.1 VARIOS",History FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7091.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Discovery H&H SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7095.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Discovery H&H HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/127266.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Discovery H&H FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7094.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Discovery Theater (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7105.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Discovery Theater FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7104.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Animal Planet SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24087.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Animal Planet HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/112991.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Animal Planet FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24088.ts
+#EXTINF:-1 group-title="1.1 VARIOS",NatGeo SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/2024.ts
+#EXTINF:-1 group-title="1.1 VARIOS",NatGeo HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/127267.ts
+#EXTINF:-1 group-title="1.1 VARIOS",NatGeo FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7093.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Comedy Central (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7107.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Cinecanal (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/32216.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Cinecanal Full HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/32215.ts
+#EXTINF:-1 group-title="1.1 VARIOS",AMC (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24090.ts
+#EXTINF:-1 group-title="1.1 VARIOS",AMC Full HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24091.ts
+#EXTINF:-1 group-title="1.1 VARIOS",A&E (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24094.ts
+#EXTINF:-1 group-title="1.1 VARIOS",A&E Full HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24095.ts
+#EXTINF:-1 group-title="1.1 VARIOS",AXN (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24092.ts
+#EXTINF:-1 group-title="1.1 VARIOS",AXN Full HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24093.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Cinemax (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1037.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Cinemax Full HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/15128.ts
+#EXTINF:-1 group-title="1.1 VARIOS",FX (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/102710.ts
+#EXTINF:-1 group-title="1.1 VARIOS",FX HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/102713.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TNT HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/32320.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TNT Full HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24132.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TNT Series (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24133.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TNT Series FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24134.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Sony FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24139.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Star Channel SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24124.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Star Channel FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24125.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Studio Universal (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24121.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Studio Universal Full HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24122.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Universal Channel (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24119.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Warner Channel FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24635.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Cartoonito SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7353.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Cartoonito FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7352.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Cartoon Network SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/994.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Cartoon Network HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7345.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Disney Junior (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7347.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Disney Junior Full HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7356.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Disney Channel SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7349.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Disney Channel HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7348.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Discovery Kids HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1782.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Nat Geo Kids (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1795.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Nickelodeon HD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7359.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Nickelodeon SD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1780.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Nick Toons (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/7360.ts
+#EXTINF:-1 group-title="1.1 VARIOS",MTV (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/36563.ts
+#EXTINF:-1 group-title="1.1 VARIOS",MTV FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/36564.ts
+#EXTINF:-1 group-title="1.1 VARIOS",MTV Hits (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/36568.ts
+#EXTINF:-1 group-title="1.1 VARIOS",MTV Live (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/36569.ts
+#EXTINF:-1 group-title="1.1 VARIOS",MTV Live FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/36570.ts
+#EXTINF:-1 group-title="1.1 VARIOS",RMS (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/36578.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Telehit (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/36579.ts
+#EXTINF:-1 group-title="1.1 VARIOS",VH1 FHD (MX)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/36584.ts
+#EXTINF:-1 group-title="1.1 VARIOS",A Plus
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24081.ts
+#EXTINF:-1 group-title="1.1 VARIOS",ADN 40 (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/64721.ts
+#EXTINF:-1 group-title="1.1 VARIOS",ADN 40 FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24040.ts
+#EXTINF:-1 group-title="1.1 VARIOS",ADN 40 HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/107115.ts
+#EXTINF:-1 group-title="1.1 VARIOS",ADN 40 SD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24039.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Azteca 7  HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24033.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Azteca 7 (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/64739.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Azteca 7 SD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24032.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Azteca Corazon FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/493380.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Azteca Uno (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/65050.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Azteca Uno Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24035.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Canal 5
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24036.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Canal 5 (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/65060.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Canal 5 HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24037.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Canal 8 (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/65061.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Distrito Comedia
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24074.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Distrito Comedia HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/178028.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Foro TV
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24041.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Foro TV Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24042.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Foro TV HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/459522.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Imagen TV
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24064.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Imagen TV (FHD)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/452296.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Imagen TV (HD)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/457293.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Mexiquense FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24071.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Milenio TV
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24059.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Milenio TV FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/250588.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Milenio TV HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24060.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Multimedios
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24043.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Multimedios Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24044.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Multimedios Plus
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24045.ts
+#EXTINF:-1 group-title="1.1 VARIOS", Multimedios Plus Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24046.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Teleformula
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24047.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Teleformula FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/450727.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Teleformula HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/457516.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Televisa MTY
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24048.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Televisa Puebla
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24049.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Televisa Puebla (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/65785.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Televisa Puebla Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24050.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Canal 5 FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/518041.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Adrenalina Sport Network
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/72055.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Adrenalina Sport Network FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/27207.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Afizzionados
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/27246.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Afizzionados HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/451932.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn 1
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26526.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn 1 HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/107158.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn 1 Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24637.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn 2 (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/65829.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn 2
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26527.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn 2 HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/107157.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn 2 Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24638.ts
+#EXTINF:-1 group-title="1.1 VARIOS",ESPN 3 (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/65828.ts
+#EXTINF:-1 group-title="1.1 VARIOS",ESPN 3
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26528.ts
+#EXTINF:-1 group-title="1.1 VARIOS",ESPN 3 Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24639.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn Extra
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26529.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn Extra HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/107160.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Espn Extra HD (H265)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24636.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Fox Sports 1
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/928.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Fox Sports 1 HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/27204.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Fox Sports 1 Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/937.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Fox Sports 2
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/929.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Fox Sports 2 HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/27205.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Fox Sports 2 Full HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/939.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Fox Sports 3
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/930.ts
+#EXTINF:-1,SP: MX: Fox Sports 3 HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/27206.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Fox Sports 3 FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/941.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN (MOVIL)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/65816.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN SD (USA)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1905.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN HD (USA)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/32904.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN (Mexico)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/32905.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN FHD (Mexico)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/40909.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X1
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1906.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X2
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1907.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X4
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1908.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X3
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1909.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X5
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1910.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X6
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1911.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X7
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1912.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X8
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1913.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X9
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1914.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X10
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/1915.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TUDN X11
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/69255.ts
+#EXTINF:-1 group-title="1.1 VARIOS",TVC Deportes SD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/224677.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Sky Sports
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/300774.ts
+#EXTINF:-1 group-title="1.1 VARIOS",ViX
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/379426.ts
+#EXTINF:-1 group-title="1.1 VARIOS",AYM Sports FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/401904.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Claro Sports  HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/452220.ts
+#EXTINF:-1 group-title="1.1 VARIOS",Latin American Sports
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/452297.ts
+#EXTINF:-1 group-title="1.1 VARIOS",AYM Sports SD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/459559.ts
+
+
+#EXTINF:-1 group-title="1.2 VARIOS",ADN 40
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52474.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",ADRENALINA SPORTS NETWORK
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52475.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",AMC
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52476.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",ANIMAL PLANET
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52477.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",AXN
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52479.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",AYM SPORTS
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52480.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",AZTECA UNO
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52485.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",CANAL 4
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52496.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",CANAL 5
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52497.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",CANAL ONCE
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52501.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",CINECANAL
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52502.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",CNN EN ESPAÑOL
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52504.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",CNN INT
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52505.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",COMEDY CENTRAL
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52506.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",DISCOVERY CHANNEL
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52508.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",DISCOVERY CIVILIZATION
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52509.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",DISCOVERY H&AMP;H
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52510.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",DISCOVERY SCIENCE
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52512.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",DISCOVERY THEATER
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52513.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",DISCOVERY TURBO
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52514.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",DISNEY JR
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52517.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",ESPN 2
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52522.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",ESPN 3
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52523.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",ESPN
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52524.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",ESPN EXTRA
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52525.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",STAR CHANNEL
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52530.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",IMAGEN TV
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52544.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",MTV HITS
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52554.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",MTV LIVE
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52555.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",NAT GEO
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52558.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",NAT GEO WILD
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52559.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",NICK JR
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52562.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",NICKELODEON
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52563.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",NICKTOONS
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52564.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",PARAMOUNT CHANNEL
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52566.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",SONY CHANNEL
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52569.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",SPACE
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52570.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",SYFY
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52573.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",TDN
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52576.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",TELEHIT PLUS
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52578.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",TELEVISA
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52581.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",TNT
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52585.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",TOONCAST
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52587.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",UNICABLE
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52593.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",UNIVERSAL CHANNEL
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52594.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",VH1 CLASSIC
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52595.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",VH1
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52596.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",MULTIMEDIOS P
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52600.m3u8
+#EXTINF:-1 group-title="1.2 VARIOS",TELEMUNDO MEXICO
+http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52601.m3u8
+
+
+
+#EXTINF:-1 group-title="24/7.0",24/7 La Casa de los Famosos
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/368271.ts
+#EXTINF:-1 group-title="24/7.0",La Casa de los Famosos cam 1
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/368267.ts
+#EXTINF:-1 group-title="24/7.0",Alerta Aeropuerto SD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/323271.ts
+#EXTINF:-1 group-title="24/7.0",Alerta Aeropuerto HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/327729.ts
+#EXTINF:-1 group-title="24/7.0",Mayday Catastrofes Aereas
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25178.ts
+#EXTINF:-1 group-title="24/7.0",Misterios sin Resolver HD (1987)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/451899.ts
+#EXTINF:-1 group-title="24/7.0",Los Simpsons Noche de Brujas SD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24602.ts
+#EXTINF:-1 group-title="24/7.0",Los Simpsons Noche de Brujas HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/86123.ts
+#EXTINF:-1 group-title="24/7.0",Los Simpsons Noche de Brujas FHD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/86124.ts
+#EXTINF:-1 group-title="24/7.0",Los Simpsons Temp 1-5
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24661.ts
+#EXTINF:-1 group-title="24/7.0",Los Simpsons Temp 6-10
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/102338.ts
+#EXTINF:-1 group-title="24/7.0",Los Simpsons Temp 11-15
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/102703.ts
+#EXTINF:-1 group-title="24/7.0",Los Simpsons HD
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/40858.ts
+#EXTINF:-1 group-title="24/7.0",Transformers Armada
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93724.ts
+#EXTINF:-1 group-title="24/7.0",Transformers Cybertron
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93725.ts
+#EXTINF:-1 group-title="24/7.0",Transformers Energon
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93726.ts
+#EXTINF:-1 group-title="24/7.0",Transformers G1
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93727.ts
+#EXTINF:-1 group-title="24/7.0",Transformers Headmasters
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93728.ts
+#EXTINF:-1 group-title="24/7.0",Transformers Mastersforce (1988)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24613.ts
+#EXTINF:-1 group-title="24/7.0",La Pantera Rosa
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24674.ts
+#EXTINF:-1 group-title="24/7.0",Garfield
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25127.ts
+#EXTINF:-1 group-title="24/7.0",El Chavo del 8 Serie Animada
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25128.ts
+#EXTINF:-1 group-title="24/7.0",Hey Arnold
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25130.ts
+#EXTINF:-1 group-title="24/7.0",Hombres de Negro Serie Animada
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25131.ts
+#EXTINF:-1 group-title="24/7.0",Los Pitufos
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25132.ts
+#EXTINF:-1 group-title="24/7.0",She-Ra La Princesa del Poder
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25137.ts
+#EXTINF:-1 group-title="24/7.0",Capitan America y Los Planetarios
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25138.ts
+#EXTINF:-1 group-title="24/7.0",Tom Y Jerry
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25140.ts
+#EXTINF:-1 group-title="24/7.0",Tom Y Jerry Kids
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25141.ts
+#EXTINF:-1 group-title="24/7.0",Pato Aventura
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25142.ts
+#EXTINF:-1 group-title="24/7.0",Las Tortugas Ninja
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25147.ts
+#EXTINF:-1 group-title="24/7.0",Angry Birds Toons
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25148.ts
+#EXTINF:-1 group-title="24/7.0",Birdman
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25157.ts
+#EXTINF:-1 group-title="24/7.0",Spiderman
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25159.ts
+#EXTINF:-1 group-title="24/7.0",Super Mario Bross 3
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25160.ts
+#EXTINF:-1 group-title="24/7.0",Super Campeones (Captain Tsubasa)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25161.ts
+#EXTINF:-1 group-title="24/7.0",Los Castores Cascarrabias
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25169.ts
+#EXTINF:-1 group-title="24/7.0",Gi Joe
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25177.ts
+#EXTINF:-1 group-title="24/7.0",Jhonny Bravo
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25220.ts
+#EXTINF:-1 group-title="24/7.0",Scooby Doo
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26412.ts
+#EXTINF:-1 group-title="24/7.0",Don Gato y su Pandilla
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26432.ts
+#EXTINF:-1 group-title="24/7.0",Gasparin y sus Amigos
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26435.ts
+#EXTINF:-1 group-title="24/7.0",Los Supersonicos
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26583.ts
+#EXTINF:-1 group-title="24/7.0",Inspector Gadget
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26584.ts
+#EXTINF:-1 group-title="24/7.0",Los Vengadores (Unidos)
+http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26594.ts
