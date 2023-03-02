@@ -62,8 +62,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59133
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 
 
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL Channel HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140160
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://txm.flysat.live:2089/152018884933620/152021106724749/198368
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
@@ -539,12 +537,6 @@ http://176.57.50.167:25461/557496/064121/86054
 http://176.57.50.167:25461/557496/064121/87232
 #EXTINF:-1 group-title="3.9.6 NBA",NBA Inside the NBA
 http://176.57.50.167:25461/557496/064121/87235
-#EXTINF:-1 group-title="3.9.6 NBA",NBA Detroit Pistons Boston Celtics
-http://176.57.50.167:25461/557496/064121/87236
-#EXTINF:-1 group-title="3.9.6 NBA",NBA Miami Heat Brooklyn Nets
-http://176.57.50.167:25461/557496/064121/87237
-#EXTINF:-1 group-title="3.9.6 NBA",NBA Utah Jazz Memphis Grizzlies
-http://176.57.50.167:25461/557496/064121/87238
 #EXTINF:-1 group-title="3.9.6 NBA",NBA Houston Rockets Oklahoma City Thunder
 http://176.57.50.167:25461/557496/064121/87239
 #EXTINF:-1 group-title="3.9.6 NBA",NBA Dallas Mavericks Denver Nuggets
@@ -733,8 +725,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59133
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 
 
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL Channel HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140160
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://txm.flysat.live:2089/152018884933620/152021106724749/198368
 
@@ -1778,8 +1768,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/273153.ts
 #EXTINF:-1 group-title="24/7",COYOTE & CORRE CAMINO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85872.ts
-#EXTINF:-1 group-title="24/7",DON GATO Y SU PANDILLA
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87417.ts
 #EXTINF:-1 group-title="24/7",EL CHAVO DEL OCHO 1
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87395.ts
 #EXTINF:-1 group-title="24/7",EL CHAVO DEL OCHO 2
@@ -2298,8 +2286,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/273153.ts
 #EXTINF:-1 group-title="24/7",COYOTE & CORRE CAMINO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85872.ts
-#EXTINF:-1 group-title="24/7",DON GATO Y SU PANDILLA
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87417.ts
 #EXTINF:-1 group-title="24/7",EL CHAVO DEL OCHO 1
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87395.ts
 #EXTINF:-1 group-title="24/7",EL CHAVO DEL OCHO 2
@@ -3192,8 +3178,6 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1074
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86988
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 2 HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86989
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 2 FHD (MX)
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1075
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 3 (MX)
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1078
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 1 mx
@@ -3254,8 +3238,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/90175
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86974
 #EXTINF:-1 group-title="CINEMAX 1",Cinemax
 http://181.225.101.144:9000/play/a031/index.m3u8
-#EXTINF:-1 group-title="CINEMAX 1",CINEMAX
-http://mains.services:2086/0776777761/4665816537/92613
 
 
 
@@ -3267,8 +3249,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87435
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86872
 #EXTINF:-1 group-title="CARTOON NETWORK 1",CARTOON NETWORK
 http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0IXOz3gdaHr7uvcAaaSKAwM/ts
-#EXTINF:-1 group-title="CARTOON NETWORK 1",Cartoon Network
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0NXyzzl5oBmeAHQXlct9q1I/ts
 #EXTINF:-1 group-title="CARTOON NETWORK 1",Cartoon Network HD
 http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0PO0GZB3DYbNmPIHe4j3t4I/ts
 #EXTINF:-1 group-title="CARTOON NETWORK 1",Cartoon Network
@@ -3370,10 +3350,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86850
 http://181.225.101.144:9000/play/a007/index.m3u8
 #EXTINF:-1 group-title="CINECANAL 1",Cinecanal HD (MX)
 http://main-paneltv.com:8080/Tony/Tony/278780
-
-
-#EXTINF:-1 group-title="TNT SPORTS 1",TNT SPORTS HD MX
-http://main-paneltv.com:8080/Tony/Tony/279041
 
 
 #EXTINF:-1 group-title="ALF 1",Alf
