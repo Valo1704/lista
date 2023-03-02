@@ -516,22 +516,12 @@ http://176.57.50.167:25461/557496/064121/83045
 http://176.57.50.167:25461/557496/064121/86042
 #EXTINF:-1 group-title="2.9.2 NBA",Philadelphia vs Dallas Mavericks
 http://176.57.50.167:25461/557496/064121/86043
-#EXTINF:-1 group-title="2.9.2 NBA",Los Angeles Clippers vs Golden State Warriors
-http://176.57.50.167:25461/557496/064121/86045
-#EXTINF:-1 group-title="2.9.2 NBA",NBA LP05
-http://176.57.50.167:25461/557496/064121/86046
 #EXTINF:-1 group-title="2.9.2 NBA",NBA LP06
 http://176.57.50.167:25461/557496/064121/86047
-#EXTINF:-1 group-title="2.9.2 NBA",NBA LP 08
-http://176.57.50.167:25461/557496/064121/86049
 #EXTINF:-1 group-title="2.9.2 NBA",NBA LP 09
 http://176.57.50.167:25461/557496/064121/86050
 #EXTINF:-1 group-title="2.9.2 NBA",NBA LP 10
 http://176.57.50.167:25461/557496/064121/86051
-#EXTINF:-1 group-title="2.9.2 NBA",NBA LP12
-http://176.57.50.167:25461/557496/064121/86053
-#EXTINF:-1 group-title="2.9.2 NBA",NBA LP13
-http://176.57.50.167:25461/557496/064121/86054
 
 
 #EXTINF:-1 group-title="2.9.3 NBA",NBA ATLANTA HAWKS
@@ -1728,11 +1718,6 @@ http://tv.nousiptv.com:8080/movie/Yonkers400/Marcela100/1148848.mkv
 
 
 
-
-#EXTINF:-1 group-title="ALF 24/7",alf 24/7
-http://odenfull.co:2086/Waltersoto03/Soto/39486
-
-
 #EXTINF:-1 group-title="ALF TEMP 1",ALF S01 E01
 http://fuzzyunicorns.net:80/series/laquitaevans3@gmail.com/laquitaevans3/619320.mkv
 #EXTINF:-1 group-title="ALF TEMP 1",ALF S01 E02
@@ -2562,25 +2547,6 @@ http://tv.nousiptv.com:8080/Yonkers400/Marcela100/46490
 #EXTINF:-1 group-title="24/7.1",LA VACA Y EL POLLITO
 http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1140316
 
-
-#EXTINF:-1 group-title="24/7.1.1",THUNDERCATS SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39498
-#EXTINF:-1 group-title="24/7.1.1",LA PANTERA ROSA SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39506
-#EXTINF:-1 group-title="24/7.1.1",GARFIELD Y SUS AMIGOS SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39508
-#EXTINF:-1 group-title="24/7.1.1",FENOMENOIDE SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39509
-#EXTINF:-1 group-title="24/7.1.1",DON GATO Y SU PANDILLA SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39511
-#EXTINF:-1 group-title="24/7.1.1",BIRDMAN SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39515
-#EXTINF:-1 group-title="24/7.1.1",GASPARIN Y SUS AMGOS SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39516
-#EXTINF:-1 group-title="24/7.1.1",HALCONES GALACTICOS SERIE COMPLETA SD 24/7.
-http://odenfull.co:2086/Waltersoto03/Soto/39548
-#EXTINF:-1 group-title="24/7.1.1",LOS PICAPIEDRAS SD
-http://odenfull.co:2086/Waltersoto03/Soto/132903
 
 
 #EXTINF:-1 group-title="24/7.1.2",CINEMA DISNEY PIXAR 2 HD
@@ -3507,8 +3473,6 @@ http://176.57.50.167:25461/557496/064121/22087
 http://176.57.50.167:25461/557496/064121/22197
 #EXTINF:-1 group-title="1 VARIOS",Music Choice Video
 http://176.57.50.167:25461/557496/064121/13738
-#EXTINF:-1 group-title="1 VARIOS",Az Clic
-http://176.57.50.167:25461/557496/064121/61717
 #EXTINF:-1 group-title="1 VARIOS",AZ Corazon
 http://176.57.50.167:25461/557496/064121/61718
 #EXTINF:-1 group-title="1 VARIOS",Az Corazon
@@ -3758,96 +3722,3 @@ http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52596.m3u8
 http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52600.m3u8
 #EXTINF:-1 group-title="1.2 VARIOS",TELEMUNDO MEXICO
 http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52601.m3u8
-
-
-
-#EXTINF:-1 group-title="24/7.0",24/7 La Casa de los Famosos
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/368271.ts
-#EXTINF:-1 group-title="24/7.0",La Casa de los Famosos cam 1
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/368267.ts
-#EXTINF:-1 group-title="24/7.0",Alerta Aeropuerto SD
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/323271.ts
-#EXTINF:-1 group-title="24/7.0",Alerta Aeropuerto HD
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/327729.ts
-#EXTINF:-1 group-title="24/7.0",Mayday Catastrofes Aereas
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25178.ts
-#EXTINF:-1 group-title="24/7.0",Misterios sin Resolver HD (1987)
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/451899.ts
-#EXTINF:-1 group-title="24/7.0",Los Simpsons Noche de Brujas SD
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24602.ts
-#EXTINF:-1 group-title="24/7.0",Los Simpsons Noche de Brujas HD
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/86123.ts
-#EXTINF:-1 group-title="24/7.0",Los Simpsons Noche de Brujas FHD
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/86124.ts
-#EXTINF:-1 group-title="24/7.0",Los Simpsons Temp 1-5
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24661.ts
-#EXTINF:-1 group-title="24/7.0",Los Simpsons Temp 6-10
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/102338.ts
-#EXTINF:-1 group-title="24/7.0",Los Simpsons Temp 11-15
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/102703.ts
-#EXTINF:-1 group-title="24/7.0",Los Simpsons HD
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/40858.ts
-#EXTINF:-1 group-title="24/7.0",Transformers Armada
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93724.ts
-#EXTINF:-1 group-title="24/7.0",Transformers Cybertron
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93725.ts
-#EXTINF:-1 group-title="24/7.0",Transformers Energon
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93726.ts
-#EXTINF:-1 group-title="24/7.0",Transformers G1
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93727.ts
-#EXTINF:-1 group-title="24/7.0",Transformers Headmasters
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/93728.ts
-#EXTINF:-1 group-title="24/7.0",Transformers Mastersforce (1988)
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24613.ts
-#EXTINF:-1 group-title="24/7.0",La Pantera Rosa
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/24674.ts
-#EXTINF:-1 group-title="24/7.0",Garfield
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25127.ts
-#EXTINF:-1 group-title="24/7.0",El Chavo del 8 Serie Animada
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25128.ts
-#EXTINF:-1 group-title="24/7.0",Hey Arnold
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25130.ts
-#EXTINF:-1 group-title="24/7.0",Hombres de Negro Serie Animada
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25131.ts
-#EXTINF:-1 group-title="24/7.0",Los Pitufos
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25132.ts
-#EXTINF:-1 group-title="24/7.0",She-Ra La Princesa del Poder
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25137.ts
-#EXTINF:-1 group-title="24/7.0",Capitan America y Los Planetarios
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25138.ts
-#EXTINF:-1 group-title="24/7.0",Tom Y Jerry
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25140.ts
-#EXTINF:-1 group-title="24/7.0",Tom Y Jerry Kids
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25141.ts
-#EXTINF:-1 group-title="24/7.0",Pato Aventura
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25142.ts
-#EXTINF:-1 group-title="24/7.0",Las Tortugas Ninja
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25147.ts
-#EXTINF:-1 group-title="24/7.0",Angry Birds Toons
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25148.ts
-#EXTINF:-1 group-title="24/7.0",Birdman
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25157.ts
-#EXTINF:-1 group-title="24/7.0",Spiderman
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25159.ts
-#EXTINF:-1 group-title="24/7.0",Super Mario Bross 3
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25160.ts
-#EXTINF:-1 group-title="24/7.0",Super Campeones (Captain Tsubasa)
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25161.ts
-#EXTINF:-1 group-title="24/7.0",Los Castores Cascarrabias
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25169.ts
-#EXTINF:-1 group-title="24/7.0",Gi Joe
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25177.ts
-#EXTINF:-1 group-title="24/7.0",Jhonny Bravo
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/25220.ts
-#EXTINF:-1 group-title="24/7.0",Scooby Doo
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26412.ts
-#EXTINF:-1 group-title="24/7.0",Don Gato y su Pandilla
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26432.ts
-#EXTINF:-1 group-title="24/7.0",Gasparin y sus Amigos
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26435.ts
-#EXTINF:-1 group-title="24/7.0",Los Supersonicos
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26583.ts
-#EXTINF:-1 group-title="24/7.0",Inspector Gadget
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26584.ts
-#EXTINF:-1 group-title="24/7.0",Los Vengadores (Unidos)
-http://megatitan.net:8080/live/KTTS4OSGGU/LW7KTGKAEZ/26594.ts
