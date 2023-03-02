@@ -405,8 +405,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78486
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78489
 #EXTINF:-1 group-title="3 NBA",NBA ON TNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
-#EXTINF:-1 group-title="3 NBA",NBA TV SD
-http://185.156.74.135:80/universal123/universal123/1284155.ts
 #EXTINF:-1 group-title="3 NBA",NBA HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94135.ts
 #EXTINF:-1 group-title="3 NBA",NBA TV
@@ -921,8 +919,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78492
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78496
 #EXTINF:-1 group-title="3 NBA",NBA ON TNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
-#EXTINF:-1 group-title="3 NBA",NBA TV SD
-http://185.156.74.135:80/universal123/universal123/1284155.ts
 #EXTINF:-1 group-title="3 NBA",NBA HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94135.ts
 #EXTINF:-1 group-title="3 NBA",NBA TV
@@ -2398,8 +2394,6 @@ http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230093
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230097
 #EXTINF:-1 group-title="24/7.1.2",Batman del Futuro
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230103
-#EXTINF:-1 group-title="24/7.1.2",Beetle Juice
-http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230105
 #EXTINF:-1 group-title="24/7.1.2",Bob Esponja 1-6
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230112
 #EXTINF:-1 group-title="24/7.1.2",Bob Esponja 7 -12
@@ -2450,8 +2444,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/114291
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130495
 #EXTINF:-1 group-title="24/7.1.4",Batman del Futuro
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130565
-#EXTINF:-1 group-title="24/7.1.4",Beetle Juice
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130568
 #EXTINF:-1 group-title="24/7.1.4",Birdman
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130573
 #EXTINF:-1 group-title="24/7.1.4",Bob Esponja 1-6
@@ -2716,8 +2708,6 @@ http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9936
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13834
 #EXTINF:-1 group-title="24/7.1.8",CANTINFLAS
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13836
-#EXTINF:-1 group-title="24/7.1.8",Chespirito
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13837
 #EXTINF:-1 group-title="24/7.1.8",Coraje el Perro Cobarde
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13838
 #EXTINF:-1 group-title="24/7.1.8",Dinosaurios
@@ -2846,8 +2836,6 @@ http://192.99.70.160:25461/jona123/jona123/91048
 http://192.99.70.160:25461/jona123/jona123/91054
 #EXTINF:-1 group-title="ESPN 1",MX HD
 http://main-paneltv.com:8080/Tony/Tony/279143
-#EXTINF:-1 group-title="ESPN 1",Espn 1
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0ItvzS6bAaLg8ZumQ97eGrw/ts
 #EXTINF:-1 group-title="ESPN 1",ESPN
 http://181.225.101.144:9000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="ESPN 1",MX HD
@@ -2872,26 +2860,14 @@ http://181.225.101.144:9000/play/a026/index.m3u8
 http://192.99.70.160:25461/jona123/jona123/91049
 #EXTINF:-1 group-title="ESPN 1",ESPN 2 MX
 http://192.99.70.160:25461/jona123/jona123/91055
-#EXTINF:-1 group-title="ESPN 1",ESPN 2 SD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0OCczUBxXoHHSeuUPV5FBB0/ts
 #EXTINF:-1 group-title="ESPN 1",ESPN 3
 http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/437989
-#EXTINF:-1 group-title="ESPN 1",ESPN 3
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Gk9QSdK1X89PvzjCQTKwzY/ts
 #EXTINF:-1 group-title="ESPN 1",ESPN 3 MX
 http://192.99.70.160:25461/jona123/jona123/91050
 #EXTINF:-1 group-title="ESPN 1",ESPN 3 MX
 http://192.99.70.160:25461/jona123/jona123/91056
 #EXTINF:-1 group-title="ESPN 1",ESPN 3
 http://192.99.70.160:25461/jona123/jona123/91045
-#EXTINF:-1 group-title="ESPN 1",ESPN 3 SD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0M5Su2vz1mcvu3tGB0_WzXU/ts
-#EXTINF:-1 group-title="ESPN 1",ESPN 3 FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Obk2zIP6-jwZlxOQ2pV01s/ts
-
-
-#EXTINF:-1 group-title="ESPN PREMIUM 1",ESPN PREMIUM
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0PL2kxCoVLwYyyIeD2UnvX8/ts
 
 
 #EXTINF:-1 group-title="ESPN DEPORTES 1",ESPN Deportes
@@ -2941,12 +2917,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87041
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87042
 #EXTINF:-1 group-title="HBO 1",HBO 2 HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87045
-#EXTINF:-1 group-title="HBO 1",HBO Latinoamérica
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Gsevc6IX8M9ED5XxKQhApc/ts
-#EXTINF:-1 group-title="HBO 1",HBO + Latinoamerica
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0MKjyOaPH_Ocz0v0ohMsq0Q/ts
-#EXTINF:-1 group-title="HBO 1",HBO POP
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Nj7tldwpuq4AQJDCSgwCeI/ts
 #EXTINF:-1 group-title="HBO 1",HBO POP HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87016
 
@@ -2961,8 +2931,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/163307
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87021
 #EXTINF:-1 group-title="2.0 LAS ESTRELLAS",Las Estrellas HD
 http://main-paneltv.com:8080/Tony/Tony/408514
-#EXTINF:-1 group-title="2.0 LAS ESTRELLAS",Las Estrellas FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0PT9r_eBz7BIQQp0IXDJAdg/ts
 #EXTINF:-1 group-title="2.0 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS -2HRS HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86996
 #EXTINF:-1 group-title="2.0 LAS ESTRELLAS",Las Estrellas -2 Horas HD
@@ -2978,8 +2946,6 @@ http://185.209.15.152:37500/riad2023/riad2023/103651
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86982
 #EXTINF:-1 group-title="STAR CHANNEL 1",FOX
 http://192.99.70.160:25461/jona123/jona123/91100
-#EXTINF:-1 group-title="STAR CHANNEL 1",STAR CHANNEL
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0CXcnPRH2YN0y0eoWliU8gw/ts
 #EXTINF:-1 group-title="STAR CHANNEL 1",STAR CHANNEL
 http://181.225.101.144:9000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="STAR CHANNEL 1",Star Channel HD MX
@@ -3005,8 +2971,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87013
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86868
 #EXTINF:-1 group-title="UNIVERSAL 1",Universal
 http://181.225.101.144:9000/play/a008/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL 1",Universal TV
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0AZf9L1nrraSHxnaX1bYaZc/ts
 #EXTINF:-1 group-title="UNIVERSAL 1",Universal Channel
 http://192.99.70.160:25461/jona123/jona123/91114
 #EXTINF:-1 group-title="UNIVERSAL 1",Universal Crime
@@ -3015,8 +2979,6 @@ http://192.99.70.160:25461/jona123/jona123/91101
 http://192.99.70.160:25461/jona123/jona123/91102
 #EXTINF:-1 group-title="UNIVERSAL 1",Universal Premier
 http://192.99.70.160:25461/jona123/jona123/91103
-#EXTINF:-1 group-title="UNIVERSAL 1",Studio Universal FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Nd5F4QGa1AKeVjAPN2QywQ/ts
 #EXTINF:-1 group-title="UNIVERSAL 1",Studio Universal HD (MX)
 http://main-paneltv.com:8080/Tony/Tony/278777
 #EXTINF:-1 group-title="UNIVERSAL 1",Studio Universal HD (MX)
@@ -3058,34 +3020,13 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87630
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87631
 #EXTINF:-1 group-title="STARZ 1",STARZ ENCORE EN ESPANOL  HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87632
-#EXTINF:-1 group-title="STARZ 1",Starz Cinema  FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0BPjAfpg8Gleam2t4GrLNNY/ts
-#EXTINF:-1 group-title="STARZ 1",Starz Cinema FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0NlQNoJ6-Los_Pc7VPKbe-8/ts
-#EXTINF:-1 group-title="STARZ 1",Starz East
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0ME-EASiYC7ZmD-uNXD0Fm0/ts
-#EXTINF:-1 group-title="STARZ 1",Starz West
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0LuKJhHGhNpxyOLkCu07pJs/ts
-#EXTINF:-1 group-title="STARZ 1",Starz Encore Western
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0GdAtQ1CXLWXsrkJCrK7vd8/ts
-#EXTINF:-1 group-title="STARZ 1",Starz Encore Suspense
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0MjCOwdh0KzxunCbK4ip4M0/ts
-#EXTINF:-1 group-title="STARZ 1",Starz Encore Classic
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0IF4jFnjBiBygPqTCZjs0F4/ts
-#EXTINF:-1 group-title="STARZ 1",Starz Encore Black
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Dzedir7fnitGRRQJMkiOzU/ts
-#EXTINF:-1 group-title="STARZ 1",STARZ EDGE
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0A9NxfIjQDFuQkgaCnAyoJ4/ts
-#EXTINF:-1 group-title="STARZ 1",Starz Kids & Family
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0KjOFc7MRuyOz1dXSiWObZc/ts
 
 
 #EXTINF:-1 group-title="SPACE 1",SPACE HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87006
 #EXTINF:-1 group-title="SPACE 1",Space
 http://192.99.70.160:25461/jona123/jona123/91107
-#EXTINF:-1 group-title="SPACE 1",Space FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0I5l38SBadGdQG60WFkNIjY/ts
+
 #EXTINF:-1 group-title="SPACE 1",Space
 http://181.225.101.144:9000/play/a034/index.m3u8
 
@@ -3094,9 +3035,6 @@ http://181.225.101.144:9000/play/a034/index.m3u8
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87007
 #EXTINF:-1 group-title="SYFY 1",SyFy
 http://192.99.70.160:25461/jona123/jona123/91109
-#EXTINF:-1 group-title="SYFY 1",SYFY HD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0HXLjFX6NFasqXn7cV14Vpk/ts
-
 
 
 #EXTINF:-1 group-title="TNT 1",TNT  FHD
@@ -3130,8 +3068,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87014
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86870
 #EXTINF:-1 group-title="WARNER 1",Warner
 http://192.99.70.160:25461/jona123/jona123/91115
-#EXTINF:-1 group-title="WARNER 1",Warner Bros FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0AMcMSlaYXupoDpIR-ZKvUM/ts
 #EXTINF:-1 group-title="WARNER 1",Warner
 http://181.225.101.144:9000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="WARNER 1",Warner HD (MX)
@@ -3180,8 +3116,7 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86988
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86989
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 3 (MX)
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1078
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 1 mx
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0MTrEqXwGCbyoxUWLmO6-qg/ts
+
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 2 MX HD
 http://main-paneltv.com:8080/Tony/Tony/279068
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 2
@@ -3192,12 +3127,6 @@ http://181.225.101.144:9000/play/a01s/index.m3u8
 
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM 1",FOX SPORTS PREMIUM MX HD
 http://main-paneltv.com:8080/Tony/Tony/279062
-
-
-#EXTINF:-1 group-title="FOX SPORTS SUR 1",Fox Sports 1 col
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0ANTWzlo0LcbWPqudqrlhxU/ts
-#EXTINF:-1 group-title="FOX SPORTS SUR 1",Fox Sports 1 sur
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0MD5s53RbpSvDXwtdw7PZ-I/ts
 
 
 #EXTINF:-1 group-title="AFFIZZIONADOS 1",Affizionados
@@ -3212,8 +3141,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87111
 http://192.99.70.160:25461/jona123/jona123/91637
 #EXTINF:-1 group-title="TUDN 1",TUDN
 http://192.99.70.160:25461/jona123/jona123/91662
-#EXTINF:-1 group-title="TUDN 1",Univision TDN
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0AcCsj0tS81TTxqdHUXX8fM/ts
 #EXTINF:-1 group-title="TUDN 1",TUDN FHD (MX)
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1400
 #EXTINF:-1 group-title="TUDN 1",TUDN HD (MX)
@@ -3224,10 +3151,6 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1401
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86971
 #EXTINF:-1 group-title="BOOMERANG 1",Boomerang
 http://192.99.70.160:25461/jona123/jona123/91683
-#EXTINF:-1 group-title="BOOMERANG 1",Boomerang
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Ogql0arL-X4rNGnSodk0_o/ts
-#EXTINF:-1 group-title="BOOMERANG 1",Boomerang
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0I_WvMIZt8o8fpjWN7TxPE4/ts
 #EXTINF:-1 group-title="BOOMERANG 1",CARTOONITO
 http://181.225.101.144:9000/play/a050/index.m3u8
 
@@ -3278,14 +3201,6 @@ http://192.99.70.160:25461/jona123/jona123/91686
 
 #EXTINF:-1 group-title="MUSICA 1",MTV HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86999
-#EXTINF:-1 group-title="MUSICA 1",HTV
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0OKoQnVPnTlcgVsGratAqrI/ts
-#EXTINF:-1 group-title="MUSICA 1",MTV Classic
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0HW3SXjojWggAYrlTjWlqx4/ts
-#EXTINF:-1 group-title="MUSICA 1",VH1 FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0BjOUMEkJzqBPM4x1JvLP3U/ts
-#EXTINF:-1 group-title="MUSICA 1",VH1 FHD
-http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0JKswwSN7IQCMWsGQvwQUSo/ts
 
 
 
