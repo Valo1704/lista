@@ -499,6 +499,34 @@ http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51006.m3u8
 http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51007.m3u8
 
 
+#EXTINF:-1 group-title="2.9.2 NBA",NBCSWA Feed
+http://176.57.50.167:25461/557496/064121/83043
+#EXTINF:-1 group-title="2.9.1 NBA",TNT Feed
+http://176.57.50.167:25461/557496/064121/83044
+#EXTINF:-1 group-title="2.9.1 NBA",TNT Feed
+http://176.57.50.167:25461/557496/064121/83045
+#EXTINF:-1 group-title="2.9.1 NBA",Toronto Raptors vs Washington Wizards
+http://176.57.50.167:25461/557496/064121/86042
+#EXTINF:-1 group-title="2.9.1 NBA",Philadelphia vs Dallas Mavericks
+http://176.57.50.167:25461/557496/064121/86043
+#EXTINF:-1 group-title="2.9.1 NBA",Los Angeles Clippers vs Golden State Warriors
+http://176.57.50.167:25461/557496/064121/86045
+#EXTINF:-1 group-title="2.9.1 NBA",NBA LP05
+http://176.57.50.167:25461/557496/064121/86046
+#EXTINF:-1 group-title="2.9.1 NBA",NBA LP06
+http://176.57.50.167:25461/557496/064121/86047
+#EXTINF:-1 group-title="2.9.1 NBA",NBA LP 08
+http://176.57.50.167:25461/557496/064121/86049
+#EXTINF:-1 group-title="2.9.1 NBA",NBA LP 09
+http://176.57.50.167:25461/557496/064121/86050
+#EXTINF:-1 group-title="2.9.1 NBA",NBA LP 10
+http://176.57.50.167:25461/557496/064121/86051
+#EXTINF:-1 group-title="2.9.1 NBA",NBA LP12
+http://176.57.50.167:25461/557496/064121/86053
+#EXTINF:-1 group-title="2.9.1 NBA",NBA LP13
+http://176.57.50.167:25461/557496/064121/86054
+
+
 
 #EXTINF:-1 group-title="3 NBA",New Orleans Pelicans
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78483
@@ -1318,6 +1346,8 @@ http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/69796
 http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/10774.m3u8
 #EXTINF:-1 group-title="1.0 AMERICA TV",AMERICA
 http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/10774.m3u8
+#EXTINF:-1 group-title="1.0 AMERICA TV",America TV HD
+http://176.57.50.167:25461/557496/064121/85837
 
 
 #EXTINF:-1 group-title="1.1 AMERICA TV",AMERICA TV FHD
