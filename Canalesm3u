@@ -1,9 +1,5 @@
-#EXTINF:-1 group-title="HBO",HBO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198413
 #EXTINF:-1 group-title="HBO",HBO LATINO R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
-#EXTINF:-1 group-title="HBO",HBO ESTE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198408
 #EXTINF:-1 group-title="HBO",HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
 #EXTINF:-1 group-title="HBO",HBO HD IN
@@ -19,8 +15,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 #EXTINF:-1 group-title="HBO",HBO 2 HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 #EXTINF:-1 group-title="HBO",HBO PLUS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198411
-#EXTINF:-1 group-title="HBO",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="HBO",HBO Plus SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
@@ -30,8 +24,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87463
 http://iptvglobal.site:25461/rrtv/rrtv12345/131117
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
-#EXTINF:-1 group-title="HBO",HBO FAMILY
-http://txm.flysat.live:2089/152018884933620/152021106724749/198410
 #EXTINF:-1 group-title="HBO",HBO Family SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60992
 #EXTINF:-1 group-title="HBO",Hbo Family
@@ -40,8 +32,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131118
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 #EXTINF:-1 group-title="HBO",HBO FAMILY R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198409
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
@@ -62,8 +52,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59133
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 
 
-#EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198368
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59061
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL HD
@@ -92,8 +80,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
 
 
-#EXTINF:-1 group-title="CINECANAL",CINECANAL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198377
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
 http://iptvglobal.site:25461/rrtv/rrtv12345/87436
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
@@ -104,46 +90,11 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59082
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 
 
-#EXTINF:-1 group-title="AXN",AXN
-http://txm.flysat.live:2089/152018884933620/152021106724749/198386
-
-
-#EXTINF:-1 group-title="TNT",TNT
-http://txm.flysat.live:2089/152018884933620/152021106724749/198365
-#EXTINF:-1 group-title="TNT",TNT SERIES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198366
-
-
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY HOME&HEALTH
-http://txm.flysat.live:2089/152018884933620/152021106724749/198333
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY CHANNEL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198335
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY INVESTIGATION
-http://txm.flysat.live:2089/152018884933620/152021106724749/198334
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY TURBO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198331
-
-
-#EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198332
-
-
-#EXTINF:-1 group-title="ANIMAL PLANET",ANIMAL PLANET
-http://txm.flysat.live:2089/152018884933620/152021106724749/198328
-
 
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59119
-#EXTINF:-1 group-title="STAR CHANNEL",FOX
-http://txm.flysat.live:2089/152018884933620/152021106724749/198393
-#EXTINF:-1 group-title="STAR CHANNEL",FOX ACTION
-http://txm.flysat.live:2089/152018884933620/152021106724749/198392
-#EXTINF:-1 group-title="STAR CHANNEL",FOX PREMIUM FAMILY
-http://txm.flysat.live:2089/152018884933620/152021106724749/198403
 #EXTINF:-1 group-title="STAR CHANNEL",STAR SERIES HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59071
-#EXTINF:-1 group-title="STAR CHANNEL",FOX PREMIUM SERIES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198402
 #EXTINF:-1 group-title="STAR CHANNEL",STAR HITS HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59072
 #EXTINF:-1 group-title="STAR CHANNEL",STAR FUN HD
@@ -152,18 +103,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59073
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59074
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CLASSIC HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59075
-#EXTINF:-1 group-title="STAR CHANNEL",FOX CLASSIC
-http://txm.flysat.live:2089/152018884933620/152021106724749/198390
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CINEMA HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59076
-#EXTINF:-1 group-title="STAR CHANNEL",FOX CINEMA
-http://txm.flysat.live:2089/152018884933620/152021106724749/198391
-#EXTINF:-1 group-title="STAR CHANNEL",FOX MOVIES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198388
 
 
-#EXTINF:-1 group-title="WARNER",WARNER CHANNEL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198374
 #EXTINF:-1 group-title="WARNER",WARNER
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 #EXTINF:-1 group-title="WARNER",Warner HD
@@ -174,8 +117,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59099
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
 
 
-#EXTINF:-1 group-title="FX",FX
-http://txm.flysat.live:2089/152018884933620/152021106724749/198394
 #EXTINF:-1 group-title="FX",FX SD (MX)
 #EXTINF:-1 group-title="FX",FX
 http://iptvglobal.site:25461/rrtv/rrtv12345/87458
@@ -185,8 +126,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
 
 
-#EXTINF:-1 group-title="SPACE",SPACE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198369
 #EXTINF:-1 group-title="SPACE",SPACE LATINO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59184
 #EXTINF:-1 group-title="SPACE",SPACE MEXICO
@@ -200,18 +139,12 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 
 
-#EXTINF:-1 group-title="SYFY",SYFY
-http://txm.flysat.live:2089/152018884933620/152021106724749/198395
-
 
 #EXTINF:-1 group-title="CINEMAX",CINEMAX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59079
 #EXTINF:-1 group-title="CINEMAX",CINEMAX HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140158
 
-
-#EXTINF:-1 group-title="MULTIPREMIER",MULTIPREMIER
-http://txm.flysat.live:2089/152018884933620/152021106724749/198376
 
 
 #EXTINF:-1 group-title="UNIVERSO",UNIVERSO EAST
@@ -847,8 +780,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48998.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
 
 
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORT
-http://txm.flysat.live:2089/152018884933620/152021106724749/198320
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1  (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD (SUR)
@@ -867,12 +798,8 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-#EXTINF:-1 group-title="HBO",HBO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198413
 #EXTINF:-1 group-title="HBO",HBO LATINO R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
-#EXTINF:-1 group-title="HBO",HBO ESTE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198408
 #EXTINF:-1 group-title="HBO",HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
 #EXTINF:-1 group-title="HBO",HBO HD IN
@@ -888,8 +815,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 #EXTINF:-1 group-title="HBO",HBO 2 HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 #EXTINF:-1 group-title="HBO",HBO PLUS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198411
-#EXTINF:-1 group-title="HBO",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="HBO",HBO Plus SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
@@ -899,8 +824,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87463
 http://iptvglobal.site:25461/rrtv/rrtv12345/131117
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
-#EXTINF:-1 group-title="HBO",HBO FAMILY
-http://txm.flysat.live:2089/152018884933620/152021106724749/198410
 #EXTINF:-1 group-title="HBO",HBO Family SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60992
 #EXTINF:-1 group-title="HBO",Hbo Family
@@ -909,8 +832,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131118
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 #EXTINF:-1 group-title="HBO",HBO FAMILY R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198409
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
@@ -930,9 +851,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59133
 #EXTINF:-1 group-title="HBO",HBO MUNDI HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 
-
-#EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198368
 
 #EXTINF:-1 group-title="UNIVERSAL",STUDIO UNIVERSAL
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59061
@@ -960,8 +878,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140163
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 
 
-#EXTINF:-1 group-title="CINECANAL",CINECANAL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198377
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
 http://iptvglobal.site:25461/rrtv/rrtv12345/87436
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
@@ -972,46 +888,11 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59082
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 
 
-#EXTINF:-1 group-title="AXN",AXN
-http://txm.flysat.live:2089/152018884933620/152021106724749/198386
-
-
-#EXTINF:-1 group-title="TNT",TNT
-http://txm.flysat.live:2089/152018884933620/152021106724749/198365
-#EXTINF:-1 group-title="TNT",TNT SERIES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198366
-
-
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY HOME&HEALTH
-http://txm.flysat.live:2089/152018884933620/152021106724749/198333
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY CHANNEL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198335
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY INVESTIGATION
-http://txm.flysat.live:2089/152018884933620/152021106724749/198334
-#EXTINF:-1 group-title="DISCOVERY",DISCOVERY TURBO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198331
-
-
-#EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198332
-
-
-#EXTINF:-1 group-title="ANIMAL PLANET",ANIMAL PLANET
-http://txm.flysat.live:2089/152018884933620/152021106724749/198328
-
 
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59119
-#EXTINF:-1 group-title="STAR CHANNEL",FOX
-http://txm.flysat.live:2089/152018884933620/152021106724749/198393
-#EXTINF:-1 group-title="STAR CHANNEL",FOX ACTION
-http://txm.flysat.live:2089/152018884933620/152021106724749/198392
-#EXTINF:-1 group-title="STAR CHANNEL",FOX PREMIUM FAMILY
-http://txm.flysat.live:2089/152018884933620/152021106724749/198403
 #EXTINF:-1 group-title="STAR CHANNEL",STAR SERIES HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59071
-#EXTINF:-1 group-title="STAR CHANNEL",FOX PREMIUM SERIES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198402
 #EXTINF:-1 group-title="STAR CHANNEL",STAR HITS HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59072
 #EXTINF:-1 group-title="STAR CHANNEL",STAR FUN HD
@@ -1020,18 +901,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59073
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59074
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CLASSIC HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59075
-#EXTINF:-1 group-title="STAR CHANNEL",FOX CLASSIC
-http://txm.flysat.live:2089/152018884933620/152021106724749/198390
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CINEMA HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59076
-#EXTINF:-1 group-title="STAR CHANNEL",FOX CINEMA
-http://txm.flysat.live:2089/152018884933620/152021106724749/198391
-#EXTINF:-1 group-title="STAR CHANNEL",FOX MOVIES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198388
 
 
-#EXTINF:-1 group-title="WARNER",WARNER CHANNEL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198374
 #EXTINF:-1 group-title="WARNER",WARNER
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 #EXTINF:-1 group-title="WARNER",Warner HD
@@ -1043,8 +916,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140181
 
 
 #EXTINF:-1 group-title="FX",FX
-http://txm.flysat.live:2089/152018884933620/152021106724749/198394
-#EXTINF:-1 group-title="FX",FX
 http://iptvglobal.site:25461/rrtv/rrtv12345/87458
 #EXTINF:-1 group-title="FX",FX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
@@ -1052,8 +923,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
 
 
-#EXTINF:-1 group-title="SPACE",SPACE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198369
 #EXTINF:-1 group-title="SPACE",SPACE LATINO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59184
 #EXTINF:-1 group-title="SPACE",SPACE MEXICO
@@ -1066,19 +935,11 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 
 
-#EXTINF:-1 group-title="SYFY",SYFY
-http://txm.flysat.live:2089/152018884933620/152021106724749/198395
-#EXTINF:-1 group-title="SYFY",SyFy FHD (MX)
-
-
 #EXTINF:-1 group-title="CINEMAX",CINEMAX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59079
 #EXTINF:-1 group-title="CINEMAX",CINEMAX HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140158
 
-
-#EXTINF:-1 group-title="MULTIPREMIER",MULTIPREMIER
-http://txm.flysat.live:2089/152018884933620/152021106724749/198376
 
 
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo West HH ESP
@@ -1218,8 +1079,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48998.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
 
 
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORT
-http://txm.flysat.live:2089/152018884933620/152021106724749/198320
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1  (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD (SUR)
@@ -1238,8 +1097,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORT 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198319
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/66643.ts
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
@@ -1292,8 +1149,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140280
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140281
 
 
-#EXTINF:-1 group-title="ESPN",ESPN
-http://txm.flysat.live:2089/152018884933620/152021106724749/198323
 #EXTINF:-1 group-title="ESPN",,ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 (MX)
@@ -1304,8 +1159,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
 #EXTINF:-1 group-title="ESPN",ESPN HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140203
-#EXTINF:-1 group-title="ESPN",ESPN 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198322
 #EXTINF:-1 group-title="ESPN",ESPN 2 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/88002.ts
 #EXTINF:-1 group-title="ESPN",ESPN 2 (MX)
@@ -1314,8 +1167,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82220.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48967.ts
 #EXTINF:-1 group-title="ESPN",ESPN 2 HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140204
-#EXTINF:-1 group-title="ESPN",ESPN 3
-http://txm.flysat.live:2089/152018884933620/152021106724749/198321
 #EXTINF:-1 group-title="ESPN",ESPN 3 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/102612.ts
 #EXTINF:-1 group-title="ESPN",ESPN 3 (MX)
@@ -1349,8 +1200,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94154.ts
 
 
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
-http://txm.flysat.live:2089/152018884933620/152021106724749/198341
-#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
@@ -1360,16 +1209,9 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
 http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 
 
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR
-http://txm.flysat.live:2089/152018884933620/152021106724749/198351
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
 
-
-#EXTINF:-1 group-title="NICKELODEON",NICK JR
-http://txm.flysat.live:2089/152018884933620/152021106724749/198350
-#EXTINF:-1 group-title="NICKELODEON",NICK 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198349
 
 
 #EXTINF:-1 group-title="TOONCAST",Tooncast
@@ -1379,8 +1221,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 
 
 #EXTINF:-1 group-title="AZTECA",AZTECA UNO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198383
-#EXTINF:-1 group-title="AZTECA",AZTECA UNO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
 #EXTINF:-1 group-title="AZTECA",AZTECA UNO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
@@ -1388,16 +1228,8 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61336
 #EXTINF:-1 group-title="AZTECA",AZTECA UNO -2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
-#EXTINF:-1 group-title="AZTECA",AZTECA 7
-http://txm.flysat.live:2089/152018884933620/152021106724749/198381
 #EXTINF:-1 group-title="AZTECA",Azteca 7 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
-#EXTINF:-1 group-title="AZTECA",AZTECA CINEMA
-http://txm.flysat.live:2089/152018884933620/152021106724749/198380
-#EXTINF:-1 group-title="AZTECA",AZTECA CORAZON
-http://txm.flysat.live:2089/152018884933620/152021106724749/198379
-#EXTINF:-1 group-title="AZTECA",AZTECA CLIC
-http://txm.flysat.live:2089/152018884933620/152021106724749/198378
 
 
 #EXTINF:-1 group-title="1 AMERICA TV",AMERICA TV HD
@@ -1450,12 +1282,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/42952
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/55632
 #EXTINF:-1 group-title="1.1 AMERICA TV",AMERICA TV
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
-
-
-#EXTINF:-1 group-title="NOTICIAS",FORO TV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198429
-#EXTINF:-1 group-title="NOTICIAS",MILENIO TV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198424
 
 
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo! La Espada (2021)
@@ -1917,20 +1743,6 @@ http://fuzzyunicorns.net:80/series/laquitaevans3@gmail.com/laquitaevans3/619419.
 http://hidra.live:80/yhehteog/NeN02o7t1o/50628
 
 
-#EXTINF:-1 group-title="NOVELAS",PASIONES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198415
-#EXTINF:-1 group-title="NOVELAS",UNIVISION TELENOVELAS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198400
-#EXTINF:-1 group-title="NOVELAS",TELENOVELAS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198399
-
-
-#EXTINF:-1 group-title="NAT GEO",NAT GEO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198337
-#EXTINF:-1 group-title="NAT GEO",NAT GEO WILD
-http://txm.flysat.live:2089/152018884933620/152021106724749/198336
-
-
 #EXTINF:-1 group-title="PIXAR",VIP Cinema Disney Pixar FHD
 http://hidra.live:80/yhehteog/NeN02o7t1o/50579
 
@@ -2005,13 +1817,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85870.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/342704.ts
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORT 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198319
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/66643.ts
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 2
@@ -2055,8 +1860,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 
 
 #EXTINF:-1 group-title="TUDN",TUDN
-http://txm.flysat.live:2089/152018884933620/152021106724749/198318
-#EXTINF:-1 group-title="TUDN",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 #EXTINF:-1 group-title="TUDN",Zona TUDN US
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140279
@@ -2066,8 +1869,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140280
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140281
 
 
-#EXTINF:-1 group-title="ESPN",ESPN
-http://txm.flysat.live:2089/152018884933620/152021106724749/198323
 #EXTINF:-1 group-title="ESPN",,ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 (MX)
@@ -2078,16 +1879,12 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
 #EXTINF:-1 group-title="ESPN",ESPN HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140203
-#EXTINF:-1 group-title="ESPN",ESPN 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198322
 #EXTINF:-1 group-title="ESPN",ESPN 2 (MX)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82220.ts
 #EXTINF:-1 group-title="ESPN",ESPN 2 SUR
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48967.ts
 #EXTINF:-1 group-title="ESPN",ESPN 2 HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140204
-#EXTINF:-1 group-title="ESPN",ESPN 3
-http://txm.flysat.live:2089/152018884933620/152021106724749/198321
 #EXTINF:-1 group-title="ESPN",ESPN 3 HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302640
 #EXTINF:-1 group-title="ESPN",ESPN 3 (COL)
@@ -2119,8 +1916,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94154.ts
 
 
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
-http://txm.flysat.live:2089/152018884933620/152021106724749/198341
-#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
@@ -2130,20 +1925,9 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
 http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 
 
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198352
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR
-http://txm.flysat.live:2089/152018884933620/152021106724749/198351
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY JR HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
 
-
-#EXTINF:-1 group-title="NICKELODEON",NICK JR
-http://txm.flysat.live:2089/152018884933620/152021106724749/198350
-#EXTINF:-1 group-title="NICKELODEON",NICKELODEON
-http://txm.flysat.live:2089/152018884933620/152021106724749/198347
-#EXTINF:-1 group-title="NICKELODEON",NICK 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198349
 
 
 #EXTINF:-1 group-title="TOONCAST",Tooncast
@@ -2153,8 +1937,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 
 
 #EXTINF:-1 group-title="AZTECA",AZTECA UNO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198383
-#EXTINF:-1 group-title="AZTECA",AZTECA UNO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
 #EXTINF:-1 group-title="AZTECA",AZTECA UNO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
@@ -2162,22 +1944,9 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61336
 #EXTINF:-1 group-title="AZTECA",AZTECA UNO -2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
-#EXTINF:-1 group-title="AZTECA",AZTECA 7
-http://txm.flysat.live:2089/152018884933620/152021106724749/198381
 #EXTINF:-1 group-title="AZTECA",Azteca 7 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
-#EXTINF:-1 group-title="AZTECA",AZTECA CINEMA
-http://txm.flysat.live:2089/152018884933620/152021106724749/198380
-#EXTINF:-1 group-title="AZTECA",AZTECA CORAZON
-http://txm.flysat.live:2089/152018884933620/152021106724749/198379
-#EXTINF:-1 group-title="AZTECA",AZTECA CLIC
-http://txm.flysat.live:2089/152018884933620/152021106724749/198378
 
-
-#EXTINF:-1 group-title="NOTICIAS",FORO TV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198429
-#EXTINF:-1 group-title="NOTICIAS",MILENIO TV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198424
 
 
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo! La Espada (2021)
@@ -2423,20 +2192,6 @@ http://live.geoiptv.org:8880/movie/mateus1/mateus/541008.mp4
 
 #EXTINF:-1 group-title="PINGUINOS",VIP Pinguinos de Madagascar HD
 http://hidra.live:80/yhehteog/NeN02o7t1o/50628
-
-
-#EXTINF:-1 group-title="NOVELAS",PASIONES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198415
-#EXTINF:-1 group-title="NOVELAS",UNIVISION TELENOVELAS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198400
-#EXTINF:-1 group-title="NOVELAS",TELENOVELAS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198399
-
-
-#EXTINF:-1 group-title="NAT GEO",NAT GEO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198337
-#EXTINF:-1 group-title="NAT GEO",NAT GEO WILD
-http://txm.flysat.live:2089/152018884933620/152021106724749/198336
 
 
 #EXTINF:-1 group-title="MARVEL",Play! Cinema Marvel
