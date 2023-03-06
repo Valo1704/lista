@@ -1164,6 +1164,12 @@ http://smartes-plus.com:2095/45510529834617/45510529834617/211404
 http://smartes-plus.com:2095/45510529834617/45510529834617/211405
 
 
+#EXTINF:-1 group-title="1.0.2 AMERICA TV",AMERICA TV
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/521
+#EXTINF:-1 group-title="1.0.2 AMERICA TV",AMERICA TV *HD
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/522
+
+
 #EXTINF:-1 group-title="1.1 AMERICA TV",AmericaTV
 http://191.98.171.198:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="1.1 AMERICA TV",AMERICA PERU
