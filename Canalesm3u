@@ -20,8 +20,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
 #EXTINF:-1 group-title="HBO",HBO Plus
 http://iptvglobal.site:25461/rrtv/rrtv12345/87463
-#EXTINF:-1 group-title="HBO",Hbo Plus
-http://iptvglobal.site:25461/rrtv/rrtv12345/131117
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 #EXTINF:-1 group-title="HBO",HBO Family SD
@@ -347,10 +345,6 @@ http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51009.m3u8
 http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/23760.m3u8
 #EXTINF:-1 group-title="2.8.0 NBA",NBA TV
 http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51361.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA TV
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/7787.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA TV
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52308.m3u8
 
 
 #EXTINF:-1 group-title="2.8.1 NBA",NBA WASHINGTON WIZARDS
@@ -405,10 +399,6 @@ http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/51009.ts
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/23760.ts
 #EXTINF:-1 group-title="2.8.1 NBA",NBA TV
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/51361.ts
-#EXTINF:-1 group-title="2.8.1 NBA",NBA TV
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/7787.ts
-#EXTINF:-1 group-title="2.8.1 NBA",NBA TV
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/52308.ts
 
 
 #EXTINF:-1 group-title="2.9.0 NBA",NBA 1
@@ -1118,8 +1108,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140281
 
 #EXTINF:-1 group-title="ESPN",,ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
-#EXTINF:-1 group-title="ESPN",ESPN 1 (MX)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48983.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 SUR
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 SUR FHD
@@ -2930,12 +2918,8 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/151
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/152
 #EXTINF:-1 group-title="1.0 VARIOS",Fox Sports 2 HD
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/153
-#EXTINF:-1 group-title="1.0 VARIOS",Fox Sports 3
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/156
 #EXTINF:-1 group-title="1.0 VARIOS",CNN en Español
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/159
-#EXTINF:-1 group-title="1.0 VARIOS",Warner
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/171
 #EXTINF:-1 group-title="1.0 VARIOS",Azteca 7
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/172
 #EXTINF:-1 group-title="1.0 VARIOS",Studio Universal
@@ -2950,8 +2934,6 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/185
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/191
 #EXTINF:-1 group-title="1.0 VARIOS",Investigation Discovery
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/201
-#EXTINF:-1 group-title="1.0 VARIOS",AZ Corazon
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/207
 #EXTINF:-1 group-title="1.0 VARIOS",SyFy
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/210
 #EXTINF:-1 group-title="1.0 VARIOS",TNT Series
@@ -2962,8 +2944,6 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/218
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/220
 #EXTINF:-1 group-title="1.0 VARIOS",Disney Jr.
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/221
-#EXTINF:-1 group-title="1.0 VARIOS",Nick Jr.
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/222
 #EXTINF:-1 group-title="1.0 VARIOS",Disney Channel
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/223
 #EXTINF:-1 group-title="1.0 VARIOS",Nicktoons
@@ -2974,14 +2954,10 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/225
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/227
 #EXTINF:-1 group-title="1.0 VARIOS",Discovery Theater
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/233
-#EXTINF:-1 group-title="1.0 VARIOS",History
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/234
 #EXTINF:-1 group-title="1.0 VARIOS",Nat Geo Wild
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/235
 #EXTINF:-1 group-title="1.0 VARIOS",Discovery World
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/236
-#EXTINF:-1 group-title="1.0 VARIOS",Discovery Channel
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/237
 #EXTINF:-1 group-title="1.0 VARIOS",Discovery H&H
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/238
 #EXTINF:-1 group-title="1.0 VARIOS",Discovery Science
