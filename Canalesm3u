@@ -135,9 +135,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140226
 
 #EXTINF:-1 group-title="2.0 LAS ESTRELLAS",Las Estrellas
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/1156
-#EXTINF:-1 group-title="2.0 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52495.m3u8
-
 
 
 #EXTINF:-1 group-title="2 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS -2HRS HD
@@ -206,8 +203,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87431
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87437
 #EXTINF:-1 group-title="2.1 LATINO",Discovery Channel
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87441
-#EXTINF:-1 group-title="2.1 LATINO",Disney XD
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87445
 #EXTINF:-1 group-title="2.1 LATINO",Fox Sports 2
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87456
 #EXTINF:-1 group-title="2.1 LATINO",Golden Premier
@@ -282,8 +277,6 @@ http://176.57.50.167:25461/557496/064121/83043
 http://176.57.50.167:25461/557496/064121/83044
 #EXTINF:-1 group-title="2.7.0 NBA",NBA 03
 http://176.57.50.167:25461/557496/064121/83045
-#EXTINF:-1 group-title="2.7.0 NBA",NBA 08
-http://176.57.50.167:25461/557496/064121/83050
 #EXTINF:-1 group-title="2.7.0 NBA",LP01
 http://176.57.50.167:25461/557496/064121/86042
 #EXTINF:-1 group-title="2.7.0 NBA",LP02
@@ -326,24 +319,6 @@ http://176.57.50.167:25461/557496/064121/87244
 http://176.57.50.167:25461/557496/064121/87245
 
 
-#EXTINF:-1 group-title="2.8.0 NBA",NBA NEW YORK KNICKS
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/50990.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA ORLANDO MAGIC
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/50992.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA GOLDEN STATE WARRIORS
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/50999.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA LOS ANGELES LAKERS
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51003.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA BOSTON CELTICS
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51004.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA CHICAGO BULLS
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51007.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA TV
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51009.m3u8
-#EXTINF:-1 group-title="2.8.0 NBA",NBA TV
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/51361.m3u8
-
-
 #EXTINF:-1 group-title="2.8.1 NBA",NBA SACRAMENTO KINGS
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/50983.ts
 #EXTINF:-1 group-title="2.8.1 NBA",NBA NEW YORK KNICKS
@@ -364,9 +339,6 @@ http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/51007.ts
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/51009.ts
 #EXTINF:-1 group-title="2.8.1 NBA",NBA TV
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/51361.ts
-
-
-
 
 
 #EXTINF:-1 group-title="2.9.0 NBA",NBA 1
@@ -458,12 +430,8 @@ http://supersonictv.live:25461/218024/760877/86045
 http://supersonictv.live:25461/218024/760877/86046
 #EXTINF:-1 group-title="2.9.2.2 NBA",NBA06
 http://supersonictv.live:25461/218024/760877/83048
-#EXTINF:-1 group-title="2.9.2.2 NBA",NBA07
-http://supersonictv.live:25461/218024/760877/83049
 #EXTINF:-1 group-title="2.9.2.2 NBA",NBA LP07 :
 http://supersonictv.live:25461/218024/760877/86048
-#EXTINF:-1 group-title="2.9.2.2 NBA",NBA 08
-http://supersonictv.live:25461/218024/760877/83050
 #EXTINF:-1 group-title="2.9.2.2 NBA",NBA LP 08
 http://supersonictv.live:25461/218024/760877/86049
 #EXTINF:-1 group-title="2.9.2.2 NBA",NBA LP 09
@@ -655,8 +623,6 @@ http://51.89.98.62:8080/vic83/8383/51751
 http://dns.k4livetv.com:8080/Dez1/Dez123/409119
 #EXTINF:-1 group-title="3.9.4 NBA",NBC SPORTS BAY AREA PLUS
 http://dns.k4livetv.com:8080/Dez1/Dez123/490405
-#EXTINF:-1 group-title="3.9.4 NBA",NBC SPORTS BAY AREA
-http://dns.k4livetv.com:8080/Dez1/Dez123/490406
 #EXTINF:-1 group-title="3.9.4 NBA",NBA TV
 http://dns.k4livetv.com:8080/Dez1/Dez123/490407
 
@@ -1124,8 +1090,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
 http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 
 
-#EXTINF:-1 group-title="TOONCAST",Tooncast
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
 #EXTINF:-1 group-title="TOONCAST",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 
@@ -1765,8 +1729,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140281
 
 #EXTINF:-1 group-title="ESPN",,ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
-#EXTINF:-1 group-title="ESPN",ESPN 1 (MX)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48983.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 SUR
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 SUR FHD
@@ -1817,8 +1779,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61341
 http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 
 
-#EXTINF:-1 group-title="TOONCAST",Tooncast
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
 #EXTINF:-1 group-title="TOONCAST",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 
@@ -2485,8 +2445,6 @@ http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13836
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13838
 #EXTINF:-1 group-title="24/7.1.8",Dinosaurios
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13839
-#EXTINF:-1 group-title="24/7.1.8",El Pajaro Loco
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13843
 #EXTINF:-1 group-title="24/7.1.8",Looney Tunes
 http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13845
 #EXTINF:-1 group-title="24/7.1.8",Los Picapiedra
@@ -3046,8 +3004,6 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/153
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/159
 #EXTINF:-1 group-title="1.0 VARIOS",Azteca 7
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/172
-#EXTINF:-1 group-title="1.0 VARIOS",Studio Universal
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/173
 #EXTINF:-1 group-title="1.0 VARIOS",A&E
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/176
 #EXTINF:-1 group-title="1.0 VARIOS",Comedy Central
@@ -3094,21 +3050,9 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/252
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/256
 #EXTINF:-1 group-title="1.0 VARIOS",Cinemax
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/259
-#EXTINF:-1 group-title="1.0 VARIOS",Espn 3
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/264
 #EXTINF:-1 group-title="1.0 VARIOS",ESPN
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/265
 #EXTINF:-1 group-title="1.0 VARIOS",Espn 2
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/266
 #EXTINF:-1 group-title="1.0 VARIOS",VH1
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/273
-
-
-#EXTINF:-1 group-title="1.2 VARIOS",CNN EN ESPAÑOL
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52504.m3u8
-#EXTINF:-1 group-title="1.2 VARIOS",COMEDY CENTRAL
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52506.m3u8
-#EXTINF:-1 group-title="1.2 VARIOS",DISCOVERY CHANNEL
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52508.m3u8
-#EXTINF:-1 group-title="1.2 VARIOS",NICKELODEON
-http://supercamp.cfd:8080/live/1351663186691004/9681663186691004/52563.m3u8
