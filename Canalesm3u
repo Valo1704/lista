@@ -219,8 +219,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87469
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87472
 #EXTINF:-1 group-title="2.1 LATINO",STARZ LATINO HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87631
-#EXTINF:-1 group-title="2.1 LATINO",Imagen
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124057
 #EXTINF:-1 group-title="2.1 LATINO",Foro TV
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124058
 #EXTINF:-1 group-title="2.1 LATINO",El Gourmet
@@ -241,8 +239,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124066
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124067
 #EXTINF:-1 group-title="2.1 LATINO",Cinelatino
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/131119
-#EXTINF:-1 group-title="2.1 LATINO",Espn 3 | Latino america
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/131154
 #EXTINF:-1 group-title="2.1 LATINO",FOX SPORTS 1 | Latino America
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/131163
 #EXTINF:-1 group-title="2.1 LATINO",HBO LATINO DIRECTV
@@ -270,44 +266,18 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140200
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98
 
 
-#EXTINF:-1 group-title="2.6.0 NBA",NBCS WASHINGTON
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/357654.ts
-#EXTINF:-1 group-title="2.6.0 NBA",NBCS PHILADELPHIA
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/357655.ts
-#EXTINF:-1 group-title="2.6.0 NBA",BS NORTH
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/357656.ts
-#EXTINF:-1 group-title="2.6.0 NBA",BS OHIO
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/357657.ts
-#EXTINF:-1 group-title="2.6.0 NBA",NBA PASS
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/357658.ts
-
-
 #EXTINF:-1 group-title="2.7.0 NBA",NBA 01
 http://176.57.50.167:25461/557496/064121/83043
 #EXTINF:-1 group-title="2.7.0 NBA",NBA 02
 http://176.57.50.167:25461/557496/064121/83044
 #EXTINF:-1 group-title="2.7.0 NBA",NBA 03
 http://176.57.50.167:25461/557496/064121/83045
-#EXTINF:-1 group-title="2.7.0 NBA",LP01
-http://176.57.50.167:25461/557496/064121/86042
-#EXTINF:-1 group-title="2.7.0 NBA",LP02
-http://176.57.50.167:25461/557496/064121/86043
-#EXTINF:-1 group-title="2.7.0 NBA",LP04
-http://176.57.50.167:25461/557496/064121/86045
 #EXTINF:-1 group-title="2.7.0 NBA",LP05
 http://176.57.50.167:25461/557496/064121/86046
 #EXTINF:-1 group-title="2.7.0 NBA",LP07
 http://176.57.50.167:25461/557496/064121/86048
 #EXTINF:-1 group-title="2.7.0 NBA",LP 08
 http://176.57.50.167:25461/557496/064121/86049
-#EXTINF:-1 group-title="2.7.0 NBA",LP 09
-http://176.57.50.167:25461/557496/064121/86050
-#EXTINF:-1 group-title="2.7.0 NBA",LP 10
-http://176.57.50.167:25461/557496/064121/86051
-#EXTINF:-1 group-title="2.7.0 NBA",LP12
-http://176.57.50.167:25461/557496/064121/86053
-#EXTINF:-1 group-title="2.7.0 NBA",LP13
-http://176.57.50.167:25461/557496/064121/86054
 #EXTINF:-1 group-title="2.7.0 NBA",REPLAY 08
 http://176.57.50.167:25461/557496/064121/87239
 #EXTINF:-1 group-title="2.7.0 NBA",REPLAY 11
@@ -320,12 +290,6 @@ http://176.57.50.167:25461/557496/064121/87244
 http://176.57.50.167:25461/557496/064121/87245
 
 
-#EXTINF:-1 group-title="2.8.1 NBA",NBA SACRAMENTO KINGS
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/50983.ts
-#EXTINF:-1 group-title="2.8.1 NBA",NBA NEW YORK KNICKS
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/50990.ts
-#EXTINF:-1 group-title="2.8.1 NBA",NBA ORLANDO MAGIC
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/50992.ts
 #EXTINF:-1 group-title="2.8.1 NBA",NBA DALLAS MAVERICKS
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/50996.ts
 #EXTINF:-1 group-title="2.8.1 NBA",NBA GOLDEN STATE WARRIORS
@@ -433,60 +397,8 @@ http://supersonictv.live:25461/218024/760877/86046
 http://supersonictv.live:25461/218024/760877/83048
 #EXTINF:-1 group-title="2.9.2.2 NBA",NBA LP07 :
 http://supersonictv.live:25461/218024/760877/86048
-#EXTINF:-1 group-title="2.9.2.2 NBA",NBA LP 08
-http://supersonictv.live:25461/218024/760877/86049
-#EXTINF:-1 group-title="2.9.2.2 NBA",NBA LP 09
-http://supersonictv.live:25461/218024/760877/86050
 #EXTINF:-1 group-title="2.9.2.2 NBA",NBA LP 10
 http://supersonictv.live:25461/218024/760877/86051
-
-
-#EXTINF:-1 group-title="2.9.3 NBA",NBA BOSTON SELTICS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207595
-#EXTINF:-1 group-title="2.9.3 NBA",NBA BROOKLYN NETS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207596
-#EXTINF:-1 group-title="2.9.3 NBA",NBA CHARLOTTE HORNETS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207597
-#EXTINF:-1 group-title="2.9.3 NBA",NBA CHICAGO BULLS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207598
-#EXTINF:-1 group-title="2.9.3 NBA",NBA CLEVLAND CAVALIERS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207599
-#EXTINF:-1 group-title="2.9.3 NBA",NBA DALLAS MAVERICKS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207587
-#EXTINF:-1 group-title="2.9.3 NBA",NBA DENVER NUGGETS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207588
-#EXTINF:-1 group-title="2.9.3 NBA",NBA DETROIT PISTONS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207589
-#EXTINF:-1 group-title="2.9.3 NBA",NBA GOLDEN STATE WARRIORS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207590
-#EXTINF:-1 group-title="2.9.3 NBA",NBA HOUSTON ROCKETS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207591
-#EXTINF:-1 group-title="2.9.3 NBA",NBA INDIANA PACERS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207592
-#EXTINF:-1 group-title="2.9.3 NBA",NBA LOS ANGLES CLIPPERS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207593
-#EXTINF:-1 group-title="2.9.3 NBA",NBA LOS ANGLES LAKERS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207594
-#EXTINF:-1 group-title="2.9.3 NBA",NBA MEMPHIS GRIZZLIES
-http://smartes-plus.com:2095/45510529834617/45510529834617/207372
-#EXTINF:-1 group-title="2.9.3 NBA",NBA MIAMI HEAT
-http://smartes-plus.com:2095/45510529834617/45510529834617/207373
-#EXTINF:-1 group-title="2.9.3 NBA",NBA MILWAUKEE BUCKS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207374
-#EXTINF:-1 group-title="2.9.3 NBA",NBA MINNESOTA TIMBERWOLVES
-http://smartes-plus.com:2095/45510529834617/45510529834617/207375
-#EXTINF:-1 group-title="2.9.3 NBA",NBA NEW ORLEANS PELICANS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207376
-#EXTINF:-1 group-title="2.9.3 NBA",NBA NEW YORK KNICKS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207377
-#EXTINF:-1 group-title="2.9.3 NBA",NBA OKLAHOMA CITY THUNDERS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207378
-#EXTINF:-1 group-title="2.9.3 NBA",NBA ORLANDO MAGIC
-http://smartes-plus.com:2095/45510529834617/45510529834617/207379
-#EXTINF:-1 group-title="2.9.3 NBA",NBA PHILADELPHIA 76ERS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207380
-#EXTINF:-1 group-title="2.9.3 NBA",NBA PHOENIX SUNS
-http://smartes-plus.com:2095/45510529834617/45510529834617/207381
 
 
 #EXTINF:-1 group-title="2.9.4 NBA",NBA ON ESPN
@@ -634,8 +546,6 @@ http://176.57.50.167:25461/557496/064121/40409
 http://176.57.50.167:25461/557496/064121/86049
 #EXTINF:-1 group-title="3.9.6 NBA",NBA LP 09
 http://176.57.50.167:25461/557496/064121/86050
-#EXTINF:-1 group-title="3.9.6 NBA",NBA LP12
-http://176.57.50.167:25461/557496/064121/86053
 #EXTINF:-1 group-title="3.9.6 NBA",NBA New Orleans Pelicans Los Angeles Lakers
 http://176.57.50.167:25461/557496/064121/87241
 #EXTINF:-1 group-title="3.9.6 NBA",NBA Los Angeles Lakers VS Portland Trail Blazers
@@ -1039,10 +949,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
 #EXTINF:-1 group-title="ESPN",ESPN 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
-#EXTINF:-1 group-title="ESPN",ESPN HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140203
-#EXTINF:-1 group-title="ESPN",ESPN 2 (COL)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/88002.ts
 #EXTINF:-1 group-title="ESPN",ESPN 2 (MX)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82220.ts
 #EXTINF:-1 group-title="ESPN",ESPN 2 SUR
@@ -1106,13 +1012,9 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
 
 
 #EXTINF:-1 group-title="0.0.1 AMERICA TV",America TV HD
-http://dns.k4livetv.com:8080/maly/maly/279328
-#EXTINF:-1 group-title="0.0.1 AMERICA TV",America TV HD
 http://176.57.50.167:25461/557496/064121/85837
 #EXTINF:-1 group-title="0.0.1 AMERICA TV",AMERICA TELEVISION
 http://nadtv.xyz:80/live/d1UVbDAR56/AGVaiiRrXg/9351.ts?play_token=kD2wvPP9LH:1678306907:102615
-#EXTINF:-1 group-title="0.0.1 AMERICA TV",America TV HD
-http://dns.k4livetv.com:8080/maly/maly/279328
 
 
 #EXTINF:-1 group-title="0.0.2 AMERICA TV",AMERICA TV HD
@@ -2159,10 +2061,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/115359.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/117797.ts
 #EXTINF:-1 group-title="24/7.0.1",PINKY Y CEREBRO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87402.ts
-#EXTINF:-1 group-title="24/7.0.1",TOM & JERRY
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87437.ts
-
-
 
 
 #EXTINF:-1 group-title="24/7.1.2",CINEMA DISNEY PIXAR 2 HD
@@ -2205,8 +2103,6 @@ http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230112
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230113
 #EXTINF:-1 group-title="24/7.1.2",Buzz LigthYear: Comando Estelar
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230115
-#EXTINF:-1 group-title="24/7.1.2",Capitan Cavernicola
-http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230119
 #EXTINF:-1 group-title="24/7.1.2",El pajaro loco
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230126
 #EXTINF:-1 group-title="24/7.1.2",El show de Scooby-Doo
@@ -2233,8 +2129,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87730
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87740
 #EXTINF:-1 group-title="24/7.1.4",LA HORA PICO HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87744
-#EXTINF:-1 group-title="24/7.1.4",Play! La casa de Mickey Mouse
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/114272
 #EXTINF:-1 group-title="24/7.1.4",Play! Cinema Mad Max
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/114284
 #EXTINF:-1 group-title="24/7.1.4",Play! Cinema Transformers
@@ -2419,88 +2313,6 @@ http://tv.nousiptv.com:8080/BenjaminVarone/1731/44728
 http://tv.nousiptv.com:8080/BenjaminVarone/1731/1140316
 
 
-#EXTINF:-1 group-title="24/7.1.8",LOONEY TUNES PLATINUM COLLECTION
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9876
-#EXTINF:-1 group-title="24/7.1.8",TOM Y JERRY
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9879
-#EXTINF:-1 group-title="24/7.1.8",TRANSFORMERS ARMADA
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9882
-#EXTINF:-1 group-title="24/7.1.8",XMEN
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9885
-#EXTINF:-1 group-title="24/7.1.8",THUNDERCATS
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9886
-#EXTINF:-1 group-title="24/7.1.8",SONIC Y SU BANDA
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9888
-#EXTINF:-1 group-title="24/7.1.8",EL PAJARO LOCO
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9891
-#EXTINF:-1 group-title="24/7.1.8",BATMAN SERIE ANIMADA
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9892
-#EXTINF:-1 group-title="24/7.1.8",LOS PICAPIEDRA
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9893
-#EXTINF:-1 group-title="24/7.1.8",IRON MAN 1994
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9895
-#EXTINF:-1 group-title="24/7.1.8",GARFIELD Y SUS AMIGOS
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9896
-#EXTINF:-1 group-title="24/7.1.8",FENOMENOIDE
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9897
-#EXTINF:-1 group-title="24/7.1.8",DON GATO Y SU PANDILLA
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9899
-#EXTINF:-1 group-title="24/7.1.8",EL CONDE PATULA
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9901
-#EXTINF:-1 group-title="24/7.1.8",CORAJE EL PERRO COBARDE
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9902
-#EXTINF:-1 group-title="24/7.1.8",GASPARIN Y SUS AMGOS
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9904
-#EXTINF:-1 group-title="24/7.1.8",CANTINFLAS SHOW
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9905
-#EXTINF:-1 group-title="24/7.1.8",PATO AVENTURAS 2017
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9909
-#EXTINF:-1 group-title="24/7.1.8",CHAPULIN COLORADO ANIMADO
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9915
-#EXTINF:-1 group-title="24/7.1.8",BOB SPONJA
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9916
-#EXTINF:-1 group-title="24/7.1.8",PATO AVENTURAS 1987
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9917
-#EXTINF:-1 group-title="24/7.1.8",EL ESPECTACULAR HOMBRE ARAÑA
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9918
-#EXTINF:-1 group-title="24/7.1.8",LOS CABALLEROS DEL ZODIACO SANTUARIO
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9924
-#EXTINF:-1 group-title="24/7.1.8",HEY ARNORLD
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9925
-#EXTINF:-1 group-title="24/7.1.8",EL SHOW DE LOS LOONEY TUNES
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9926
-#EXTINF:-1 group-title="24/7.1.8",DRAGON BALL GT
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9929
-#EXTINF:-1 group-title="24/7.1.8",ALF
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9933
-#EXTINF:-1 group-title="24/7.1.8",QUE HAY DE NUEVO SCOOBY DOO
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9934
-#EXTINF:-1 group-title="24/7.1.8",HALCONES GALACTICOS
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/9936
-#EXTINF:-1 group-title="24/7.1.8",Bob Esponja
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13834
-#EXTINF:-1 group-title="24/7.1.8",CANTINFLAS
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13836
-#EXTINF:-1 group-title="24/7.1.8",Coraje el Perro Cobarde
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13838
-#EXTINF:-1 group-title="24/7.1.8",Dinosaurios
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13839
-#EXTINF:-1 group-title="24/7.1.8",Looney Tunes
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13845
-#EXTINF:-1 group-title="24/7.1.8",Los Picapiedra
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13847
-#EXTINF:-1 group-title="24/7.1.8",Scooby Doo
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13853
-#EXTINF:-1 group-title="24/7.1.8",EL CHAVO DEL 8
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/13869
-#EXTINF:-1 group-title="24/7.1.8",LOS SIMPSONS 1-5
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/121076
-#EXTINF:-1 group-title="24/7.1.8",LOS SIMPSONS 18-21
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/121079
-#EXTINF:-1 group-title="24/7.1.8",LOS SIMPSONS 27-30
-http://higherpro.xyz:8080/Abelardo2022/Abelardo2022/121080
-
-
 #EXTINF:-1 group-title="1 PELICULAS 2022",The Lego Batman Movie 2 (2022)
 http://tv.nousiptv.com:8080/movie/Yonkers400/Marcela100/1093625.mkv
 #EXTINF:-1 group-title="1 PELICULAS 2022",The Angry Birds Movie 3 (2022)
@@ -2537,8 +2349,6 @@ http://181.225.101.144:9000/play/a026/index.m3u8
 http://192.99.70.160:25461/jona123/jona123/91049
 #EXTINF:-1 group-title="ESPN 1",ESPN 3 MX
 http://192.99.70.160:25461/jona123/jona123/91050
-#EXTINF:-1 group-title="ESPN 1",ESPN 3 MX
-http://192.99.70.160:25461/jona123/jona123/91056
 #EXTINF:-1 group-title="ESPN 1",ESPN 3
 http://192.99.70.160:25461/jona123/jona123/91045
 
@@ -2636,14 +2446,10 @@ http://181.225.101.144:9000/play/a008/index.m3u8
 http://192.99.70.160:25461/jona123/jona123/91114
 #EXTINF:-1 group-title="UNIVERSAL 1",Universal Crime
 http://192.99.70.160:25461/jona123/jona123/91101
-#EXTINF:-1 group-title="UNIVERSAL 1",Studio Universal HD (MX)
-http://dns.k4livetv.com:8080/lisandro123/lisandro123/278777
 
 
 #EXTINF:-1 group-title="FX 1",FX HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86990
-#EXTINF:-1 group-title="FX 1",FXM HD
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86991
 #EXTINF:-1 group-title="FX 1",FX
 http://192.99.70.160:25461/jona123/jona123/91104
 #EXTINF:-1 group-title="FX 1",FXM
@@ -2696,8 +2502,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87108
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87017
 #EXTINF:-1 group-title="TNT 1",TNT
 http://181.225.101.144:9000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="TNT 1",TNT SERIES
-http://181.225.101.144:9000/play/a051/index.m3u8
 #EXTINF:-1 group-title="TNT 1",TNT Series
 http://192.99.70.160:25461/jona123/jona123/91112
 
@@ -2717,8 +2521,6 @@ http://181.225.101.144:9000/play/a01e/index.m3u8
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87088
 #EXTINF:-1 group-title="NOTICIAS 1",FORO TV HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87080
-#EXTINF:-1 group-title="NOTICIAS 1",ADN40
-http://192.99.70.160:25461/jona123/jona123/91602
 #EXTINF:-1 group-title="NOTICIAS 1",ADN 40 HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87015
 #EXTINF:-1 group-title="NOTICIAS 1",CNN en Espanol
@@ -2727,11 +2529,6 @@ http://192.99.70.160:25461/jona123/jona123/91733
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86975
 #EXTINF:-1 group-title="NOTICIAS 1",MILENIO HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86998
-
-
-#EXTINF:-1 group-title="TOONCAST 1",Tooncast HD MX
-http://dns.k4livetv.com:8080/lisandro123/lisandro123/278663
-
 
 
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 2
@@ -2752,18 +2549,12 @@ http://181.225.101.144:9000/play/a01r/index.m3u8
 http://181.225.101.144:9000/play/a01s/index.m3u8
 
 
-#EXTINF:-1 group-title="AFFIZZIONADOS 1",Affizionados
-http://192.99.70.160:25461/jona123/jona123/91603
 #EXTINF:-1 group-title="AFFIZZIONADOS 1",AFIZZIONADOS HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87087
 
 
 #EXTINF:-1 group-title="TUDN 1",TUDN HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87111
-#EXTINF:-1 group-title="TUDN 1",TU-DN
-http://192.99.70.160:25461/jona123/jona123/91637
-#EXTINF:-1 group-title="TUDN 1",TUDN
-http://192.99.70.160:25461/jona123/jona123/91662
 
 
 #EXTINF:-1 group-title="BOOMERANG 1",BOOMERANG
@@ -2797,8 +2588,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86874
 http://192.99.70.160:25461/jona123/jona123/91685
 #EXTINF:-1 group-title="DISNEY 1",Disney Channel
 http://181.225.101.144:9000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="DISNEY 1",Disney Jr HD (MX)
-http://dns.k4livetv.com:8080/lisandro123/lisandro123/278654
 #EXTINF:-1 group-title="DISNEY 1",Disney Jr
 http://181.225.101.144:9000/play/a012/index.m3u8
 #EXTINF:-1 group-title="DISNEY 1",Disney Jr
@@ -2824,10 +2613,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86966
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87083
 
 
-#EXTINF:-1 group-title="TELEVISA REG 1",Canal 4 Guadalajara HD
-http://dns.k4livetv.com:8080/lisandro123/lisandro123/408512
-
-
 #EXTINF:-1 group-title="AMC 1",AMC
 http://181.225.101.144:9000/play/a04h/index.m3u8
 
@@ -2847,11 +2632,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86973
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86850
 #EXTINF:-1 group-title="CINECANAL 1",Cinecanal
 http://181.225.101.144:9000/play/a007/index.m3u8
-
-
-#EXTINF:-1 group-title="ALF 1",Alf
-http://dns.k4livetv.com:8080/lisandro123/lisandro123/302766
-
 
 
 #EXTINF:-1 group-title="1.0 VARIOS",Foro TV HD
@@ -2880,8 +2660,6 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/191
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/201
 #EXTINF:-1 group-title="1.0 VARIOS",SyFy
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/210
-#EXTINF:-1 group-title="1.0 VARIOS",TNT Series
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/212
 #EXTINF:-1 group-title="1.0 VARIOS",Telenovelas
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/218
 #EXTINF:-1 group-title="1.0 VARIOS",Discovery Kids
@@ -2904,8 +2682,6 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/236
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/238
 #EXTINF:-1 group-title="1.0 VARIOS",Discovery Science
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/241
-#EXTINF:-1 group-title="1.0 VARIOS",AZ Cinema
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/250
 #EXTINF:-1 group-title="1.0 VARIOS",Cinecanal
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/251
 #EXTINF:-1 group-title="1.0 VARIOS",TNT
@@ -2916,8 +2692,6 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/256
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/259
 #EXTINF:-1 group-title="1.0 VARIOS",ESPN
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/265
-#EXTINF:-1 group-title="1.0 VARIOS",Espn 2
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/266
 #EXTINF:-1 group-title="1.0 VARIOS",VH1
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/273
 
@@ -2945,8 +2719,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121613.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324622.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",ADRENALINA SPORTS NETWORK
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48974.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",AFIZZIONADOS HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48976.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",AMC
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/260518.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",AMC HD
@@ -2985,8 +2757,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/102979.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/282800.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DAZN 4 (EVENTOS)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/282801.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",DAZN F1
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/144608.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DE PELICULA CLASICO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113718.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DE PELICULA PLUS
@@ -3013,8 +2783,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113713.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85726.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DISCOVERY CHANNEL 2
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85727.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",DISCOVERY CHANNEL 3
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85728.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DISCOVERY CHANNEL 4
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323868.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DISCOVERY FAMILIA
@@ -3037,8 +2805,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87101.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166511.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DISCOVERY THEATER
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/133289.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",DISCOVERY THEATER HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323859.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DISCOVERY TURBO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166500.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",DISCOVERY TURBO opcion 2
@@ -3059,12 +2825,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323862.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/139412.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",ESPN 1 (MX)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48983.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",ESPN 1 SUR
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",ESPN 2 (COL)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/88002.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",ESPN 2 (MX)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82220.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",ESPN 2 SUR
@@ -3083,10 +2845,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49000.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/78749.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",ESPN DEPORTES HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94154.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",ESPN EXTRA FHD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48990.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",ESPN EXTRA HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48989.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",ESPN PREMIUM
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/165275.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",ESTRELLA TV
@@ -3257,8 +3015,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121694.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166505.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",TIGO SPORTS  1 (BOL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87520.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",TIGO SPORTS  HN
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/90027.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",TIGO SPORTS (GUAT)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/322047.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",TIGO SPORTS HD (PARAGUAY)
@@ -3283,8 +3039,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/146757.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87964.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",TNT SPORTS HD arg
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48995.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",TOONCAST
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/131731.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",TUDN FHD (MX)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48991.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",TUDN HD (USA)
@@ -3297,10 +3051,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/328008.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48997.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",UNICABLE
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/136179.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",UNIVERSAL CINEMA
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324621.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",UNIVERSAL CINEMA HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/136173.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",UNIVERSAL COMEDY
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137844.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",UNIVERSAL CRIME HD
@@ -3333,12 +3083,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52473.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52474.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",AZTECA UNO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52476.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",CANAL 5
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/91806.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",CANAL DE LAS ESTRELLAS
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52485.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",CANAL ONCE
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52478.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",COMEDY CENTRAL
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/63840.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",COMEDY CENTRAL 2
@@ -3349,8 +3095,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52469.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52471.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",FORMULA TV
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52479.ts
-#EXTINF:-1 group-title="1.0.1 VARIOS",FOROTV
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52480.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",INGENIO TV
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52482.ts
 #EXTINF:-1 group-title="1.0.1 VARIOS",MAS CHIC
