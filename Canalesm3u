@@ -1,5 +1,7 @@
 #EXTINF:-1 group-title="SERIE ALERTA AEROPUERTO",ALERTA AEROPUERTO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
+#EXTINF:-1 group-title="SERIE ALERTA AEROPUERTO",Alerta Aeropuerto CON SPOT
+http://coresys.dvrdns.org:8080/movie/CarlosL1982/SkXbNRQxtEZS/69620.mp4
 
 
 #EXTINF:-1 group-title="SERIE BATMAN",Batman del Futuro
@@ -145,6 +147,8 @@ http://hidra.live:80/Diego/Diego/35533
 http://hidra.live:80/Diego/Diego/49167
 
 
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+http://z98ziptv.xyz:8036/Toledo/Toledo/168381
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49024.ts
 #EXTINF:-1 group-title="DEPORTES",DAZN 1 (ESP)
@@ -177,6 +181,12 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/167564.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/139417.ts
 
 
+#EXTINF:-1 group-title="D PELICULA",DE PELICULA (P)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170303
+#EXTINF:-1 group-title="D PELICULA",De Pelicula Plus FHD (T)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170330
+#EXTINF:-1 group-title="D PELICULA",DE PELICULA (P)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170303
 #EXTINF:-1 group-title="D PELICULA",D PELICULA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 #EXTINF:-1 group-title="D PELICULA",DE PELICULA CLASICO
@@ -393,6 +403,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121632.ts
 
 
+#EXTINF:-1 group-title="CINECANAL",CINECANAL
+http://z98ziptv.xyz:8036/Toledo/Toledo/170349
+#EXTINF:-1 group-title="CINECANAL",Cinecanal
+http://z98ziptv.xyz:8036/Toledo/Toledo/170321
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
 http://190.131.228.59:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
@@ -461,10 +475,14 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60984
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140163
 #EXTINF:-1 group-title="UNIVERSAL 2",Universal Premiere
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/118258
+#EXTINF:-1 group-title="UNIVERSAL 2",UNIVERSAL_PREMIER_HD_MX
+http://z98ziptv.xyz:8036/Toledo/Toledo/169260
 #EXTINF:-1 group-title="UNIVERSAL 2",UNIVERSAL PREMIER
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324620.ts
 #EXTINF:-1 group-title="UNIVERSAL 2",UNIVERSAL PREMIER HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/136175.ts
+#EXTINF:-1 group-title="UNIVERSAL 2",UNIVERSAL_CRIME_HD_MX
+http://z98ziptv.xyz:8036/Toledo/Toledo/169265
 #EXTINF:-1 group-title="UNIVERSAL 2",UNIVERSAL CRIMEN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 #EXTINF:-1 group-title="UNIVERSAL 2",UNIVERSAL CRIMEN
@@ -485,6 +503,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137844.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137607.ts
 
 
+#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL HD
+http://z98ziptv.xyz:8036/Toledo/Toledo/170322
 #EXTINF:-1 group-title="STAR CHANNEL 1",STAR CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 group-title="STAR CHANNEL 1",STAR CHANNEL MX
@@ -539,6 +559,8 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86870
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/123391.ts
 
 
+#EXTINF:-1 group-title="FX",FX (Y)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170304
 #EXTINF:-1 group-title="FX",FX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
 #EXTINF:-1 group-title="FX",FX HD SUR
@@ -561,6 +583,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121615.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121616.ts
 
 
+#EXTINF:-1 group-title="SPACE",SPACE CHANNEL  (Y)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170311
 #EXTINF:-1 group-title="SPACE",SPACE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
 #EXTINF:-1 group-title="SPACE",SPACE LATINO HD
@@ -594,7 +618,15 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121642.ts
 
 
 #EXTINF:-1 group-title="CINEMAX",CINEMAX
+http://z98ziptv.xyz:8036/Toledo/Toledo/170350
+#EXTINF:-1 group-title="CINEMAX",CINEMAX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
+#EXTINF:-1 group-title="CINEMAX",CINEMAX
+http://z98ziptv.xyz:8036/Toledo/Toledo/169232
+#EXTINF:-1 group-title="CINEMAX",CINEMAX_HD
+http://z98ziptv.xyz:8036/Toledo/Toledo/169245
+#EXTINF:-1 group-title="CINEMAX",CINEMAX
+http://z98ziptv.xyz:8036/Toledo/Toledo/169331
 #EXTINF:-1 group-title="CINEMAX 1",Cinemax
 http://190.131.228.59:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="CINEMAX 1",CINEMAX ESP
@@ -749,6 +781,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323863.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/133289.ts
 
 
+#EXTINF:-1 group-title="NOVELAS",TL NOVELAS HD
+http://z98ziptv.xyz:8036/Toledo/Toledo/169551
 #EXTINF:-1 group-title="NOVELAS",Telenovelas
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/218
 
@@ -767,6 +801,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/147173.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/263938.ts
 
 
+#EXTINF:-1 group-title="SONY",SONY CHANNEL (L)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170328
 #EXTINF:-1 group-title="SONY",SONY CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
 #EXTINF:-1 group-title="SONY",SONY CHANNEL PREMIUN FHD (DUAL AUDIO)
@@ -851,6 +887,8 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/256
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324326.ts
 
 
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SP 1 MXHD
+http://z98ziptv.xyz:8036/Toledo/Toledo/169326
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 Latino America
@@ -903,6 +941,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48959.ts
 
 
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SP 2 MXHD
+http://z98ziptv.xyz:8036/Toledo/Toledo/169310
 #EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2
@@ -1468,6 +1508,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/169442.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/169441.ts
 
 
+#EXTINF:-1 group-title="AFFIZZIONADOS",Afizzionados
+http://z98ziptv.xyz:8036/Toledo/Toledo/168363
 #EXTINF:-1 group-title="AFFIZZIONADOS",AFIZZIONADOS
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="AFFIZZIONADOS",Afizzionados HD
@@ -1475,12 +1517,17 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 #EXTINF:-1 group-title="AFFIZZIONADOS",AFIZZIONADOS HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87087
 
+
+#EXTINF:-1 group-title="TUDN",TUDN HD
+http://z98ziptv.xyz:8036/Toledo/Toledo/168546
 #EXTINF:-1 group-title="TUDN",TUDN
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
 #EXTINF:-1 group-title="TUDN",TUDN HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
 #EXTINF:-1 group-title="TUDN",TUDN USA HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/169243
+
+
 #EXTINF:-1 group-title="TUDN 1",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 #EXTINF:-1 group-title="TUDN 1",TUDN
@@ -1551,6 +1598,10 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/25366
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/25340
 
 
+#EXTINF:-1 group-title="ESPN 1",ESPN 1
+http://z98ziptv.xyz:8036/Toledo/Toledo/168382
+#EXTINF:-1 group-title="ESPN 1",ESPN 1
+http://z98ziptv.xyz:8036/Toledo/Toledo/168364
 #EXTINF:-1 group-title="ESPN 1",ESPN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:-1 group-title="ESPN 1",ESPN 1 (COL)
@@ -1568,6 +1619,10 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
 
 
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://z98ziptv.xyz:8036/Toledo/Toledo/168383
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://z98ziptv.xyz:8036/Toledo/Toledo/168365
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
 http://190.131.228.59:8000/play/a0hn/index.m3u8
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
 http://190.131.228.59:8000/play/a05k/index.m3u8
@@ -1581,6 +1636,10 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86979
 http://181.225.101.144:9000/play/a01h/index.m3u8
 
 
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://z98ziptv.xyz:8036/Toledo/Toledo/168384
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://z98ziptv.xyz:8036/Toledo/Toledo/168366
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
@@ -1629,6 +1688,8 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/165275.ts
 
 
+#EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
+http://z98ziptv.xyz:8036/Toledo/Toledo/168386
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
@@ -2090,6 +2151,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121632.ts
 
 
+#EXTINF:-1 group-title="CINECANAL",CINECANAL
+http://z98ziptv.xyz:8036/Toledo/Toledo/170387
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
 http://190.131.228.59:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
@@ -2100,6 +2163,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59082
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 #EXTINF:-1 group-title="CINECANAL",CINECANAL PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86850
+#EXTINF:-1 group-title="CINECANAL",CINECANAL_HD
+http://z98ziptv.xyz:8036/Toledo/Toledo/169287
 #EXTINF:-1 group-title="CINECANAL 1",CINECANAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 #EXTINF:-1 group-title="CINECANAL 1",Cinecanal
@@ -2236,6 +2301,8 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86870
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/123391.ts
 
 
+#EXTINF:-1 group-title="FX",FX SD (P)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170318
 #EXTINF:-1 group-title="FX",FX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
 #EXTINF:-1 group-title="FX",FX HD SUR
@@ -2292,6 +2359,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121642.ts
 
 #EXTINF:-1 group-title="CINEMAX",CINEMAX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
+#EXTINF:-1 group-title="CINEMAX",CINEMAX (P)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170329
 #EXTINF:-1 group-title="CINEMAX 1",Cinemax
 http://190.131.228.59:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="CINEMAX 1",CINEMAX ESP
@@ -2310,6 +2379,8 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/259
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324325.ts
 
 
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Estrellas
+http://z98ziptv.xyz:8036/Toledo/Toledo/169494
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS LATAM
@@ -2362,8 +2433,14 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE05.m3u8
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",LAS ESTRELLAS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",,CANAL DE LAS ESTRELLAS
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",CANAL DE LAS ESTRELLAS
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52485.ts
+
+
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 2",LAS ESTRELLAS ( MX )
+http://z98ziptv.xyz:8036/Toledo/Toledo/169561
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 2",LAS ESTRELLAS ( MX )
+http://z98ziptv.xyz:8036/Toledo/Toledo/169597
 
 
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS -1H",LAS ESTRELLAS -1HR
@@ -2448,6 +2525,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/133289.ts
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/218
 
 
+#EXTINF:-1 group-title="AXN",AXN (Y)
+http://z98ziptv.xyz:8036/Toledo/Toledo/170302
 #EXTINF:-1 group-title="AXN",AXN
 http://190.131.228.59:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="AXN",AXN
@@ -2546,6 +2625,10 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/256
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324326.ts
 
 
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1
+http://z98ziptv.xyz:8036/Toledo/Toledo/168390
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1
+http://z98ziptv.xyz:8036/Toledo/Toledo/168367
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 Latino America
@@ -2599,6 +2682,10 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48959.ts
 
 
 #EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
+http://z98ziptv.xyz:8036/Toledo/Toledo/168391
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
+http://z98ziptv.xyz:8036/Toledo/Toledo/168368
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2
 http://190.131.228.59:8000/play/a065/index.m3u8
@@ -2634,6 +2721,10 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/153
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/66643.ts
 
 
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3
+http://z98ziptv.xyz:8036/Toledo/Toledo/168392
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3
+http://z98ziptv.xyz:8036/Toledo/Toledo/168369
 #EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3
 http://190.131.228.59:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3
@@ -2663,6 +2754,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48963.ts
 
 
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
+http://z98ziptv.xyz:8036/Toledo/Toledo/168393
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/164581.ts
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/164581.ts
@@ -2682,6 +2775,8 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/10915
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106730
 
 
+#EXTINF:-1 group-title="FOX SPORTS DEPORTES",FOX DEPORTES
+http://z98ziptv.xyz:8036/Toledo/Toledo/168389
 #EXTINF:-1 group-title="FOX SPORTS DEPORTES",FOX DEPORTES
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
 #EXTINF:-1 group-title="FOX SPORTS DEPORTES",FOX DEPORTES
@@ -2798,6 +2893,8 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86972
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 
 
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios Mty
+http://z98ziptv.xyz:8036/Toledo/Toledo/169495
 #EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS CDMX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
 #EXTINF:-1 group-title="MULTIMEDIOS",Multimedios
@@ -3158,6 +3255,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/169441.ts
 
 
 #EXTINF:-1 group-title="AFFIZZIONADOS",AFIZZIONADOS
+http://z98ziptv.xyz:8036/Toledo/Toledo/168380
+#EXTINF:-1 group-title="AFFIZZIONADOS",AFIZZIONADOS
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="AFFIZZIONADOS",Afizzionados HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
@@ -3170,6 +3269,13 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
 #EXTINF:-1 group-title="TUDN",TUDN USA HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/169243
+#EXTINF:-1 group-title="TUDN",TUDN MX
+http://z98ziptv.xyz:8036/Toledo/Toledo/168396
+#EXTINF:-1 group-title="TUDN",TUDN USA
+http://z98ziptv.xyz:8036/Toledo/Toledo/168397
+#EXTINF:-1 group-title="TUDN",ZONA TUDN
+http://z98ziptv.xyz:8036/Toledo/Toledo/168398
+
 #EXTINF:-1 group-title="TUDN 1",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 #EXTINF:-1 group-title="TUDN 1",TUDN
@@ -3240,6 +3346,8 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/25366
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/25340
 
 
+#EXTINF:-1 group-title="ESPN 1",Espn MX
+http://z98ziptv.xyz:8036/Toledo/Toledo/168522
 #EXTINF:-1 group-title="ESPN 1",ESPN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:-1 group-title="ESPN 1",ESPN 1 (COL)
@@ -3256,6 +3364,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
 
 
+#EXTINF:-1 group-title="ESPN 2",Espn 2 MX
+http://z98ziptv.xyz:8036/Toledo/Toledo/168523
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
 http://190.131.228.59:8000/play/a0hn/index.m3u8
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
@@ -3270,6 +3380,8 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86979
 http://181.225.101.144:9000/play/a01h/index.m3u8
 
 
+#EXTINF:-1 group-title="ESPN 3",Espn 3
+http://z98ziptv.xyz:8036/Toledo/Toledo/168524
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
