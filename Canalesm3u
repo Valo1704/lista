@@ -1588,6 +1588,16 @@ http://z98ziptv.xyz:8036/Toledo/Toledo/169795
 http://z98ziptv.xyz:8036/Toledo/Toledo/169756
 
 
+#EXTINF:-1 group-title="AMERICA TV 3",America TV OPC 2
+http://higherpro.xyz:8080/999428602tv/2qvnd9/69793
+#EXTINF:-1 group-title="AMERICA TV 3",America TV FHD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/69794
+#EXTINF:-1 group-title="AMERICA TV 3",America TV FHD P
+http://higherpro.xyz:8080/999428602tv/2qvnd9/69795
+#EXTINF:-1 group-title="AMERICA TV 3",America TV HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/69796
+
+
 #EXTINF:-1 group-title="PELICULAS",Capitan America: Guerra civil (4K)
 http://vod.tuxchannel.mx/peliculas4k/captain%20america%20civil%20war.mkv
 #EXTINF:-1 group-title="PELICULAS",Guardianes de la galaxia (4K)
