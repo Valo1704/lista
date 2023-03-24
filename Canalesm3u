@@ -120,6 +120,8 @@ http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230049
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87718
 
 
+#EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo: Dónde estás? SD
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35493
 #EXTINF:-1 group-title="SERIE SCOOBY DOO",El Show de Scooby Doo
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230188
 #EXTINF:-1 group-title="SERIE SCOOBY DOO",El Show de Scooby Doo
@@ -130,6 +132,8 @@ http://hidra.live:80/Diego/Diego/35493
 http://hidra.live:80/Diego/Diego/35533
 
 
+#EXTINF:-1 group-title="SERIE ALIENIGENAS ANCESTRALES",Alienigenas Ancestrales SD
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/49167
 #EXTINF:-1 group-title="SERIE ALIENIGENAS ANCESTRALES",Alienigenas Ancestrales SD
 http://hidra.live:80/Diego/Diego/49167
 #EXTINF:-1 group-title="SERIE ALIENIGENAS ANCESTRALES",Alienigenas Ancestrales SD
@@ -182,8 +186,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113718.ts
 #EXTINF:-1 group-title="D PELICULA",D PELICULA PLUS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
-#EXTINF:-1 group-title="D PELICULA",DE PELICULA PLUS
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113717.ts
 #EXTINF:-1 group-title="D PELICULA",D PELICULA PLUS
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52469.ts
 
@@ -256,8 +258,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 #EXTINF:-1 group-title="HBO",HBO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
-#EXTINF:-1 group-title="HBO",HBO
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/90199
 #EXTINF:-1 group-title="HBO",HBO PREMIUN FHD ( DUAL AUDIO)
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86858
 #EXTINF:-1 group-title="HBO",HBO HD
@@ -1018,8 +1018,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52471.ts
 
 #EXTINF:-1 group-title="NOTICIAS 2",Excelsior TV HD
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51436
-#EXTINF:-1 group-title="NOTICIAS 2",Excelsior TV SD
-http://higherpro.xyz:8080/999428602tv/2qvnd9/51445
 #EXTINF:-1 group-title="NOTICIAS 2",Formula Noticias
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51385
 
@@ -1680,8 +1678,6 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/51377
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51392
 
 
-#EXTINF:-1 group-title="AZTECA AMERICA",AZTECA AMERICA LOS ANGELES
-https://v-la.mybtv.net/live/107/1280x720.m3u8
 #EXTINF:-1 group-title="AZTECA AMERICA",AZTECA AMERICA LAS VEGAS
 https://v-lv.mybtv.net/live/1028/1280x720.m3u8
 #EXTINF:-1 group-title="AZTECA AMERICA",AZTECA AMERICA SAN DIEGO
@@ -2093,3 +2089,10 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/11955
 #EXTINF:-1 group-title="MUSICA",VH1 FHD (MX.)
 http://higherpro.xyz:8080/999428602tv/2qvnd9/11956
 
+
+#EXTINF:-1 group-title="SERIE SONIC Y SU BANDA",Sony Y Su Banda SD
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35492
+
+
+#EXTINF:-1 group-title="JOHNY BRAVO",Jhonny Bravo SD
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/49257
