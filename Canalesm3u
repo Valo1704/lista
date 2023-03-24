@@ -504,6 +504,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59076
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59076
 
 
+#EXTINF:-1 group-title="WARNER",WARNER HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51248
 #EXTINF:-1 group-title="WARNER",WARNER
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 #EXTINF:-1 group-title="WARNER",Warner HD
@@ -620,8 +622,20 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2037/PROFILE05.m3u8
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",LAS ESTRELLAS INTERNACIONAL
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",,CANAL DE LAS ESTRELLAS
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",CANAL DE LAS ESTRELLAS
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52485.ts
+
+
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 2",Las Estrellas HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51171
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 2",Las Estrellas HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51395
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 2",Las Estrellas HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40115
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 2",Las estrellas SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40114
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 2",Las Estrellas SD Opc. 1
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51247
 
 
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS -1H",LAS ESTRELLAS -1HR
@@ -700,6 +714,16 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/133289.ts
 http://z98ziptv.xyz:8036/Toledo/Toledo/169551
 #EXTINF:-1 group-title="NOVELAS",Telenovelas
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/218
+#EXTINF:-1 group-title="NOVELAS",Telenovelas HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40107
+#EXTINF:-1 group-title="NOVELAS",Telenovelas HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40108
+#EXTINF:-1 group-title="NOVELAS",TELENOVELAS SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51210
+#EXTINF:-1 group-title="NOVELAS",Telenovelas SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51325
+#EXTINF:-1 group-title="NOVELAS",Telenovelas SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40106
 
 
 #EXTINF:-1 group-title="AXN",AXN (Y)
@@ -774,6 +798,10 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87431
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324326.ts
 
 
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports FHD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37881
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports SD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37888
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 Latino America
@@ -826,6 +854,10 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48959.ts
 
 
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 FHD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37870
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 SD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37875
 #EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2
@@ -966,6 +998,12 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/146
 
 
+#EXTINF:-1 group-title="NOTICIAS 1",Adn 40 SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40103
+#EXTINF:-1 group-title="NOTICIAS 1",ADN40 HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51386
+#EXTINF:-1 group-title="NOTICIAS 1",ADN40 SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51265
 #EXTINF:-1 group-title="NOTICIAS 1",CNN en Espanol
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124067
 #EXTINF:-1 group-title="NOTICIAS 1",CNN EN ESPANOL FHD
@@ -978,6 +1016,14 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52471.ts
 
 
+#EXTINF:-1 group-title="NOTICIAS 2",Excelsior TV HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51436
+#EXTINF:-1 group-title="NOTICIAS 2",Excelsior TV SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51445
+#EXTINF:-1 group-title="NOTICIAS 2",Formula Noticias
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51385
+
+
 #EXTINF:-1 group-title="ESTADOS",TELEVISA PUEBLA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8
 #EXTINF:-1 group-title="ESTADOS",TELEVISA MONTERREY
@@ -988,6 +1034,50 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1954/PROFILE05.m3u8
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
 #EXTINF:-1 group-title="ESTADOS",MEXIQUENSE TV
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52486.ts
+
+
+#EXTINF:-1 group-title="ESTADOS 1",Canal 26 Aguascalientes HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51364
+#EXTINF:-1 group-title="ESTADOS 1",Canal 26 Aguascalientes SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51243
+#EXTINF:-1 group-title="ESTADOS 1",Canal 26 HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40101
+#EXTINF:-1 group-title="ESTADOS 1",Canal 26 HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40102
+#EXTINF:-1 group-title="ESTADOS 1",Canal 4 Guadalajara
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51433
+#EXTINF:-1 group-title="ESTADOS 1",Canal 4 HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51343
+#EXTINF:-1 group-title="ESTADOS 1",Canal 4 HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40091
+#EXTINF:-1 group-title="ESTADOS 1",Canal 4 SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40090
+
+
+#EXTINF:-1 group-title="ESTADOS 2",Mexiquense HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51154
+#EXTINF:-1 group-title="ESTADOS 2",Mexiquense SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51149
+#EXTINF:-1 group-title="ESTADOS 2",Mexiquense SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51181
+#EXTINF:-1 group-title="ESTADOS 2",Mexiquense SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40130
+
+
+#EXTINF:-1 group-title="ESTADOS 3",Televisa Puebla HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51349
+#EXTINF:-1 group-title="ESTADOS 3",Televisa Puebla HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40131
+#EXTINF:-1 group-title="ESTADOS 3",Televisa Puebla SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40117
+#EXTINF:-1 group-title="ESTADOS 3",Telemax Hermosillo
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51426
+#EXTINF:-1 group-title="ESTADOS 3",Televisa (Leon) SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51344
+#EXTINF:-1 group-title="ESTADOS 3",Televisa Monterrey SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40116
+#EXTINF:-1 group-title="ESTADOS 3",TRC TV Campeche
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51429
 
 
 #EXTINF:-1 group-title="CANAL 5",Canal 5 HD (XHGC-TDT)
@@ -1004,6 +1094,16 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86972
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 
 
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51233
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51351
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios HD Mty
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51408
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios Laguna
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51417
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS P. SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51264
 #EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS CDMX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
 #EXTINF:-1 group-title="MULTIMEDIOS",Multimedios
@@ -1346,6 +1446,10 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/169442.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/169441.ts
 
 
+#EXTINF:-1 group-title="AFFIZZIONADOS",Afizzionados HD - MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51496
+#EXTINF:-1 group-title="AFFIZZIONADOS",Afizzionados HD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37971
 #EXTINF:-1 group-title="AFFIZZIONADOS",Afizzionados
 http://z98ziptv.xyz:8036/Toledo/Toledo/168363
 #EXTINF:-1 group-title="AFFIZZIONADOS",AFIZZIONADOS
@@ -1354,12 +1458,20 @@ https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87087
 
 
+#EXTINF:-1 group-title="TUDN",TUDN MX HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51500
+#EXTINF:-1 group-title="TUDN",TUDN MX SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51501
 #EXTINF:-1 group-title="TUDN",TUDN HD
 http://z98ziptv.xyz:8036/Toledo/Toledo/168546
 #EXTINF:-1 group-title="TUDN",TUDN
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
 #EXTINF:-1 group-title="TUDN",TUDN HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
+#EXTINF:-1 group-title="TUDN",TUDN FHD - MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37916
+#EXTINF:-1 group-title="TUDN",TUDN SD - MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37917
 
 
 #EXTINF:-1 group-title="TUDN 1",TUDN
@@ -1416,6 +1528,12 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144828
   http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144829
 
 
+#EXTINF:-1 group-title="ESPN 1",ESPN FHD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37863
+#EXTINF:-1 group-title="ESPN 1",ESPN HD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37865
+#EXTINF:-1 group-title="ESPN 1",ESPN SD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37867
 #EXTINF:-1 group-title="ESPN 1",ESPN 1
 http://z98ziptv.xyz:8036/Toledo/Toledo/168382
 #EXTINF:-1 group-title="ESPN 1",ESPN 1
@@ -1430,6 +1548,10 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/265
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 
 
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37848
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 SD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37852
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
 http://z98ziptv.xyz:8036/Toledo/Toledo/168383
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
@@ -1444,6 +1566,8 @@ http://190.131.228.59:8000/play/a05s/index.m3u8
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140204
 
 
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD MX
+http://higherpro.xyz:8080/999428602tv/2qvnd9/37854
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://z98ziptv.xyz:8036/Toledo/Toledo/168384
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
@@ -1518,6 +1642,20 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52476.ts
 
 
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca UNO
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51345
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca UNO HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51380
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca Uno HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40087
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca Uno HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40088
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca UNO.
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51276
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca UNO..
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51268
+
+
 #EXTINF:-1 group-title="AZTECA UNO -2H",AZTECA UNO -2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 
@@ -1530,6 +1668,16 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/172
 #EXTINF:-1 group-title="AZTECA 7",AZTECA 7
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52474.ts
+
+
+#EXTINF:-1 group-title="AZTECA 7.1",Azteca 7 HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51370
+#EXTINF:-1 group-title="AZTECA 7.1",Azteca 7 HD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/40095
+#EXTINF:-1 group-title="AZTECA 7.1",Azteca 7 HD Opc 1
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51377
+#EXTINF:-1 group-title="AZTECA 7.1",Azteca 7 SD
+http://higherpro.xyz:8080/999428602tv/2qvnd9/51392
 
 
 #EXTINF:-1 group-title="AZTECA AMERICA",AZTECA AMERICA LOS ANGELES
@@ -1934,3 +2082,14 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50586
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50574
 #EXTINF:-1 group-title="CINEMA",Cinema Horror FHD
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50583
+
+
+#EXTINF:-1 group-title="MUSICA",MTV Live (MX)
+http://higherpro.xyz:8080/999428602tv/2qvnd9/11944
+#EXTINF:-1 group-title="MUSICA",Live FHD (MX)
+http://higherpro.xyz:8080/999428602tv/2qvnd9/11945
+#EXTINF:-1 group-title="MUSICA",VH1 Classic (MX.)
+http://higherpro.xyz:8080/999428602tv/2qvnd9/11955
+#EXTINF:-1 group-title="MUSICA",VH1 FHD (MX.)
+http://higherpro.xyz:8080/999428602tv/2qvnd9/11956
+
