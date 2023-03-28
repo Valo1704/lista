@@ -132,18 +132,6 @@ http://hidra.live:80/Diego/Diego/35493
 http://hidra.live:80/Diego/Diego/35533
 
 
-#EXTINF:-1 group-title="SERIE ALIENIGENAS ANCESTRALES",Alienigenas Ancestrales SD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/49167
-#EXTINF:-1 group-title="SERIE ALIENIGENAS ANCESTRALES",Alienigenas Ancestrales SD
-http://hidra.live:80/Diego/Diego/49167
-#EXTINF:-1 group-title="SERIE ALIENIGENAS ANCESTRALES",Alienigenas Ancestrales SD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/49167
-
-
-#EXTINF:-1 group-title="SERIE CATASTROFES AEREAS",ayday Catastrofes Aereas SD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/49166
-
-
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
 http://z98ziptv.xyz:8036/Toledo/Toledo/168381
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD
@@ -192,6 +180,24 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52469.ts
 
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINE MARVEL *
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87465.ts
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155980
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155981
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 4 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155982
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 5 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155983
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 6 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155984
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 7 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155985
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 8 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155986
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 9 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155987
+#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 10 HD
+http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155988
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Animated FHD
 http://hidra.live:80/Diego/Diego/50585
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Studios FHD
@@ -228,8 +234,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/129772.ts
 http://190.131.228.59:8000/play/a09a/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO FHD ( DUAL AUDIO)
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86858
-#EXTINF:-1 group-title="HBO",HBO
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/140934
 #EXTINF:-1 group-title="HBO",HBO LATINO R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
 #EXTINF:-1 group-title="HBO",HBO HD IN
@@ -660,8 +664,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87465
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/144724.ts
 #EXTINF:-1 group-title="DISCOVERY 1",INVESTIGATION DISCOVERY HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324316.ts
-#EXTINF:-1 group-title="DISCOVERY 1",Discovery World
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/236
 #EXTINF:-1 group-title="DISCOVERY",Discovery Science
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/241
 #EXTINF:-1 group-title="DISCOVERY 1",DISCOVERY SCIENCE HD
@@ -674,8 +676,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121707.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121708.ts
 #EXTINF:-1 group-title="DISCOVERY 1",DISCOVERY KIDS FHD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/146513.ts
-#EXTINF:-1 group-title="DISCOVERY 1",DISCOVERY KIDS HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323863.ts
 #EXTINF:-1 group-title="DISCOVERY 1",DISCOVERY THEATER
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/133289.ts
 
@@ -1062,8 +1062,6 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/191
 
 #EXTINF:-1 group-title="UNIMAS",UNIMAS WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140229
-#EXTINF:-1 group-title="UNIMAS",UNIMAS NEW YORK
-https://v-ny.mybtv.net/live/713/1280x720.m3u8
 
 
 #EXTINF:-1 group-title="NFL",NFL HD
@@ -1076,10 +1074,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98
 http://176.57.50.167:25461/557496/064121/83043
 #EXTINF:-1 group-title="NBA",NBA 03
 http://176.57.50.167:25461/557496/064121/83045
-#EXTINF:-1 group-title="NBA",LP04
-http://176.57.50.167:25461/557496/064121/86045
-#EXTINF:-1 group-title="NBA",LP05
-http://176.57.50.167:25461/557496/064121/86046
 #EXTINF:-1 group-title="NBA",LP07
 http://176.57.50.167:25461/557496/064121/86048
 #EXTINF:-1 group-title="NBA",LP 08
@@ -1096,8 +1090,6 @@ http://176.57.50.167:25461/557496/064121/87244
 http://176.57.50.167:25461/557496/064121/83043
 #EXTINF:-1 group-title="NBA",NBA 02
 http://176.57.50.167:25461/557496/064121/83044
-#EXTINF:-1 group-title="NBA",LP05
-http://176.57.50.167:25461/557496/064121/86046
 #EXTINF:-1 group-title="NBA",LP07
 http://176.57.50.167:25461/557496/064121/86048
 #EXTINF:-1 group-title="NBA",REPLAY 11
@@ -1134,16 +1126,10 @@ http://176.57.50.167:25461/557496/064121/83045
 http://176.57.50.167:25461/557496/064121/86050
 #EXTINF:-1 group-title="NBA 2",NBA 02
 http://supersonictv.live:25461/218024/760877/83044
-#EXTINF:-1 group-title="NBA 2",NBA LP04
-http://supersonictv.live:25461/218024/760877/86045
-#EXTINF:-1 group-title="NBA 2",NBA LP05
-http://supersonictv.live:25461/218024/760877/86046
 #EXTINF:-1 group-title="NBA 2",NBA LP07 :
 http://supersonictv.live:25461/218024/760877/86048
 #EXTINF:-1 group-title="NBA 2",NBA LP 10
 http://supersonictv.live:25461/218024/760877/86051
-#EXTINF:-1 group-title="NBA 2",NBA ON ESPN
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59661
 #EXTINF:-1 group-title="NBA 2",NBA ON FOX SPORTS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59662
 #EXTINF:-1 group-title="NBA 2",NBA ON ABC
@@ -1256,18 +1242,8 @@ http://176.57.50.167:25461/557496/064121/86049
 http://176.57.50.167:25461/557496/064121/86050
 
 
-#EXTINF:-1 group-title="NBA 6",NBA 01 League Pass
- http://higherpro.xyz:8080/999428602tv/2qvnd9/122192
-#EXTINF:-1 group-title="NBA 6",NBA 02 League Pass
-http://higherpro.xyz:8080/999428602tv/2qvnd9/122193
-#EXTINF:-1 group-title="NBA 6",NBA 03 League Pass
-http://higherpro.xyz:8080/999428602tv/2qvnd9/122194
 #EXTINF:-1 group-title="NBA 6",NBA 05 League Pass
 http://higherpro.xyz:8080/999428602tv/2qvnd9/122196
-#EXTINF:-1 group-title="NBA 6",NBA 06 League Pass
-http://higherpro.xyz:8080/999428602tv/2qvnd9/122197
-#EXTINF:-1 group-title="NBA 6",NBA 07 League Pass
-http://higherpro.xyz:8080/999428602tv/2qvnd9/122198
 
 
 #EXTINF:-1 group-title="NBA 7",NBA PASS GAME HD 1
@@ -1367,18 +1343,10 @@ http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191158
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191159
 
 
-#EXTINF:-1 group-title="TELEMUNDO",TELEMUNDO LOS ANGELES
-https://v-la.mybtv.net/live/267/1920x1080.m3u8
-#EXTINF:-1 group-title="TELEMUNDO",TELEMUNDO PHOENIX
-https://v-px.mybtv.net/live/39/1920x1080.m3u8
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo West HH ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140232
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo East HD ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140233
-#EXTINF:-1 group-title="TELEMUNDO",TELEMUNDO LOS ANGELES
-https://v-la.mybtv.net/live/267/1920x1080.m3u8
-#EXTINF:-1 group-title="TELEMUNDO",TELEMUNDO PHOENIX
-https://v-px.mybtv.net/live/39/1920x1080.m3u8
 #EXTINF:-1 group-title="TELEMUNDO",TELEMUNDO 51 MIAMI (E)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/169438.ts
 
@@ -1431,8 +1399,6 @@ https://nbculocallive.akamaized.net/hls/live/2037606/tampa/stream1/master.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master.m3u8
 
 
-#EXTINF:-1 group-title="ESTRELLA TV",ESTRELLA TV LOS ANGELES
-https://v-la.mybtv.net/live/112/1280x720.m3u8
 #EXTINF:-1 group-title="ESTRELLA TV",ESTRELLA TV
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92436.ts
 
@@ -1635,8 +1601,6 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/51392
 
 #EXTINF:-1 group-title="AZTECA AMERICA",AZTECA AMERICA LAS VEGAS
 https://v-lv.mybtv.net/live/1028/1280x720.m3u8
-#EXTINF:-1 group-title="AZTECA AMERICA",AZTECA AMERICA SAN DIEGO
-https://v-sd.mybtv.net/live/508/1920x1080.m3u8
 
 
 #EXTINF:-1 group-title="AZTECA TV",AZ CLIC
@@ -2043,7 +2007,3 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/11956
 
 #EXTINF:-1 group-title="SERIE SONIC Y SU BANDA",Sony Y Su Banda SD
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35492
-
-
-#EXTINF:-1 group-title="JOHNY BRAVO",Jhonny Bravo SD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/49257
