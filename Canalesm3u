@@ -472,8 +472,18 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137844.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137607.ts
 
 
+#EXTINF:-1 group-title="SYFY",SyFy (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26622.ts
+#EXTINF:-1 group-title="SYFY",SyFy Full HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26623.ts
+
+
 #EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL HD
 http://z98ziptv.xyz:8036/Toledo/Toledo/170322
+#EXTINF:-1 group-title="STAR CHANNEL",Star Channel (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24124.ts
+#EXTINF:-1 group-title="STAR CHANNEL",Star Channel Full HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24125.ts
 #EXTINF:-1 group-title="STAR CHANNEL 1",STAR CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 group-title="STAR CHANNEL 1",STAR CHANNEL 2
@@ -494,6 +504,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59076
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59076
 
 
+#EXTINF:-1 group-title="WARNER",Warner Channel (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24635.ts
 #EXTINF:-1 group-title="WARNER",WARNER HD
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51248
 #EXTINF:-1 group-title="WARNER",WARNER
@@ -539,6 +551,10 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121615.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121616.ts
 
 
+#EXTINF:-1 group-title="SPACE",Space (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/4004.ts
+#EXTINF:-1 group-title="SPACE",Space Full HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/15129.ts
 #EXTINF:-1 group-title="SPACE",SPACE CHANNEL  (Y)
 http://z98ziptv.xyz:8036/Toledo/Toledo/170311
 #EXTINF:-1 group-title="SPACE",SPACE
@@ -761,6 +777,10 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121645.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/46890.ts
 
 
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/994.ts
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7345.ts
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
@@ -775,6 +795,10 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166508.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323869.ts
 
 
+#EXTINF:-1 group-title="BOOMERANG",Boomerang (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7353.ts
+#EXTINF:-1 group-title="BOOMERANG",Boomerang Full HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7352.ts
 #EXTINF:-1 group-title="BOOMERANG",Boomerang
 http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 
@@ -783,6 +807,14 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 
 
+#EXTINF:-1 group-title="DISNEY",Disney Junior (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7347.ts
+#EXTINF:-1 group-title="DISNEY",Disney Junior Full HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7356.ts
+#EXTINF:-1 group-title="DISNEY",Disney Channel SD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7349.ts
+#EXTINF:-1 group-title="DISNEY",Disney Channel HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7348.ts
 #EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL PREMIUN FHD ( DUAL AUDIO)
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86874
 #EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL PREMIUN FHD ( DUAL AUDIO)
@@ -937,6 +969,10 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
 
 
+#EXTINF:-1 group-title="TNT",TNT HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32320.ts
+#EXTINF:-1 group-title="TNT",TNT Full HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24132.ts
 #EXTINF:-1 group-title="TNT",TNT  FHD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87639
 #EXTINF:-1 group-title="TNT",TNT Series
@@ -1017,6 +1053,12 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52471.ts
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51436
 #EXTINF:-1 group-title="NOTICIAS 2",Formula Noticias
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51385
+#EXTINF:-1 group-title="NOTICIAS 2",ADN 40 (MOVIL)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/64721.ts
+#EXTINF:-1 group-title="NOTICIAS 2",ADN 40
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24039.ts
+#EXTINF:-1 group-title="NOTICIAS 2",ADN 40 HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/107115.ts
 
 
 #EXTINF:-1 group-title="ESTADOS",TELEVISA PUEBLA
@@ -1075,6 +1117,16 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/40116
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51429
 
 
+#EXTINF:-1 group-title="ESTADOS 5",Televisa MTY
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24048.ts
+#EXTINF:-1 group-title="ESTADOS 5",Televisa Puebla (MOVIL)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/65785.ts
+#EXTINF:-1 group-title="ESTADOS 5",Televisa Puebla
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24049.ts
+#EXTINF:-1 group-title="ESTADOS 5",Televisa Puebla Full HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24050.ts
+
+
 #EXTINF:-1 group-title="CANAL 5",Canal 5 HD (XHGC-TDT)
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
 #EXTINF:-1 group-title="CANAL 5",Canal 5 HD Mexico
@@ -1103,6 +1155,16 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/51264
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
 #EXTINF:-1 group-title="MULTIMEDIOS",Multimedios
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/191
+
+
+#EXTINF:-1 group-title="MULTIMEDIOS 1",Multimedios
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24043.ts
+#EXTINF:-1 group-title="MULTIMEDIOS 1",Multimedios Full HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24044.ts
+#EXTINF:-1 group-title="MULTIMEDIOS 1",Multimedios Plus
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24045.ts
+#EXTINF:-1 group-title="MULTIMEDIOS 1",Multimedios Plus Full HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24046.ts
 
 
 #EXTINF:-1 group-title="UNIMAS",UNIMAS WEST
@@ -1608,6 +1670,14 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52476.ts
 
 
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca Uno (MOVIL)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/65050.ts
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca Uno
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24034.ts
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca Uno Full HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24035.ts
+
+
 #EXTINF:-1 group-title="AZTECA UNO 1",Azteca UNO
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51345
 #EXTINF:-1 group-title="AZTECA UNO 1",Azteca UNO HD
@@ -1644,6 +1714,14 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/40095
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51377
 #EXTINF:-1 group-title="AZTECA 7.1",Azteca 7 SD
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51392
+
+
+#EXTINF:-1 group-title="AZTECA 7.2",Azteca 7 (MOVIL)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/64739.ts
+#EXTINF:-1 group-title="AZTECA 7.2",Azteca 7
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24032.ts
+#EXTINF:-1 group-title="AZTECA 7.2",Azteca 7 Full HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24033.ts
 
 
 #EXTINF:-1 group-title="AZTECA AMERICA",AZTECA AMERICA LAS VEGAS
@@ -1782,6 +1860,12 @@ https://v3.playerlatino.live/stream/m3u8/709
 https://v3.playerlatino.live/stream/m3u8/710
 #EXTINF:-1 group-title="CINE FANTASIA",Cine Ficcion/Fantasia Sagas
 https://v3.playerlatino.live/stream/m3u8/711
+
+
+#EXTINF:-1 group-title="SONY",Sony (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24138.ts
+#EXTINF:-1 group-title="SONY",Sony Full HD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24139.ts
 
 
 #EXTINF:-1 group-title="CINE INFANTIL",Cine Infantil
@@ -2046,6 +2130,22 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50574
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50583
 
 
+#EXTINF:-1 group-title="MUSICA",MTV (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36563.ts
+#EXTINF:-1 group-title="MUSICA",MTV FHD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36564.ts
+#EXTINF:-1 group-title="MUSICA",MTV Hits (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36568.ts
+#EXTINF:-1 group-title="MUSICA",MTV Live (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36569.ts
+#EXTINF:-1 group-title="MUSICA",MTV Live FHD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36570.ts
+#EXTINF:-1 group-title="MUSICA",RMS (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36578.ts
+#EXTINF:-1 group-title="MUSICA",Telehit (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36579.ts
+#EXTINF:-1 group-title="MUSICA",VH1 FHD (MX)
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36584.ts
 #EXTINF:-1 group-title="MUSICA",MTV Live (MX)
 http://higherpro.xyz:8080/999428602tv/2qvnd9/11944
 #EXTINF:-1 group-title="MUSICA",Live FHD (MX)
