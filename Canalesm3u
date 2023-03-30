@@ -469,8 +469,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/118258
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/136175.ts
 
 
-#EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL_CRIME_HD_MX
-http://z98ziptv.xyz:8036/Toledo/Toledo/169265
 #EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIMEN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 #EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIMEN
@@ -761,8 +759,6 @@ http://190.131.228.59:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 group-title="AXN 1",AXN CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86849
-#EXTINF:-1 group-title="AXN 1",AXN HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324319.ts
 #EXTINF:-1 group-title="AXN 1",AXN opcion 1
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/147173.ts
 #EXTINF:-1 group-title="AXN 1",AXN opcion 2
@@ -835,10 +831,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87431
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324326.ts
 
 
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports FHD MX
-http://higherpro.xyz:8080/999428602tv/2qvnd9/37881
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports SD MX
-http://higherpro.xyz:8080/999428602tv/2qvnd9/37888
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 Latino America
@@ -1105,16 +1097,8 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52486.ts
 
 
-#EXTINF:-1 group-title="ESTADOS 1",Canal 26 Aguascalientes HD
-http://higherpro.xyz:8080/999428602tv/2qvnd9/51364
 #EXTINF:-1 group-title="ESTADOS 1",Canal 26 Aguascalientes SD
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51243
-#EXTINF:-1 group-title="ESTADOS 1",Canal 26 HD
-http://higherpro.xyz:8080/999428602tv/2qvnd9/40101
-#EXTINF:-1 group-title="ESTADOS 1",Canal 26 HD
-http://higherpro.xyz:8080/999428602tv/2qvnd9/40102
-#EXTINF:-1 group-title="ESTADOS 1",Canal 4 Guadalajara
-http://higherpro.xyz:8080/999428602tv/2qvnd9/51433
 #EXTINF:-1 group-title="ESTADOS 1",Canal 4 HD
 http://higherpro.xyz:8080/999428602tv/2qvnd9/40091
 
@@ -1213,22 +1197,6 @@ http://176.57.50.167:25461/557496/064121/87242
 http://176.57.50.167:25461/557496/064121/87243
 #EXTINF:-1 group-title="NBA",REPLAY 13
 http://176.57.50.167:25461/557496/064121/87244
-
-
-#EXTINF:-1 group-title="NBA 1",NBA LEAGUE PASS 1 FHD [ Match Time Only ]
-http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/68076
-#EXTINF:-1 group-title="NBA 1",NBA LEAGUE PASS 2 FHD [ Match Time Only ]
-http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/68077
-#EXTINF:-1 group-title="NBA 1",NBA LEAGUE PASS 3 FHD [ Match Time Only ]
-http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/68078
-#EXTINF:-1 group-title="NBA 1",NBA LEAGUE PASS 4 FHD [ Match Time Only ]
-http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/68079
-#EXTINF:-1 group-title="NBA 1",NBA LEAGUE PASS 5 FHD [ Match Time Only ]
-http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/68080
-#EXTINF:-1 group-title="NBA 1",NBA LEAGUE PASS 6 FHD [ Match Time Only ]
-http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/68081
-#EXTINF:-1 group-title="NBA 1",NBA LEAGUE PASS 7 FHD [ Match Time Only ]
-http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/68082
 
 
 #EXTINF:-1 group-title="NBA 2",NBCSWA Feed
@@ -1518,8 +1486,6 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/37917
 
 #EXTINF:-1 group-title="TUDN 1",UNIVISION DEPORTES HD
 http://playhispano.org:25461/Eddiepremium/024686420/86244
-#EXTINF:-1 group-title="TUDN 1",TUDN USA HD
-http://playhispano.org:25461/Eddiepremium/024686420/86242
 #EXTINF:-1 group-title="TUDN 1",TUDN  DEPORTES USA HD
 http://playhispano.org:25461/Eddiepremium/024686420/86296
 #EXTINF:-1 group-title="TUDN 1",TUDN
@@ -1530,8 +1496,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48991.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48992.ts
 
 
-#EXTINF:-1 group-title="TUDN 1-1",UNIVISION DEPORTES HD P
-http://playhispano.org:25461/Eddiepremium/024686420/87981
 #EXTINF:-1 group-title="TUDN 1-1",TUDN DEPORTES USA HD
 http://playhispano.org:25461/Eddiepremium/024686420/87982
 
@@ -1725,8 +1689,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24032.ts
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24033.ts
 
 
-#EXTINF:-1 group-title="AZTECA TV",AZ CLIC
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52472.ts
 #EXTINF:-1 group-title="AZTECA TV",AZTECA CINEMA
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/288425.ts
 
@@ -1825,8 +1787,6 @@ http://hidra.live:80/Diego/Diego/50580
 
 #EXTINF:-1 group-title="A&E",A&E (MX)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24094.ts
-#EXTINF:-1 group-title="A&E",A&E Full HD (MX)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24095.ts
 #EXTINF:-1 group-title="A&E",A&E Mundo
 http://190.131.228.59:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="A&E",A&E
