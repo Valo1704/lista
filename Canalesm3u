@@ -20,8 +20,6 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/492101
 http://go-nextlevel.xyz:25461/Victor2022/Victor2022/230126
 #EXTINF:-1 group-title="SERIE PAJARO LOCO",El pajaro loco
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130635
-#EXTINF:-1 group-title="SERIE PAJARO LOCO",El Pájaro Loco SD
-http://hidra.live:80/Diego/Diego/35495
 
 
 #EXTINF:-1 group-title="SERIE LOS SIMPSONS",LOS SIMPSONS 1
@@ -737,8 +735,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166511.ts
 
 #EXTINF:-1 group-title="DISCOVERY FAMILY",DISCOVERY FAMILIA
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121707.ts
-#EXTINF:-1 group-title="DISCOVERY FAMILY",DISCOVERY FAMILIA HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121708.ts
 
 
 #EXTINF:-1 group-title="DISCOVERY KIDS",DISCOVERY KIDS FHD
@@ -913,8 +909,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/90515
 http://playhispano.org:25461/Eddiepremium/024686420/90518
 
 
-#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 FHD MX
-http://higherpro.xyz:8080/999428602tv/2qvnd9/37870
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 SD MX
 http://higherpro.xyz:8080/999428602tv/2qvnd9/37875
 #EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
@@ -1045,8 +1039,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121700.ts
 
 #EXTINF:-1 group-title="STARZ",STARZ ENCORE HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87627
-#EXTINF:-1 group-title="STARZ",STARZ ENCORE WESTERNS HD
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87628
 #EXTINF:-1 group-title="STARZ",STARZ FAMLY HD
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87629
 #EXTINF:-1 group-title="STARZ",STARZ LATINO HD
@@ -1923,20 +1915,14 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
 
 #EXTINF:-1 group-title="AMERICA TV 2",AMERICA TV
 http://z98ziptv.xyz:8036/Toledo/Toledo/169798
-#EXTINF:-1 group-title="AMERICA TV 2",AMERICA TV
-http://z98ziptv.xyz:8036/Toledo/Toledo/169795
 #EXTINF:-1 group-title="AMERICA TV 2",AMERICA TV HD
 http://z98ziptv.xyz:8036/Toledo/Toledo/169756
 
 
-#EXTINF:-1 group-title="AMERICA TV 3",America TV OPC 2
-http://higherpro.xyz:8080/999428602tv/2qvnd9/69793
 #EXTINF:-1 group-title="AMERICA TV 3",America TV FHD
 http://higherpro.xyz:8080/999428602tv/2qvnd9/69794
 #EXTINF:-1 group-title="AMERICA TV 3",America TV FHD P
 http://higherpro.xyz:8080/999428602tv/2qvnd9/69795
-#EXTINF:-1 group-title="AMERICA TV 3",America TV HD
-http://higherpro.xyz:8080/999428602tv/2qvnd9/69796
 
 
 #EXTINF:-1 group-title="PELICULAS",Capitan America: Guerra civil (4K)
@@ -2295,8 +2281,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36578.ts
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36579.ts
 #EXTINF:-1 group-title="MUSICA",VH1 FHD (MX)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36584.ts
-#EXTINF:-1 group-title="MUSICA",VH1 Classic (MX.)
-http://higherpro.xyz:8080/999428602tv/2qvnd9/11955
 
 
 #EXTINF:-1 group-title="SERIE SONIC Y SU BANDA",Sony Y Su Banda SD
@@ -2407,8 +2391,6 @@ http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34511
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34512
 #EXTINF:-1 group-title="CINEMA 2",Cinema 37
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34513
-#EXTINF:-1 group-title="CINEMA 2",Starz West FHD
-http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34517
 
 
 #EXTINF:-1 group-title="CINEMA 1",Cinema 37 PPV
@@ -2521,8 +2503,6 @@ http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24963.ts
 http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24964.ts
 #EXTINF:-1 group-title="CINEMA",Cinema 22
 http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24965.ts
-#EXTINF:-1 group-title="CINEMA",Cinema 23
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24966.ts
 #EXTINF:-1 group-title="CINEMA",Cinema 24
 http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24967.ts
 #EXTINF:-1 group-title="CINEMA",Cinema 25
