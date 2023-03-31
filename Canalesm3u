@@ -192,6 +192,16 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52469.ts
 
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINE MARVEL *
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87465.ts
+#EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
+http://tv.nousiptv.com:8080/danymore64@gmail.com/349OZgxvh0/44728
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Animated FHD
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/50585
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios FHD
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/50586
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Este FHD
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/58067
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Oeste FHD
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/58068
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155980
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
@@ -204,6 +214,10 @@ http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155983
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155984
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 7 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155985
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Sr Cine Marvel Studios HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/70964.ts
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Sr Cine Marvel Studios Animado HD
+http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/71722.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Animated FHD
 http://hidra.live:80/Diego/Diego/50585
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Studios FHD
@@ -557,8 +571,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87006
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121650.ts
 
 
-#EXTINF:-1 group-title="PARAMOUNT",Paramount Channel (MX)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24129.ts
 #EXTINF:-1 group-title="PARAMOUNT",Paramount Channel FHD (MX)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24130.ts
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT NETWORK
@@ -777,8 +789,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/46890.ts
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/994.ts
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network HD (MX)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7345.ts
-#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
 http://190.131.228.59:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
@@ -1109,16 +1119,10 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/40130
 
 #EXTINF:-1 group-title="ESTADOS 3",Televisa Puebla HD
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51349
-#EXTINF:-1 group-title="ESTADOS 3",Televisa Puebla HD
-http://higherpro.xyz:8080/999428602tv/2qvnd9/40131
-#EXTINF:-1 group-title="ESTADOS 3",Televisa Puebla SD
-http://higherpro.xyz:8080/999428602tv/2qvnd9/40117
 #EXTINF:-1 group-title="ESTADOS 3",Telemax Hermosillo
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51426
 #EXTINF:-1 group-title="ESTADOS 3",Televisa (Leon) SD
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51344
-#EXTINF:-1 group-title="ESTADOS 3",Televisa Monterrey SD
-http://higherpro.xyz:8080/999428602tv/2qvnd9/40116
 #EXTINF:-1 group-title="ESTADOS 3",TRC TV Campeche
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51429
 
@@ -1480,8 +1484,6 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/51500
 http://higherpro.xyz:8080/999428602tv/2qvnd9/51501
 #EXTINF:-1 group-title="TUDN",TUDN FHD - MX
 http://higherpro.xyz:8080/999428602tv/2qvnd9/37916
-#EXTINF:-1 group-title="TUDN",TUDN SD - MX
-http://higherpro.xyz:8080/999428602tv/2qvnd9/37917
 
 
 #EXTINF:-1 group-title="TUDN 1",UNIVISION DEPORTES HD
@@ -1500,8 +1502,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48992.ts
 http://playhispano.org:25461/Eddiepremium/024686420/87982
 
 
-#EXTINF:-1 group-title="ESPN 1",ESPN FHD MX
-http://higherpro.xyz:8080/999428602tv/2qvnd9/37863
 #EXTINF:-1 group-title="ESPN 1",ESPN SD MX
 http://higherpro.xyz:8080/999428602tv/2qvnd9/37867
 #EXTINF:-1 group-title="ESPN 1",ESPN 1
@@ -1547,8 +1547,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/86255
 http://playhispano.org:25461/Eddiepremium/024686420/86265
 
 
-#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD MX
-http://higherpro.xyz:8080/999428602tv/2qvnd9/37854
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://z98ziptv.xyz:8036/Toledo/Toledo/168384
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
@@ -2103,8 +2101,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36579.ts
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36584.ts
 #EXTINF:-1 group-title="MUSICA",VH1 Classic (MX.)
 http://higherpro.xyz:8080/999428602tv/2qvnd9/11955
-#EXTINF:-1 group-title="MUSICA",VH1 FHD (MX.)
-http://higherpro.xyz:8080/999428602tv/2qvnd9/11956
 
 
 #EXTINF:-1 group-title="SERIE SONIC Y SU BANDA",Sony Y Su Banda SD
@@ -2143,3 +2139,77 @@ http://playhispano.org:25461/Eddiepremium/024686420/177471
 http://playhispano.org:25461/Eddiepremium/024686420/177473
 #EXTINF:-1 group-title="VIX DEPORTES",VIX DEPORTES (FHD) 15 Deportes
 http://playhispano.org:25461/Eddiepremium/024686420/177474
+
+
+#EXTINF:-1 group-title="CINEMA",Cinema 02
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34478
+#EXTINF:-1 group-title="CINEMA",Cinema 03
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34479
+#EXTINF:-1 group-title="CINEMA",Cinema 04
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34480
+#EXTINF:-1 group-title="CINEMA",Cinema 05
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34481
+#EXTINF:-1 group-title="CINEMA",Cinema 06
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34482
+#EXTINF:-1 group-title="CINEMA",Cinema 07
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34483
+#EXTINF:-1 group-title="CINEMA",Cinema 08
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34484
+#EXTINF:-1 group-title="CINEMA",Cinema 09
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34485
+#EXTINF:-1 group-title="CINEMA",Cinema 10
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34486
+#EXTINF:-1 group-title="CINEMA",Cinema 11
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34487
+#EXTINF:-1 group-title="CINEMA",Cinema 12
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34488
+#EXTINF:-1 group-title="CINEMA",Cinema 13
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34489
+#EXTINF:-1 group-title="CINEMA",Cinema 14
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34490
+#EXTINF:-1 group-title="CINEMA",Cinema 15
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34491
+#EXTINF:-1 group-title="CINEMA",Cinema 16
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34492
+#EXTINF:-1 group-title="CINEMA",Cinema 17
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34493
+#EXTINF:-1 group-title="CINEMA",Cinema 18
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34494
+#EXTINF:-1 group-title="CINEMA",Cinema 19
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34495
+#EXTINF:-1 group-title="CINEMA",Cinema 20
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34496
+#EXTINF:-1 group-title="CINEMA",Cinema 21
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34497
+#EXTINF:-1 group-title="CINEMA",Cinema 22
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34498
+#EXTINF:-1 group-title="CINEMA",Cinema 23
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34499
+#EXTINF:-1 group-title="CINEMA",inema 24
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34500
+#EXTINF:-1 group-title="CINEMA",Cinema 25
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34501
+#EXTINF:-1 group-title="CINEMA",Cinema 26
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34502
+#EXTINF:-1 group-title="CINEMA",Cinema 27
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34503
+#EXTINF:-1 group-title="CINEMA",Cinema 28
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34504
+#EXTINF:-1 group-title="CINEMA",Cinema 30
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34506
+#EXTINF:-1 group-title="CINEMA",Cinema 31
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34507
+#EXTINF:-1 group-title="CINEMA",Cinema 32
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34508
+#EXTINF:-1 group-title="CINEMA",Cinema 33
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34509
+#EXTINF:-1 group-title="CINEMA",Cinema 34
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34510
+#EXTINF:-1 group-title="CINEMA",Cinema 35
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34511
+#EXTINF:-1 group-title="CINEMA",Cinema 36
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34512
+#EXTINF:-1 group-title="CINEMA",Cinema 37
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34513
+#EXTINF:-1 group-title="CINEMA",Starz West FHD
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34517
