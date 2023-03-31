@@ -1,5 +1,9 @@
 #EXTINF:-1 group-title="SERIE ALERTA AEROPUERTO",ALERTA AEROPUERTO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
+#EXTINF:-1 group-title="SERIE ALERTA AEROPUERTO",Alerta Aeropuerto SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/323271.ts
+#EXTINF:-1 group-title="SERIE ALERTA AEROPUERTO",Alerta Aeropuerto HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/327729.ts
 
 
 #EXTINF:-1 group-title="SERIE BATMAN",Batman del Futuro
@@ -589,6 +593,12 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121641.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121642.ts
 
 
+#EXTINF:-1 group-title="CINEMAX",Cinemax (CO)
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/4615.ts
+#EXTINF:-1 group-title="CINEMAX",Cinemax (MX)
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/1037.ts
+#EXTINF:-1 group-title="CINEMAX",Cinemax Full HD (MX)
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/15128.ts
 #EXTINF:-1 group-title="CINEMAX",Cinemax (MX)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/1037.ts
 #EXTINF:-1 group-title="CINEMAX",Cinemax Full HD (MX)
@@ -1309,6 +1319,128 @@ http://176.57.50.167:25461/557496/064121/86049
 http://176.57.50.167:25461/557496/064121/86050
 
 
+#EXTINF:-1 group-title="NBA 6",NBA 01
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663687
+#EXTINF:-1 group-title="NBA 6",NBA 02
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663688
+#EXTINF:-1 group-title="NBA 6",NBA 03
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663689
+#EXTINF:-1 group-title="NBA 6",NBA 04
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663690
+#EXTINF:-1 group-title="NBA 6",NBA 05
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663691
+#EXTINF:-1 group-title="NBA 6",NBA 06
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663692
+#EXTINF:-1 group-title="NBA 6",NBA 07
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663693
+#EXTINF:-1 group-title="NBA 6",NBA 08
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663694
+#EXTINF:-1 group-title="NBA 6",NBA 09
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663695
+#EXTINF:-1 group-title="NBA 6",NBA 10
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663696
+#EXTINF:-1 group-title="NBA 6",NBA 11
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663697
+#EXTINF:-1 group-title="NBA 6",NBA 12
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663698
+#EXTINF:-1 group-title="NBA 6",NBA 13
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663699
+#EXTINF:-1 group-title="NBA 6",NBA 14
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663700
+#EXTINF:-1 group-title="NBA 6",NBA 15
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663701
+#EXTINF:-1 group-title="NBA 6",NBA 16
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663702
+#EXTINF:-1 group-title="NBA 6",NBA 17
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663703
+#EXTINF:-1 group-title="NBA 6",NBA 18
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663704
+#EXTINF:-1 group-title="NBA 6",NBA 19
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663705
+#EXTINF:-1 group-title="NBA 6",NBA 20
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663706
+#EXTINF:-1 group-title="NBA 6",NBA 21
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663707
+#EXTINF:-1 group-title="NBA 6",NBA 22
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663708
+#EXTINF:-1 group-title="NBA 6",NBA 23
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663709
+#EXTINF:-1 group-title="NBA 6",NBA 24
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663710
+#EXTINF:-1 group-title="NBA 6",NBA 25
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663711
+#EXTINF:-1 group-title="NBA 6",NBA 26
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663712
+#EXTINF:-1 group-title="NBA 6",NBA 27
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663713
+#EXTINF:-1 group-title="NBA 6",NBA 28
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663714
+#EXTINF:-1 group-title="NBA 6",NBA 29
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663715
+#EXTINF:-1 group-title="NBA 6",NBA 30
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663716
+#EXTINF:-1 group-title="NBA 6",NBA 31
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663717
+#EXTINF:-1 group-title="NBA 6",NBA 32
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663718
+#EXTINF:-1 group-title="NBA 6",NBA 33
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663719
+#EXTINF:-1 group-title="NBA 6",NBA 34
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663720
+#EXTINF:-1 group-title="NBA 6",NBA 35
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663721
+#EXTINF:-1 group-title="NBA 6",NBA 36
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663722
+#EXTINF:-1 group-title="NBA 6",NBA 37
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663723
+#EXTINF:-1 group-title="NBA 6",NBA 38
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663724
+#EXTINF:-1 group-title="NBA 6",NBA 39
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663725
+#EXTINF:-1 group-title="NBA 6",NBA 40
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663726
+#EXTINF:-1 group-title="NBA 6",NBA 41
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663727
+#EXTINF:-1 group-title="NBA 6",NBA 42
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663728
+#EXTINF:-1 group-title="NBA 6",NBA 43
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663729
+#EXTINF:-1 group-title="NBA 6",NBA 44
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663730
+#EXTINF:-1 group-title="NBA 6",NBA 45
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663731
+#EXTINF:-1 group-title="NBA 6",NBA 46
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663732
+#EXTINF:-1 group-title="NBA 6",NBA 47
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663733
+#EXTINF:-1 group-title="NBA 6",NBA 48
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663734
+#EXTINF:-1 group-title="NBA 6",NBA 49
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663735
+#EXTINF:-1 group-title="NBA 6",NBA 50
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663736
+#EXTINF:-1 group-title="NBA 6",NBA 51
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663737
+#EXTINF:-1 group-title="NBA 6",NBA 52
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663738
+#EXTINF:-1 group-title="NBA 6",NBA 53
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663739
+#EXTINF:-1 group-title="NBA 6",NBA 54
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663740
+#EXTINF:-1 group-title="NBA 6",NBA 55
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663741
+#EXTINF:-1 group-title="NBA 6",NBA 56
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663742
+#EXTINF:-1 group-title="NBA 6",NBA 57
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663743
+#EXTINF:-1 group-title="NBA 6",NBA 58
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663744
+#EXTINF:-1 group-title="NBA 6",NBA 59
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663745
+#EXTINF:-1 group-title="NBA 6",NBA 60
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663747
+
+
 #EXTINF:-1 group-title="NBA 7",NBA PASS GAME HD 1
 http://playhispano.org:25461/Eddiepremium/024686420/191150
 #EXTINF:-1 group-title="NBA 7",NBA PASS GAME HD 2
@@ -1346,26 +1478,48 @@ http://51.89.98.62:8080/duda04/duda04/84526
 #EXTINF:-1 group-title="NBA 8",NBA LEAGUE PASS 10 (PPV)
 http://51.89.98.62:8080/duda04/duda04/84527
 
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 1
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 1
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191150
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 2
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 2
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191151
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 3
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 3
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191152
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 4
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 4
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191153
-##EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 5
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 5
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191154
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 6
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 6
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191155
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 7
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 7
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191156
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 8
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 8
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191157
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 9
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 9
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191158
-#EXTINF:-1 group-title="NBA 8",NBA PASS GAME HD 10
+#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 10
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191159
+
+
+#EXTINF:-1 group-title="NBA 10",NBA LP01
+http://176.57.50.167:25461/124711/606442/86042
+#EXTINF:-1 group-title="NBA 10",NBA LP03
+http://176.57.50.167:25461/124711/606442/86044
+#EXTINF:-1 group-title="NBA 10",NBA LP04
+http://176.57.50.167:25461/124711/606442/86045
+#EXTINF:-1 group-title="NBA 10",NBA LP05
+http://176.57.50.167:25461/124711/606442/86046
+#EXTINF:-1 group-title="NBA 10",NBA LP06
+http://176.57.50.167:25461/124711/606442/86047
+#EXTINF:-1 group-title="NBA 10",NBA LP 08
+http://176.57.50.167:25461/124711/606442/86049
+#EXTINF:-1 group-title="NBA 10",NBA LP 10
+http://176.57.50.167:25461/124711/606442/86051
+#EXTINF:-1 group-title="NBA 10",NBA LP 11
+http://176.57.50.167:25461/124711/606442/86052
+#EXTINF:-1 group-title="NBA 10",NBA LP12
+http://176.57.50.167:25461/124711/606442/86053
+#EXTINF:-1 group-title="NBA 10",NBA LP13
+http://176.57.50.167:25461/124711/606442/86054
 
 
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 1
@@ -1388,6 +1542,38 @@ http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191157
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191158
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 10
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191159
+
+
+#EXTINF:-1 group-title="NBA 12",NBA Boston Celtics
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127443.ts
+#EXTINF:-1 group-title="NBA 12",NBA Brooklyn Nets
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127444.ts
+#EXTINF:-1 group-title="NBA 12",NBA Chicago Bulls
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127446.ts
+#EXTINF:-1 group-title="NBA 12",NBA Dallas Mavericks
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127448.ts
+#EXTINF:-1 group-title="NBA 12",NBA Detroit Pistons
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127450.ts
+#EXTINF:-1 group-title="NBA 12",NBA Houston Rockets
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127452.ts
+#EXTINF:-1 group-title="NBA 12",NBA Los Angeles Lakers
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127455.ts
+#EXTINF:-1 group-title="NBA 12",NBA Milwaukee Bucks
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127458.ts
+#EXTINF:-1 group-title="NBA 12",NBA New Orleans Pelicans
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127460.ts
+#EXTINF:-1 group-title="NBA 12",NBA Orlando Magic
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127433.ts
+#EXTINF:-1 group-title="NBA 12",NBA Philadelphia 76ERS
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127434.ts
+#EXTINF:-1 group-title="NBA 12",NBA Phoenix Suns
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127435.ts
+#EXTINF:-1 group-title="NBA 12",NBA Portland Trail Blazers
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127436.ts
+#EXTINF:-1 group-title="NBA 12",NBA San Antonio Spurs
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127438.ts
+#EXTINF:-1 group-title="NBA 12",NBA Utah Jazz
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127440.ts
 
 
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo West HH ESP
@@ -1691,6 +1877,16 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24033.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/288425.ts
 
 
+#EXTINF:-1 group-title="AMERICA TV 0",America TV FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/119680.ts
+#EXTINF:-1 group-title="AMERICA TV 0",America TV HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/276.ts
+#EXTINF:-1 group-title="AMERICA TV 0",America TV SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/277.ts
+
+
+#EXTINF:-1 group-title="AMERICA TV",AMERICA TV
+http://51.222.110.182:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="AMERICA TV",AMERICA TV HD
 http://arboltv.xyz:8080/marlen/marlen/129696
 #EXTINF:-1 group-title="AMERICA TV",AMERICA TV HD
@@ -1701,11 +1897,11 @@ http://casaprotv.xyz:8080/cipri/cipri/230920
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86484
 
 
-#EXTINF:-1 group-title="AMERICA TV",AMERICA TV HD
+#EXTINF:-1 group-title="AMERICA TV 1",AMERICA TV HD
 http://casaprotv.xyz:8080/cipri/cipri/230918
-#EXTINF:-1 group-title="AMERICA TV",AMERICA TV HD
+#EXTINF:-1 group-title="AMERICA TV 1",AMERICA TV HD
 http://casaprotv.xyz:8080/cipri/cipri/230920
-#EXTINF:-1 group-title="AMERICA TV",AMERICA TV HD *
+#EXTINF:-1 group-title="AMERICA TV 1",AMERICA TV HD *
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86484
 #EXTINF:-1 group-title="AMERICA TV 1",AmericaTV
 http://191.98.171.198:4000/play/a01a/index.m3u8
@@ -2141,77 +2337,77 @@ http://playhispano.org:25461/Eddiepremium/024686420/177473
 http://playhispano.org:25461/Eddiepremium/024686420/177474
 
 
-#EXTINF:-1 group-title="CINEMA",Cinema 02
+#EXTINF:-1 group-title="CINEMA 2",Cinema 02
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34478
-#EXTINF:-1 group-title="CINEMA",Cinema 03
+#EXTINF:-1 group-title="CINEMA 2",Cinema 03
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34479
-#EXTINF:-1 group-title="CINEMA",Cinema 04
+#EXTINF:-1 group-title="CINEMA 2",Cinema 04
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34480
-#EXTINF:-1 group-title="CINEMA",Cinema 05
+#EXTINF:-1 group-title="CINEMA 2",Cinema 05
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34481
-#EXTINF:-1 group-title="CINEMA",Cinema 06
+#EXTINF:-1 group-title="CINEMA 2",Cinema 06
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34482
-#EXTINF:-1 group-title="CINEMA",Cinema 07
+#EXTINF:-1 group-title="CINEMA 2",Cinema 07
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34483
-#EXTINF:-1 group-title="CINEMA",Cinema 08
+#EXTINF:-1 group-title="CINEMA 2",Cinema 08
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34484
-#EXTINF:-1 group-title="CINEMA",Cinema 09
+#EXTINF:-1 group-title="CINEMA 2",Cinema 09
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34485
-#EXTINF:-1 group-title="CINEMA",Cinema 10
+#EXTINF:-1 group-title="CINEMA 2",Cinema 10
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34486
-#EXTINF:-1 group-title="CINEMA",Cinema 11
+#EXTINF:-1 group-title="CINEMA 2",Cinema 11
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34487
-#EXTINF:-1 group-title="CINEMA",Cinema 12
+#EXTINF:-1 group-title="CINEMA 2",Cinema 12
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34488
-#EXTINF:-1 group-title="CINEMA",Cinema 13
+#EXTINF:-1 group-title="CINEMA 2",Cinema 13
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34489
-#EXTINF:-1 group-title="CINEMA",Cinema 14
+#EXTINF:-1 group-title="CINEMA 2",Cinema 14
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34490
-#EXTINF:-1 group-title="CINEMA",Cinema 15
+#EXTINF:-1 group-title="CINEMA 2",Cinema 15
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34491
-#EXTINF:-1 group-title="CINEMA",Cinema 16
+#EXTINF:-1 group-title="CINEMA 2",Cinema 16
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34492
-#EXTINF:-1 group-title="CINEMA",Cinema 17
+#EXTINF:-1 group-title="CINEMA 2",Cinema 17
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34493
-#EXTINF:-1 group-title="CINEMA",Cinema 18
+#EXTINF:-1 group-title="CINEMA 2",Cinema 18
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34494
-#EXTINF:-1 group-title="CINEMA",Cinema 19
+#EXTINF:-1 group-title="CINEMA 2",Cinema 19
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34495
-#EXTINF:-1 group-title="CINEMA",Cinema 20
+#EXTINF:-1 group-title="CINEMA 2",Cinema 20
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34496
-#EXTINF:-1 group-title="CINEMA",Cinema 21
+#EXTINF:-1 group-title="CINEMA 2",Cinema 21
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34497
-#EXTINF:-1 group-title="CINEMA",Cinema 22
+#EXTINF:-1 group-title="CINEMA 2",Cinema 22
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34498
-#EXTINF:-1 group-title="CINEMA",Cinema 23
+#EXTINF:-1 group-title="CINEMA 2",Cinema 23
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34499
-#EXTINF:-1 group-title="CINEMA",inema 24
+#EXTINF:-1 group-title="CINEMA 2",inema 24
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34500
-#EXTINF:-1 group-title="CINEMA",Cinema 25
+#EXTINF:-1 group-title="CINEMA 2",Cinema 25
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34501
-#EXTINF:-1 group-title="CINEMA",Cinema 26
+#EXTINF:-1 group-title="CINEMA 2",Cinema 26
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34502
-#EXTINF:-1 group-title="CINEMA",Cinema 27
+#EXTINF:-1 group-title="CINEMA 2",Cinema 27
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34503
-#EXTINF:-1 group-title="CINEMA",Cinema 28
+#EXTINF:-1 group-title="CINEMA 2",Cinema 28
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34504
-#EXTINF:-1 group-title="CINEMA",Cinema 30
+#EXTINF:-1 group-title="CINEMA 2",Cinema 30
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34506
-#EXTINF:-1 group-title="CINEMA",Cinema 31
+#EXTINF:-1 group-title="CINEMA 2",Cinema 31
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34507
-#EXTINF:-1 group-title="CINEMA",Cinema 32
+#EXTINF:-1 group-title="CINEMA 2",Cinema 32
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34508
-#EXTINF:-1 group-title="CINEMA",Cinema 33
+#EXTINF:-1 group-title="CINEMA 2",Cinema 33
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34509
-#EXTINF:-1 group-title="CINEMA",Cinema 34
+#EXTINF:-1 group-title="CINEMA 2",Cinema 34
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34510
-#EXTINF:-1 group-title="CINEMA",Cinema 35
+#EXTINF:-1 group-title="CINEMA 2",Cinema 35
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34511
-#EXTINF:-1 group-title="CINEMA",Cinema 36
+#EXTINF:-1 group-title="CINEMA 2",Cinema 36
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34512
-#EXTINF:-1 group-title="CINEMA",Cinema 37
+#EXTINF:-1 group-title="CINEMA 2",Cinema 37
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34513
-#EXTINF:-1 group-title="CINEMA",Starz West FHD
+#EXTINF:-1 group-title="CINEMA 2",Starz West FHD
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34517
 
 
@@ -2283,3 +2479,69 @@ http://higherpro.xyz:8080/999428602tv/2qvnd9/12795
 http://higherpro.xyz:8080/999428602tv/2qvnd9/12796
 #EXTINF:-1 group-title="CINEMA 1",Cinema 01 PPV
 http://higherpro.xyz:8080/999428602tv/2qvnd9/12797
+
+
+#EXTINF:-1 group-title="CINEMA",Cinema 01
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24944.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 02
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24945.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 03
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24946.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 05
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24948.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 06
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24949.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 07
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24950.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 08
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24951.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 10
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24953.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 11
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24954.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 12
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24955.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 13
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24956.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 14
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24957.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 15
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24958.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 16
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24959.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 17
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24960.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 18
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24961.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 19
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24962.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 20
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24963.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 21
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24964.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 22
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24965.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 23
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24966.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 24
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24967.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 25
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24968.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 26
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24969.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 27
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24970.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 28
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24971.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 30
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24973.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 31
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24974.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 32
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24975.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 33
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24976.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 34
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24977.ts
+#EXTINF:-1 group-title="CINEMA",Cinema 35
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24978.ts
