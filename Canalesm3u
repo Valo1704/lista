@@ -928,12 +928,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121642.ts
 
 #EXTINF:-1 group-title="CINEMAX",Cinemax (CO)
 http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/4615.ts
-#EXTINF:-1 group-title="CINEMAX",Cinemax (MX)
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/1037.ts
 #EXTINF:-1 group-title="CINEMAX",Cinemax Full HD (MX)
 http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/15128.ts
-#EXTINF:-1 group-title="CINEMAX",Cinemax (MX)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/1037.ts
 #EXTINF:-1 group-title="CINEMAX",Cinemax Full HD (MX)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/15128.ts
 #EXTINF:-1 group-title="CINEMAX",CINEMAX
@@ -1520,10 +1516,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98
 
 #EXTINF:-1 group-title="NBA",NBA 01
 http://176.57.50.167:25461/557496/064121/83043
-#EXTINF:-1 group-title="NBA",LP 08
-http://176.57.50.167:25461/557496/064121/86049
-#EXTINF:-1 group-title="NBA",LP 09
-http://176.57.50.167:25461/557496/064121/86050
 #EXTINF:-1 group-title="NBA",REPLAY 11
 http://176.57.50.167:25461/557496/064121/87242
 #EXTINF:-1 group-title="NBA",REPLAY 12
@@ -1542,8 +1534,6 @@ http://176.57.50.167:25461/557496/064121/87244
 
 #EXTINF:-1 group-title="NBA 2",NBCSWA Feed
 http://176.57.50.167:25461/557496/064121/83043
-#EXTINF:-1 group-title="NBA 2",NBA LP 09
-http://176.57.50.167:25461/557496/064121/86050
 #EXTINF:-1 group-title="NBA 2",NBA 02
 http://supersonictv.live:25461/218024/760877/83044
 #EXTINF:-1 group-title="NBA 2",NBA ON FOX SPORTS
@@ -1638,12 +1628,6 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/409119
 http://dns.k4livetv.com:8080/Dez1/Dez123/490405
 #EXTINF:-1 group-title="NBA 4",NBA TV
 http://dns.k4livetv.com:8080/Dez1/Dez123/490407
-
-
-#EXTINF:-1 group-title="NBA 5",NBA LP 08
-http://176.57.50.167:25461/557496/064121/86049
-#EXTINF:-1 group-title="NBA 5",NBA LP 09
-http://176.57.50.167:25461/557496/064121/86050
 
 
 #EXTINF:-1 group-title="NBA 6",NBA 01
@@ -1831,18 +1815,12 @@ http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191159
 http://176.57.50.167:25461/124711/606442/86042
 #EXTINF:-1 group-title="NBA 10",NBA LP03
 http://176.57.50.167:25461/124711/606442/86044
-#EXTINF:-1 group-title="NBA 10",NBA LP04
-http://176.57.50.167:25461/124711/606442/86045
 #EXTINF:-1 group-title="NBA 10",NBA LP05
 http://176.57.50.167:25461/124711/606442/86046
 #EXTINF:-1 group-title="NBA 10",NBA LP06
 http://176.57.50.167:25461/124711/606442/86047
-#EXTINF:-1 group-title="NBA 10",NBA LP 08
-http://176.57.50.167:25461/124711/606442/86049
 #EXTINF:-1 group-title="NBA 10",NBA LP 10
 http://176.57.50.167:25461/124711/606442/86051
-#EXTINF:-1 group-title="NBA 10",NBA LP 11
-http://176.57.50.167:25461/124711/606442/86052
 #EXTINF:-1 group-title="NBA 10",NBA LP12
 http://176.57.50.167:25461/124711/606442/86053
 #EXTINF:-1 group-title="NBA 10",NBA LP13
@@ -1870,37 +1848,6 @@ http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191158
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 10
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191159
 
-
-#EXTINF:-1 group-title="NBA 12",NBA Boston Celtics
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127443.ts
-#EXTINF:-1 group-title="NBA 12",NBA Brooklyn Nets
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127444.ts
-#EXTINF:-1 group-title="NBA 12",NBA Chicago Bulls
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127446.ts
-#EXTINF:-1 group-title="NBA 12",NBA Dallas Mavericks
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127448.ts
-#EXTINF:-1 group-title="NBA 12",NBA Detroit Pistons
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127450.ts
-#EXTINF:-1 group-title="NBA 12",NBA Houston Rockets
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127452.ts
-#EXTINF:-1 group-title="NBA 12",NBA Los Angeles Lakers
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127455.ts
-#EXTINF:-1 group-title="NBA 12",NBA Milwaukee Bucks
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127458.ts
-#EXTINF:-1 group-title="NBA 12",NBA New Orleans Pelicans
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127460.ts
-#EXTINF:-1 group-title="NBA 12",NBA Orlando Magic
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127433.ts
-#EXTINF:-1 group-title="NBA 12",NBA Philadelphia 76ERS
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127434.ts
-#EXTINF:-1 group-title="NBA 12",NBA Phoenix Suns
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127435.ts
-#EXTINF:-1 group-title="NBA 12",NBA Portland Trail Blazers
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127436.ts
-#EXTINF:-1 group-title="NBA 12",NBA San Antonio Spurs
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127438.ts
-#EXTINF:-1 group-title="NBA 12",NBA Utah Jazz
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/127440.ts
 
 
 #EXTINF:-1 group-title="TELEMUNDO",Telemundo West HH ESP
@@ -2204,8 +2151,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24033.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/288425.ts
 
 
-#EXTINF:-1 group-title="AMERICA TV 0",America TV FHD
-http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/119680.ts
 #EXTINF:-1 group-title="AMERICA TV 0",America TV HD
 http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/276.ts
 #EXTINF:-1 group-title="AMERICA TV 0",America TV SD
