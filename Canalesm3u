@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="SERIE ALERTA AEROPUERTO",ALERTA AEROPUERTO
+#EXTINF:-1 group-title="SERIE AEROPUERTO",ALERTA AEROPUERTO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
 #EXTINF:-1 group-title="SERIE ALERTA AEROPUERTO",Alerta Aeropuerto
 http://dns.k4livetv.com:8080/JUAN23/1904/302604
@@ -1185,8 +1185,6 @@ http://45.160.12.253:8000/play/108
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324318.ts
 #EXTINF:-1 group-title="TNT SERIES",TNT SERIES FHD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121699.ts
-#EXTINF:-1 group-title="TNT SERIES",TNT SERIES HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121701.ts
 #EXTINF:-1 group-title="TNT SERIES",TNT SERIES HD (ARG)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121700.ts
 
@@ -1666,8 +1664,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/169439.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/169442.ts
 
 
-#EXTINF:-1 group-title="AFFIZZIONADOS",Afizzionados
-http://z98ziptv.xyz:8036/Toledo/Toledo/168363
 #EXTINF:-1 group-title="AFFIZZIONADOS",AFIZZIONADOS
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 
@@ -1694,8 +1690,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/87982
 
 #EXTINF:-1 group-title="ESPN 1",ESPN 1
 http://z98ziptv.xyz:8036/Toledo/Toledo/168382
-#EXTINF:-1 group-title="ESPN 1",ESPN 1
-http://z98ziptv.xyz:8036/Toledo/Toledo/168364
 #EXTINF:-1 group-title="ESPN 1",ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 #EXTINF:-1 group-title="ESPN 1",ESPN 1 SUR FHD
@@ -1729,8 +1723,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/86265
 
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://z98ziptv.xyz:8036/Toledo/Toledo/168384
-#EXTINF:-1 group-title="ESPN 3",ESPN 3
-http://z98ziptv.xyz:8036/Toledo/Toledo/168366
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
