@@ -95,8 +95,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49024.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/123036.ts
 #EXTINF:-1 group-title="DEPORTES",DAZN 1 (EVENTOS)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/102978.ts
-#EXTINF:-1 group-title="DEPORTES",DAZN 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/102979.ts
 #EXTINF:-1 group-title="DEPORTES",DAZN 4 (EVENTOS)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/282801.ts
 #EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS 1 HD (ECU)
@@ -1688,8 +1686,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48992.ts
 http://playhispano.org:25461/Eddiepremium/024686420/87982
 
 
-#EXTINF:-1 group-title="ESPN 1",ESPN 1
-http://z98ziptv.xyz:8036/Toledo/Toledo/168382
 #EXTINF:-1 group-title="ESPN 1",ESPN 1 (COL)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 #EXTINF:-1 group-title="ESPN 1",ESPN 1 SUR FHD
@@ -1705,8 +1701,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/86264
 
 
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
-http://z98ziptv.xyz:8036/Toledo/Toledo/168383
-#EXTINF:-1 group-title="ESPN 2",ESPN 2
 http://190.131.228.59:8000/play/a0hn/index.m3u8
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
 http://190.131.228.59:8000/play/a05k/index.m3u8
@@ -1721,8 +1715,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/86255
 http://playhispano.org:25461/Eddiepremium/024686420/86265
 
 
-#EXTINF:-1 group-title="ESPN 3",ESPN 3
-http://z98ziptv.xyz:8036/Toledo/Toledo/168384
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
@@ -1773,8 +1765,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/165275.ts
 
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN Deportes USA
 http://playhispano.org:25461/Eddiepremium/024686420/131155
-#EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
-http://z98ziptv.xyz:8036/Toledo/Toledo/168386
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
 #EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
@@ -1861,8 +1851,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/55632
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
 
 
-#EXTINF:-1 group-title="AMERICA TV 2",AMERICA TV
-http://z98ziptv.xyz:8036/Toledo/Toledo/169798
 #EXTINF:-1 group-title="AMERICA TV 2",AMERICA TV HD
 http://z98ziptv.xyz:8036/Toledo/Toledo/169756
 
