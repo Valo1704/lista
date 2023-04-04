@@ -155,8 +155,6 @@ http://tv.nousiptv.com:8080/AR10429/10429B/44728
 http://tv.thepremiummedia.com:8080/javierjorge/123456/44728
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Peliculas Marvel
 http://dns.k4livetv.com:8080/JUAN23/1904/302643
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 1 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155979
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155980
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
@@ -642,8 +640,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 
 #EXTINF:-1 group-title="HBO 1",HBO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
-#EXTINF:-1 group-title="HBO 1",HBO PREMIUN FHD ( DUAL AUDIO)
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86858
 #EXTINF:-1 group-title="HBO 1",HBO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324328.ts
 #EXTINF:-1 group-title="HBO 1",HBO (OPC1)
@@ -775,10 +771,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 
 #EXTINF:-1 group-title="STUDIO UNIVERSAL",STUDIO UNIVERSAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
-#EXTINF:-1 group-title="STUDIO UNIVERSAL",STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86868
-#EXTINF:-1 group-title="STUDIO UNIVERSAL",STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86868
 #EXTINF:-1 group-title="STUDIO UNIVERSAL",STUDIO UNIVERSAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
 
@@ -991,24 +983,18 @@ http://z98ziptv.xyz:8036/Toledo/Toledo/170302
 http://190.131.228.59:8000/play/a04i/index.m3u8
 
 
-#EXTINF:-1 group-title="AXN 1",AXN CHANNEL PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86849
 #EXTINF:-1 group-title="AXN 1",AXN opcion 1
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/147173.ts
 #EXTINF:-1 group-title="AXN 1",AXN opcion 2
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/263938.ts
 
 
-#EXTINF:-1 group-title="SONY",SONY CHANNEL PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86864
 #EXTINF:-1 group-title="SONY",SONY CHANNEL
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121645.ts
 #EXTINF:-1 group-title="SONY",SONY CINE HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/46890.ts
 
 
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD (MX)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/994.ts
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network
 http://190.131.228.59:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
@@ -1031,10 +1017,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166503.ts
 
 
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL PREMIUN FHD ( DUAL AUDIO)
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86874
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL PREMIUN FHD ( DUAL AUDIO)
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86874
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/223
 #EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL HD
@@ -1247,8 +1229,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52486.ts
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
 #EXTINF:-1 group-title="CANAL 5",Canal 5 HD Mexico
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
-#EXTINF:-1 group-title="CANAL 5",CANAL 5
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86972
 #EXTINF:-1 group-title="CANAL 5",CANAL 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 
