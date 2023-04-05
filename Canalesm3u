@@ -230,6 +230,14 @@ http://tv.nousiptv.com:8080/AR10429/10429B/44728
 http://tv.thepremiummedia.com:8080/javierjorge/123456/44728
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Peliculas Marvel
 http://dns.k4livetv.com:8080/JUAN23/1904/302643
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Animated FHD
+http://hidra.live:80/ivbiqvof/fVimKfhU/50585
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios FHD
+http://hidra.live:80/ivbiqvof/fVimKfhU/50586
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Este FHD
+http://hidra.live:80/ivbiqvof/fVimKfhU/58067
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Oeste FHD
+http://hidra.live:80/ivbiqvof/fVimKfhU/58068
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155980
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
