@@ -108,10 +108,6 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/302763
 http://hidra.live:80/Diego/Diego/50642
 
 
-#EXTINF:-1 group-title="SERIE CHAPULIN COLORADO",Chapulín Colorado Animado HD
-http://hidra.live:80/Diego/Diego/35516
-
-
 #EXTINF:-1 group-title="SERIE PINKI & CEREBRO",Pinky y Cerebro
 http://dns.k4livetv.com:8080/Dez1/Dez123/492095
 
@@ -120,8 +116,6 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/492095
 http://dns.k4livetv.com:8080/Dez1/Dez123/302740
 
 
-#EXTINF:-1 group-title="SERIE LOS PICAPIEDRA",Los Picapiedras SD
-http://hidra.live:80/Diego/Diego/35497
 #EXTINF:-1 group-title="SERIE LOS PICAPIEDRA",Los Picapiedra
 http://dns.k4livetv.com:8080/Dez1/Dez123/492099
 
@@ -140,8 +134,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87455.ts
 
 #EXTINF:-1 group-title="SERIE THUNDERCATS",THUNDERCATS (2011)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85870.ts
-#EXTINF:-1 group-title="SERIE THUNDERCATS",Thundercat SD
-http://hidra.live:80/Diego/Diego/35490
 #EXTINF:-1 group-title="SERIE THUNDERCATS",Los Thundercats
 http://dns.k4livetv.com:8080/Dez1/Dez123/302780
 
@@ -156,20 +148,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/342704.ts
 
 #EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/7
-#EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja HD
-http://hidra.live:80/Diego/Diego/35517
 #EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja SD
 http://hidra.live:80/Diego/Diego/58076
-
-
-#EXTINF:-1 group-title="SERIE SCOOBY DOO",QUE HAY DE NUEVO SCOOBY DOO
-http://tv.fullytv.com:8080/Newyork2021/Peru2021/44723
-#EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo: Dónde estás? SD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35493
-#EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo: Dónde estás? SD
-http://hidra.live:80/Diego/Diego/35493
-#EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo HD
-http://hidra.live:80/Diego/Diego/35533
 
 
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD
@@ -260,8 +240,6 @@ http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155982
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155984
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 7 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155985
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 8 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155986
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 9 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155987
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Animated FHD
@@ -360,8 +338,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 
 
-#EXTINF:-1 group-title="HBO 2-2",HBO 2 FHD OPC 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121625.ts
 #EXTINF:-1 group-title="HBO 2-2",HBO 2 HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121627.ts
 #EXTINF:-1 group-title="HBO 2-2",HBO 2 OPC 2
@@ -410,8 +386,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121630.ts
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
-#EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE FHD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/46887.ts
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324619.ts
 #EXTINF:-1 group-title="HBO XTREME",HBO XTREME SD
@@ -531,10 +505,6 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/302763
 http://hidra.live:80/Diego/Diego/50642
 
 
-#EXTINF:-1 group-title="SERIE CHAPULIN COLORADO",Chapulín Colorado Animado HD
-http://hidra.live:80/Diego/Diego/35516
-
-
 #EXTINF:-1 group-title="SERIE PINKI & CEREBRO",Pinky y Cerebro
 http://dns.k4livetv.com:8080/Dez1/Dez123/492095
 
@@ -543,8 +513,6 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/492095
 http://dns.k4livetv.com:8080/Dez1/Dez123/302740
 
 
-#EXTINF:-1 group-title="SERIE LOS PICAPIEDRA",Los Picapiedras SD
-http://hidra.live:80/Diego/Diego/35497
 #EXTINF:-1 group-title="SERIE LOS PICAPIEDRA",Los Picapiedra
 http://dns.k4livetv.com:8080/Dez1/Dez123/492099
 
@@ -563,8 +531,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87455.ts
 
 #EXTINF:-1 group-title="SERIE THUNDERCATS",THUNDERCATS (2011)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85870.ts
-#EXTINF:-1 group-title="SERIE THUNDERCATS",Thundercat SD
-http://hidra.live:80/Diego/Diego/35490
 #EXTINF:-1 group-title="SERIE THUNDERCATS",Los Thundercats
 http://dns.k4livetv.com:8080/Dez1/Dez123/302780
 
@@ -579,18 +545,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/342704.ts
 
 #EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/7
-#EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja HD
-http://hidra.live:80/Diego/Diego/35517
 #EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja SD
 http://hidra.live:80/Diego/Diego/58076
-
-
-#EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo: Dónde estás? SD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35493
-#EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo: Dónde estás? SD
-http://hidra.live:80/Diego/Diego/35493
-#EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo HD
-http://hidra.live:80/Diego/Diego/35533
 
 
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD
@@ -633,8 +589,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/86263
 
 #EXTINF:-1 group-title="HISTORY",HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:25461/Eddiepremium/024686420/86844
-#EXTINF:-1 group-title="HISTORY",HISTORY HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323870.ts
 #EXTINF:-1 group-title="HISTORY",HISTORY HD (MX)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/139417.ts
 
@@ -747,8 +701,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 
 
-#EXTINF:-1 group-title="HBO 2-2",HBO 2 FHD OPC 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121625.ts
 #EXTINF:-1 group-title="HBO 2-2",HBO 2 HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121627.ts
 #EXTINF:-1 group-title="HBO 2-2",HBO 2 OPC 2
@@ -800,8 +752,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121630.ts
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
-#EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE FHD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/46887.ts
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324619.ts
 #EXTINF:-1 group-title="HBO XTREME",HBO XTREME SD
@@ -928,10 +878,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
-#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT NETWORK
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121641.ts
-#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT NETWORK HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121642.ts
 
 
 #EXTINF:-1 group-title="CINEMAX",CINEMAX
@@ -1310,10 +1256,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98
 http://176.57.50.167:25461/557496/064121/83043
 #EXTINF:-1 group-title="NBA",NBA 01
 http://176.57.50.167:25461/557496/064121/83043
-#EXTINF:-1 group-title="NBA",REPLAY 11
-http://176.57.50.167:25461/557496/064121/87242
-#EXTINF:-1 group-title="NBA",REPLAY 12
-http://176.57.50.167:25461/557496/064121/87243
 
 
 #EXTINF:-1 group-title="NBA 1",NBA 1
@@ -1602,8 +1544,6 @@ http://51.89.98.62:8080/duda04/duda04/84518
 http://51.89.98.62:8080/duda04/duda04/84519
 #EXTINF:-1 group-title="NBA 8",NBA LEAGUE PASS 05 (PPV)
 http://51.89.98.62:8080/duda04/duda04/84522
-#EXTINF:-1 group-title="NBA 8",NBA LEAGUE PASS 06 (PPV)
-http://51.89.98.62:8080/duda04/duda04/84523
 #EXTINF:-1 group-title="NBA 8",NBA LEAGUE PASS 08 (PPV)
 http://51.89.98.62:8080/duda04/duda04/84525
 #EXTINF:-1 group-title="NBA 8",NBA LEAGUE PASS 09 (PPV)
@@ -2061,8 +2001,6 @@ http://hidra.live:80/Diego/Diego/50579
 http://hidra.live:80/Diego/Diego/50595
 #EXTINF:-1 group-title="CINEMA DISNEY",Lo Mejor de Donald SD
 http://hidra.live:80/Diego/Diego/50612
-#EXTINF:-1 group-title="CINEMA DISNEY",Patoaventura 2017 HD
-http://hidra.live:80/Diego/Diego/35511
 #EXTINF:-1 group-title="CINEMA DISNEY",Disney Live Action
 http://dns.k4livetv.com:8080/Dez1/Dez123/302690
 #EXTINF:-1 group-title="CINEMA DISNEY",Patoaventuras
@@ -2283,10 +2221,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50574
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50583
 
 
-#EXTINF:-1 group-title="SERIE SONIC Y SU BANDA",Sony Y Su Banda SD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35492
-
-
 #EXTINF:-1 group-title="VIX DEPORTES",VIX DEPORTES (FHD) 2 Deportes
 http://playhispano.org:25461/Eddiepremium/024686420/177461
 #EXTINF:-1 group-title="VIX DEPORTES",VIX DEPORTES (FHD) 4 Deportes
@@ -2343,8 +2277,6 @@ http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34496
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34497
 #EXTINF:-1 group-title="CINEMA 2",Cinema 22
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34498
-#EXTINF:-1 group-title="CINEMA 2",Cinema 23
-http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34499
 #EXTINF:-1 group-title="CINEMA 2",inema 24
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34500
 #EXTINF:-1 group-title="CINEMA 2",Cinema 25
