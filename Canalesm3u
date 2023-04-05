@@ -278,8 +278,6 @@ http://hidra.live:80/Diego/Diego/58067
 http://hidra.live:80/Diego/Diego/58068
 
 
-#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS ESTADIO (CHILE)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/146757.ts
 #EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS HD arg
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48995.ts
 
@@ -356,8 +354,6 @@ http://190.131.228.59:8000/play/a05f/index.m3u8
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="HBO PLUS",HBO Plus SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
-#EXTINF:-1 group-title="HBO",HBO Plus
-http://iptvglobal.site:25461/rrtv/rrtv12345/87463
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
@@ -366,8 +362,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
 
 
-#EXTINF:-1 group-title="HBO PLUS 1",HBO Plus
-http://iptvglobal.site:25461/rrtv/rrtv12345/87463
 #EXTINF:-1 group-title="HBO PLUS 1",Hbo Plus
 http://iptvglobal.site:25461/rrtv/rrtv12345/131117
 #EXTINF:-1 group-title="HBO PLUS 1",HBO PLUS
@@ -410,8 +404,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126313
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140179
 #EXTINF:-1 group-title="HBO XTREME",HBO XTREME
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121640.ts
-#EXTINF:-1 group-title="HBO XTREME",HBO XTREME HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121639.ts
 #EXTINF:-1 group-title="HBO POP",HBO POP R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126310
 #EXTINF:-1 group-title="HBO POP",HBO POP FHD
@@ -440,12 +432,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 http://iptvglobal.site:25461/rrtv/rrtv12345/131121
 #EXTINF:-1 group-title="CINECANAL 1",CINECANAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
-
-
-#EXTINF:-1 group-title="STUDIO UNIVERSAL",STUDIO UNIVERSAL HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
-#EXTINF:-1 group-title="STUDIO UNIVERSAL",STUDIO UNIVERSAL HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
 
 
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL TV HD
@@ -758,8 +744,6 @@ http://190.131.228.59:8000/play/a05f/index.m3u8
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="HBO PLUS",HBO Plus SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
-#EXTINF:-1 group-title="HBO",HBO Plus
-http://iptvglobal.site:25461/rrtv/rrtv12345/87463
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
@@ -768,8 +752,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
 
 
-#EXTINF:-1 group-title="HBO PLUS 1",HBO Plus
-http://iptvglobal.site:25461/rrtv/rrtv12345/87463
 #EXTINF:-1 group-title="HBO PLUS 1",Hbo Plus
 http://iptvglobal.site:25461/rrtv/rrtv12345/131117
 #EXTINF:-1 group-title="HBO PLUS 1",HBO PLUS
@@ -812,8 +794,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126313
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140179
 #EXTINF:-1 group-title="HBO XTREME",HBO XTREME
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121640.ts
-#EXTINF:-1 group-title="HBO XTREME",HBO XTREME HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121639.ts
 #EXTINF:-1 group-title="HBO POP",HBO POP R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126310
 #EXTINF:-1 group-title="HBO POP",HBO POP FHD
@@ -842,12 +822,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 http://iptvglobal.site:25461/rrtv/rrtv12345/131121
 #EXTINF:-1 group-title="CINECANAL 1",CINECANAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
-
-
-#EXTINF:-1 group-title="STUDIO UNIVERSAL",STUDIO UNIVERSAL HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
-#EXTINF:-1 group-title="STUDIO UNIVERSAL",STUDIO UNIVERSAL HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140159
 
 
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL TV HD
@@ -966,8 +940,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/246
 
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",Canal de Las estrellas
 http://190.131.228.59:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",LAS ESTRELLAS HD R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126395
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",LAS ESTRELLAS centro
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS 1",LAS ESTRELLAS Ch
@@ -1060,8 +1032,6 @@ http://190.131.228.59:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 group-title="AXN 1",AXN opcion 1
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/147173.ts
-#EXTINF:-1 group-title="AXN 1",AXN opcion 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/263938.ts
 
 
 #EXTINF:-1 group-title="SONY",SONY CHANNEL
@@ -1198,8 +1168,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49002.ts
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/415
 #EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63966
-#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 HD MEX
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
 #EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 HD (ECU)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324630.ts
 
@@ -1300,8 +1268,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52486.ts
 
 #EXTINF:-1 group-title="CANAL 5",Canal 5 HD (XHGC-TDT)
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
-#EXTINF:-1 group-title="CANAL 5",Canal 5 HD Mexico
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
 #EXTINF:-1 group-title="CANAL 5",CANAL 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 
@@ -1322,20 +1288,12 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98
 
 #EXTINF:-1 group-title="NBA",NBA 01
 http://176.57.50.167:25461/557496/064121/83043
-#EXTINF:-1 group-title="NBA",REPLAY 11
-http://176.57.50.167:25461/557496/064121/87242
-#EXTINF:-1 group-title="NBA",REPLAY 12
-http://176.57.50.167:25461/557496/064121/87243
-#EXTINF:-1 group-title="NBA",REPLAY 13
-http://176.57.50.167:25461/557496/064121/87244
 #EXTINF:-1 group-title="NBA",NBA 01
 http://176.57.50.167:25461/557496/064121/83043
 #EXTINF:-1 group-title="NBA",REPLAY 11
 http://176.57.50.167:25461/557496/064121/87242
 #EXTINF:-1 group-title="NBA",REPLAY 12
 http://176.57.50.167:25461/557496/064121/87243
-#EXTINF:-1 group-title="NBA",REPLAY 13
-http://176.57.50.167:25461/557496/064121/87244
 
 
 #EXTINF:-1 group-title="NBA 2",NBCSWA Feed
@@ -1634,14 +1592,6 @@ http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191158
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191159
 
 
-#EXTINF:-1 group-title="NBA 10",NBA LP01
-http://176.57.50.167:25461/124711/606442/86042
-#EXTINF:-1 group-title="NBA 10",NBA LP06
-http://176.57.50.167:25461/124711/606442/86047
-#EXTINF:-1 group-title="NBA 10",NBA LP 10
-http://176.57.50.167:25461/124711/606442/86051
-
-
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 1
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191150
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 2
@@ -1761,12 +1711,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48992.ts
 http://playhispano.org:25461/Eddiepremium/024686420/87982
 
 
-#EXTINF:-1 group-title="ESPN 1",ESPN 1 (COL)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 #EXTINF:-1 group-title="ESPN 1",ESPN 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
-#EXTINF:-1 group-title="ESPN 1",ESPN 1 (COL)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
 
 
 #EXTINF:-1 group-title="ESPN 1-1",ESPN 1 HD MEXICO
@@ -2036,12 +1982,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121620.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/63766.ts
 
 
-#EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo! La Espada (2021)
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/6370.mp4
-#EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo Misterio En La Lucha Libre
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40365.mkv
-#EXTINF:-1 group-title="SCOOBY DOO",Scooby Doo: La Leyenda Del Fantasmasauro
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40366.mp4
 #EXTINF:-1 group-title="SCOOBY DOO",¡Scooby-Doo! La Leyenda de Scoobydur (latino 2021)
 http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/97810.mp4
 #EXTINF:-1 group-title="SCOOBY DOO",Scooby-Doo! - Duelo En El Viejo Oeste
@@ -2098,12 +2038,6 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3987.mkv
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3986.mkv
 #EXTINF:-1 group-title="SCOOBY DOO 1",Truco o Trato Scooby-Doo! (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
-#EXTINF:-1 group-title="SCOOBY DOO 1",Scooby-Doo! La Espada (2021)
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/6370.mp4
-#EXTINF:-1 group-title="SCOOBY DOO 1",Scooby-Doo Misterio En La Lucha Libre
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40365.mkv
-#EXTINF:-1 group-title="SCOOBY DOO 1",Scooby Doo: La Leyenda Del Fantasmasauro
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40366.mp4
 #EXTINF:-1 group-title="SCOOBY DOO 1",¡Scooby-Doo! La Leyenda de Scoobydur (latino 2021)
 http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/97810.mp4
 #EXTINF:-1 group-title="SCOOBY DOO 1",Scooby-Doo! - Duelo En El Viejo Oeste
@@ -2162,12 +2096,6 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3987.mkv
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3986.mkv
 #EXTINF:-1 group-title="SCOOBY DOO 2",Truco o Trato Scooby-Doo! (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
-#EXTINF:-1 group-title="SCOOBY DOO 2",Scooby-Doo! La Espada (2021)
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/6370.mp4
-#EXTINF:-1 group-title="SCOOBY DOO 2",Scooby-Doo Misterio En La Lucha Libre
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40365.mkv
-#EXTINF:-1 group-title="SCOOBY DOO 2",Scooby Doo: La Leyenda Del Fantasmasauro
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40366.mp4
 #EXTINF:-1 group-title="SCOOBY DOO 2",¡Scooby-Doo! La Leyenda de Scoobydur (latino 2021)
 http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/97810.mp4
 #EXTINF:-1 group-title="SCOOBY DOO 2",Scooby-Doo! - Duelo En El Viejo Oeste
@@ -2280,8 +2208,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/177473
 http://playhispano.org:25461/Eddiepremium/024686420/177474
 
 
-#EXTINF:-1 group-title="CINEMA 2",Cinema 02
-http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34478
 #EXTINF:-1 group-title="CINEMA 2",Cinema 05
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/34481
 #EXTINF:-1 group-title="CINEMA 2",Cinema 06
