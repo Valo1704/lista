@@ -2,6 +2,10 @@
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/65615.ts
 #EXTINF:-1 group-title="ALERTA AEROPUERTO",Alerta Aeropuerto
 http://dns.k4livetv.com:8080/JUAN23/1904/302604
+#EXTINF:-1 group-title="ALERTA AEROPUERTO",Alerta Aeropuerto SD
+http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/323271.ts
+#EXTINF:-1 group-title="ALERTA AEROPUERTO",Alerta Aeropuerto HD
+http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/327729.ts
 
 
 #EXTINF:-1 group-title="ALERTA AEROPUERTO TEMP 1",Alerta Aeropuerto S01 E01
@@ -158,6 +162,8 @@ http://hidra.live:80/Diego/Diego/35517
 http://hidra.live:80/Diego/Diego/58076
 
 
+#EXTINF:-1 group-title="SERIE SCOOBY DOO",QUE HAY DE NUEVO SCOOBY DOO
+http://tv.fullytv.com:8080/Newyork2021/Peru2021/44723
 #EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo: Dónde estás? SD
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35493
 #EXTINF:-1 group-title="SERIE SCOOBY DOO",Scooby Doo: Dónde estás? SD
@@ -223,7 +229,13 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52469.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINE MARVEL *
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87465.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
+http://tv.fullytv.com:8080/Newyork2021/Peru2021/44728
+#EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
 http://tv.nousiptv.com:8080/danymore64@gmail.com/349OZgxvh0/44728
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cine Marvel Studios HD
+http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/70964.ts
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cine Marvel Studios Animado HD
+http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/71722.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
 http://tv.nousiptv.com:8080/AR10429/10429B/44728
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
@@ -1304,6 +1316,24 @@ http://176.57.50.167:25461/557496/064121/87242
 http://176.57.50.167:25461/557496/064121/87243
 
 
+#EXTINF:-1 group-title="NBA 1",NBA 1
+http://tvmate.icu:8080/ron@champagne/ron@2022/161756
+#EXTINF:-1 group-title="NBA 1",NBA 2
+http://tvmate.icu:8080/ron@champagne/ron@2022/161757
+#EXTINF:-1 group-title="NBA 1",NBA 3
+http://tvmate.icu:8080/ron@champagne/ron@2022/161758
+#EXTINF:-1 group-title="NBA 1",NBA 4
+http://tvmate.icu:8080/ron@champagne/ron@2022/162032
+#EXTINF:-1 group-title="NBA 1",NBA 5
+http://tvmate.icu:8080/ron@champagne/ron@2022/162033
+#EXTINF:-1 group-title="NBA 1",NBA 11
+http://tvmate.icu:8080/ron@champagne/ron@2022/168395
+#EXTINF:-1 group-title="NBA 1",NBA 12
+http://tvmate.icu:8080/ron@champagne/ron@2022/171908
+#EXTINF:-1 group-title="NBA 1",NBA 13
+http://tvmate.icu:8080/ron@champagne/ron@2022/171909
+
+
 #EXTINF:-1 group-title="NBA 2",NBCSWA Feed
 http://176.57.50.167:25461/557496/064121/83043
 #EXTINF:-1 group-title="NBA 2",NBA 02
@@ -1602,6 +1632,59 @@ http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191158
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191159
 
 
+#EXTINF:-1 group-title="NBA 10",Atlanta Hawks
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZafim2mu7dShmcGP7tOYK7_zknH9RfQIOhOwPCmOtVQC
+#EXTINF:-1 group-title="NBA 10",Brooklyn Nets
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZafim2mu7dShmcGP7tOYK78cmDqyfj5s15QSPRB-SpJL
+#EXTINF:-1 group-title="NBA 10",Charlotte Hornets
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZafim2mu7dShmcGP7tOYK79EVyB_Ru1TG6PfL2iPu5S4
+#EXTINF:-1 group-title="NBA 10",Cleveland Cavaliers
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPSjr188Mqh4txz3rUxHRpSq
+#EXTINF:-1 group-title="NBA 10",Dallas Mavericks
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPTU2TWXsjKkGJ7cIPgpfp8S
+#EXTINF:-1 group-title="NBA 10",Denver Nuggets
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPQn2n_udurOq7P6VW6NZsCQ
+#EXTINF:-1 group-title="NBA 10",Detroit Pistons
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPTANwDzyTzx5NFF_2XhQli5
+#EXTINF:-1 group-title="NBA 10",Houston Rockets
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPQ4GvxEoXsA9WWPCv4hLI30
+#EXTINF:-1 group-title="NBA 10",Indiana Pacers
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPShpCj07T-8t24kpFcsYnFQ
+#EXTINF:-1 group-title="NBA 10",Los Angeles Clippers
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPRum7_znnvX1smKKyvF_954
+#EXTINF:-1 group-title="NBA 10",Los Angeles Lakers
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPQmH5eDkwmDeeJmwbs1h-eo
+#EXTINF:-1 group-title="NBA 10",Memphis Grizzlies
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPT1u_bqaPFaIkYndfB7kwiq
+#EXTINF:-1 group-title="NBA 10",Miami Heat
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPTi-yUx58NdPeWJwUlKifja
+#EXTINF:-1 group-title="NBA 10",Minnesota Timberwolves
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPTT9jjifmvC2HGcopZDV6lu
+#EXTINF:-1 group-title="NBA 10",New Orleans Pelicans
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPQOQK-9LH3RcTybhNkXjOb3
+#EXTINF:-1 group-title="NBA 10",Oklahoma City Thunder
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPT_H5snGANO35_bG872JzPH
+#EXTINF:-1 group-title="NBA 10",Orlando Magic
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPQP2aQyLzuA2Bm4wxmVIva9
+#EXTINF:-1 group-title="NBA 10",Philadelphia 76ers
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPTje-YjfswoFJ0TXbyHjwjk
+#EXTINF:-1 group-title="NBA 10",Phoenix Suns
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPTO-7ZPp2g15K0bMLzdWBMv
+#EXTINF:-1 group-title="NBA 10",Portland Trail Blazers
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPSrF8BwTynj_lJgdz7oxM5P
+#EXTINF:-1 group-title="NBA 10",Sacramento Kings
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPSb_MN_3TALWqHT_zlACUlY
+#EXTINF:-1 group-title="NBA 10",San Antonio Spurs
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPRouu7Ltwcoa8t84UW7Lino
+#EXTINF:-1 group-title="NBA 10",Toronto Raptors
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPRy5vkV_w3v2u85nV7dz73T
+#EXTINF:-1 group-title="NBA 10",Utah Jazz
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZUjrb8dfZVzeF9_TddKGnPQ8fJpVPfKbzhyBtXWAGMr6
+#EXTINF:-1 group-title="NBA 10",Washington Wizards
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZWEkDalPeEXYbYlj15yUVmHYRMXueaA0CkQp_zDRNnEK
+
+
+
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 1
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191150
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 2
@@ -1846,6 +1929,12 @@ http://live.reystream.us:8080/karen34xt/834vsxk5x/621
 http://tv.thepremiummedia.com:8080/javierjorge/123456/1087194
 #EXTINF:-1 group-title="AMERICA TV 0",AMERICA TV SD
 http://tv.thepremiummedia.com:8080/javierjorge/123456/1068850
+
+
+#EXTINF:-1 group-title="AMERICA TV 1",America TV Peru Canal 4
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZVtE6JiIKlTZfPkkAEIpzsO97nrcv4qfeJ7wD3GL8jkS
+#EXTINF:-1 group-title="AMERICA TV 1",America TV Peru Canal 4
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZVtE6JiIKlTZfPkkAEIpzsO97nrcv4qfeJ7wD3GL8jkS
 
 
 #EXTINF:-1 group-title="AMERICA TV",AMERICA TV
@@ -2292,3 +2381,13 @@ http://dns.k4livetv.com:8080/movie/JUAN23/1904/513010.mkv
 http://dns.k4livetv.com:8080/movie/JUAN23/1904/513146.mkv
 #EXTINF:-1 group-title="AVATAR",Avatar: El sentido del agua - 2022
 http://tv.fullytv.com:8080/movie/Newyork2021/Peru2021/1156193.mkv
+
+
+#EXTINF:-1 group-title="ALF",ALF
+http://tv.fullytv.com:8080/Newyork2021/Peru2021/44721
+
+
+#EXTINF:-1 group-title="1 CHIEFS",NFL Chiefs FHD
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZcovdhMFvEMLmX1zpVCf8OEHevBZ_ReQzXPXOrrRmCHr
+#EXTINF:-1 group-title="1 CHIEFS",NFL Chiefs SD
+http://tigerfights.xyz:80/play/p6XPuqtJx53bLbgUga7JZTN9VwzT7YhSQqNZIXsHxJkOkxum2PmP-EbbF37VvILz
