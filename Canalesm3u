@@ -92,20 +92,10 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/492101
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/115359.ts
 #EXTINF:-1 group-title="SERIE LOS SIMPSONS",LOS SIMPSONS 2
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/117797.ts
-#EXTINF:-1 group-title="SERIE LOS SIMPSONS",Los Simpsons FHD
-http://hidra.live:80/Diego/Diego/50616
-#EXTINF:-1 group-title="SERIE LOS SIMPSONS",Los Simpsons Horror HD
-http://hidra.live:80/Diego/Diego/50617
-#EXTINF:-1 group-title="SERIE LOS SIMPSONS",Los Simpsons Retro SD
-http://hidra.live:80/Diego/Diego/50618
 
 
 #EXTINF:-1 group-title="SERIE SPIDER MAN",Spiderman
 http://dns.k4livetv.com:8080/Dez1/Dez123/302763
-
-
-#EXTINF:-1 group-title="SERIE LOONEY TOONS",Tiny Toons SD
-http://hidra.live:80/Diego/Diego/50642
 
 
 #EXTINF:-1 group-title="SERIE PINKI & CEREBRO",Pinky y Cerebro
@@ -148,8 +138,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/342704.ts
 
 #EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/7
-#EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja SD
-http://hidra.live:80/Diego/Diego/58076
 
 
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD
@@ -209,6 +197,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52469.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINE MARVEL *
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87465.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
+http://tv.fullytv.com:8080/castillonuevo/.65489456()$/44728
+#EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
 http://tv.fullytv.com:8080/Newyork2021/Peru2021/44728
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
 http://tv.nousiptv.com:8080/danymore64@gmail.com/349OZgxvh0/44728
@@ -220,14 +210,6 @@ http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/71722.ts
 http://tv.thepremiummedia.com:8080/javierjorge/123456/44728
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Peliculas Marvel
 http://dns.k4livetv.com:8080/JUAN23/1904/302643
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Animated FHD
-http://hidra.live:80/ivbiqvof/fVimKfhU/50585
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios FHD
-http://hidra.live:80/ivbiqvof/fVimKfhU/50586
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Este FHD
-http://hidra.live:80/ivbiqvof/fVimKfhU/58067
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Oeste FHD
-http://hidra.live:80/ivbiqvof/fVimKfhU/58068
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155980
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
@@ -240,22 +222,6 @@ http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155984
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155985
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 9 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155987
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Animated FHD
-http://hidra.live:80/yxjxalkl/6H3m0nM3ov/50585
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios FHD
-http://hidra.live:80/yxjxalkl/6H3m0nM3ov/50586
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Este FHD
-http://hidra.live:80/yxjxalkl/6H3m0nM3ov/58067
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Oeste FHD
-http://hidra.live:80/yxjxalkl/6H3m0nM3ov/58068
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Animated FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/50585
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/50586
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Este FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/58067
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Oeste FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/58068
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155980
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
@@ -264,14 +230,6 @@ http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155981
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155984
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 7 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155985
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Animated FHD
-http://hidra.live:80/Diego/Diego/50585
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Studios FHD
-http://hidra.live:80/Diego/Diego/50586
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Studios Este FHD
-http://hidra.live:80/Diego/Diego/58067
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Studios Oeste FHD
-http://hidra.live:80/Diego/Diego/58068
 
 
 #EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS HD arg
@@ -374,8 +332,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131118
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 #EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
-#EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE HD R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE HD
@@ -473,20 +429,10 @@ http://dns.k4livetv.com:8080/Dez1/Dez123/492101
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/115359.ts
 #EXTINF:-1 group-title="SERIE LOS SIMPSONS",LOS SIMPSONS 2
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/117797.ts
-#EXTINF:-1 group-title="SERIE LOS SIMPSONS",Los Simpsons FHD
-http://hidra.live:80/Diego/Diego/50616
-#EXTINF:-1 group-title="SERIE LOS SIMPSONS",Los Simpsons Horror HD
-http://hidra.live:80/Diego/Diego/50617
-#EXTINF:-1 group-title="SERIE LOS SIMPSONS",Los Simpsons Retro SD
-http://hidra.live:80/Diego/Diego/50618
 
 
 #EXTINF:-1 group-title="SERIE SPIDER MAN",Spiderman
 http://dns.k4livetv.com:8080/Dez1/Dez123/302763
-
-
-#EXTINF:-1 group-title="SERIE LOONEY TOONS",Tiny Toons SD
-http://hidra.live:80/Diego/Diego/50642
 
 
 #EXTINF:-1 group-title="SERIE PINKI & CEREBRO",Pinky y Cerebro
@@ -529,8 +475,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/342704.ts
 
 #EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/7
-#EXTINF:-1 group-title="SERIE BOB ESPONJA",Bob Esponja SD
-http://hidra.live:80/Diego/Diego/58076
 
 
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD
@@ -591,14 +535,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52469.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87465.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
 http://tv.nousiptv.com:8080/danymore64@gmail.com/349OZgxvh0/44728
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Animated FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/50585
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/50586
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Este FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/58067
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studios Oeste FHD
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/58068
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155980
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
@@ -609,14 +545,6 @@ http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155983
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155984
 #EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 7 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155985
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Animated FHD
-http://hidra.live:80/Diego/Diego/50585
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Studios FHD
-http://hidra.live:80/Diego/Diego/50586
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Studios Este FHD
-http://hidra.live:80/Diego/Diego/58067
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Marvel Studios Oeste FHD
-http://hidra.live:80/Diego/Diego/58068
 
 
 #EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS ESTADIO (CHILE)
@@ -709,8 +637,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324349.ts
 #EXTINF:-1 group-title="HBO PLUS 1",HBO PLUS 2
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121635.ts
-#EXTINF:-1 group-title="HBO PLUS 1",HBO PLUS FHD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/46886.ts
 #EXTINF:-1 group-title="HBO PLUS 1",HBO PLUS HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121636.ts
 
@@ -723,8 +649,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131118
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 #EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
-#EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE HD R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE HD
@@ -1678,8 +1602,6 @@ https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 http://playhispano.org:25461/Eddiepremium/024686420/86260
 
 
-#EXTINF:-1 group-title="TUDN 1",UNIVISION DEPORTES HD
-http://playhispano.org:25461/Eddiepremium/024686420/86244
 #EXTINF:-1 group-title="TUDN 1",TUDN  DEPORTES USA HD
 http://playhispano.org:25461/Eddiepremium/024686420/86296
 #EXTINF:-1 group-title="TUDN 1",TUDN
@@ -1757,8 +1679,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49000.ts
 http://playhispano.org:25461/Eddiepremium/024686420/86253
 #EXTINF:-1 group-title="ESPN XTRA",ESPN Extra
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140202
-#EXTINF:-1 group-title="ESPN XTRA",ESPN EXTRA HD MX
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140218
 
 
 #EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM ARG
@@ -1889,26 +1809,12 @@ http://vod.tuxchannel.mx/peliculas4k/avengers%20age%20of%20ultron.mkv
 http://vod.tuxchannel.mx/peliculas/720/avengers%20infinity%20war.mkv
 
 
-#EXTINF:-1 group-title="DREAMWORKS",VIP Cinema Dreamworks FHD
-http://hidra.live:80/yhehteog/NeN02o7t1o/50580
-#EXTINF:-1 group-title="DREAMWORKS",Dreamworks FHD
-http://hidra.live:80/Diego/Diego/50580
-
-
 #EXTINF:-1 group-title="A&E",A&E Mundo
 http://190.131.228.59:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="A&E",A&E
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/118599.ts
 #EXTINF:-1 group-title="A&E",A&E HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324622.ts
-
-
-#EXTINF:-1 group-title="DC COMICS",VIP Cinema  FHD
-http://hidra.live:80/yhehteog/NeN02o7t1o/50576
-#EXTINF:-1 group-title="DC COMICS",DC Comics FHD
-http://hidra.live:80/Diego/Diego/50576
-#EXTINF:-1 group-title="DC COMICS",DC Universe HD
-http://hidra.live:80/Diego/Diego/50577
 
 
 #EXTINF:-1 group-title="CINE SAGAS",Cine Accion Sagas
@@ -1931,14 +1837,6 @@ https://v3.playerlatino.live/stream/m3u8/687
 https://v3.playerlatino.live/stream/m3u8/694
 
 
-#EXTINF:-1 group-title="CINEMA DISNEY",Disney Family FHD
-http://hidra.live:80/Diego/Diego/50578
-#EXTINF:-1 group-title="CINEMA DISNEY",Disney Pixar FHD
-http://hidra.live:80/Diego/Diego/50579
-#EXTINF:-1 group-title="CINEMA DISNEY",Disney Live Action FHD
-http://hidra.live:80/Diego/Diego/50595
-#EXTINF:-1 group-title="CINEMA DISNEY",Lo Mejor de Donald SD
-http://hidra.live:80/Diego/Diego/50612
 #EXTINF:-1 group-title="CINEMA DISNEY",Disney Live Action
 http://dns.k4livetv.com:8080/Dez1/Dez123/302690
 #EXTINF:-1 group-title="CINEMA DISNEY",Patoaventuras
@@ -2113,32 +2011,6 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3987.mkv
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3986.mkv
 #EXTINF:-1 group-title="SCOOBY DOO 3",Truco o Trato Scooby-Doo! (Dual)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
-
-
-#EXTINF:-1 group-title="CINEMA",Cinema DC Comics FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50576
-#EXTINF:-1 group-title="CINEMA",Cinema DC Universe HD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50577
-#EXTINF:-1 group-title="CINEMA",Cinema Disney Family FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50578
-#EXTINF:-1 group-title="CINEMA",Cinema Disney Pixar FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50579
-#EXTINF:-1 group-title="CINEMA",Cinema Dreamworks FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50580
-#EXTINF:-1 group-title="CINEMA",Cinema Familia FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50581
-#EXTINF:-1 group-title="CINEMA",Cinema Happy Madison FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50582
-#EXTINF:-1 group-title="CINEMA",Cinema Lego Movies FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50584
-#EXTINF:-1 group-title="CINEMA",Cinema Marvel Animated FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50585
-#EXTINF:-1 group-title="CINEMA",Cinema Marvel Studios FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50586
-#EXTINF:-1 group-title="CINEMA",Cinema Horror Classics HD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50574
-#EXTINF:-1 group-title="CINEMA",Cinema Horror FHD
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50583
 
 
 #EXTINF:-1 group-title="VIX DEPORTES",VIX DEPORTES (FHD) 2 Deportes
