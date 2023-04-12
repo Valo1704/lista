@@ -8,29 +8,41 @@ http://tv.nousiptv.com:8080/danymore64@gmail.com/349OZgxvh0/44728
 http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/70964.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",Cine Marvel Studios Animado HD
 http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/71722.ts
-#EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
+
+
+#EXTINF:-1 group-title="0.1 CINE MARVEL",CINEMA MARVEL
 http://tv.thepremiummedia.com:8080/javierjorge/123456/44728
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Peliculas Marvel
+#EXTINF:-1 group-title="0.1 CINE MARVEL",Peliculas Marvel
 http://dns.k4livetv.com:8080/JUAN23/1904/302643
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
+#EXTINF:-1 group-title="0.1 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155980
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
+#EXTINF:-1 group-title="0.1 CINE MARVEL",STUDIO CHANNEL 3 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155981
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 4 HD
+#EXTINF:-1 group-title="0.1 CINE MARVEL",STUDIO CHANNEL 4 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155982
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 6 HD
+
+
+#EXTINF:-1 group-title="0.2 CINE MARVEL",STUDIO CHANNEL 6 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155984
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 7 HD
+#EXTINF:-1 group-title="0.2 CINE MARVEL",STUDIO CHANNEL 7 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155985
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 9 HD
+#EXTINF:-1 group-title="0.2 CINE MARVEL",STUDIO CHANNEL 9 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155987
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 2 HD
+#EXTINF:-1 group-title="0.2 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155980
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 3 HD
+#EXTINF:-1 group-title="0.2 CINE MARVEL",STUDIO CHANNEL 3 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155981
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 6 HD
+
+
+#EXTINF:-1 group-title="0.3 CINE MARVEL",Universo Marvel (e)(1080)
+http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/92072
+#EXTINF:-1 group-title="0.3 CINE MARVEL",Marvel Comics (e)(720)
+http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/92074
+#EXTINF:-1 group-title="0.3 CINE MARVEL",Marvel Comics Peliculas (e)(720)
+http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/92076
+#EXTINF:-1 group-title="0.3 CINE MARVEL",STUDIO CHANNEL 6 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155984
-#EXTINF:-1 group-title="0.0 CINE MARVEL",STUDIO CHANNEL 7 HD
+#EXTINF:-1 group-title="0.3 CINE MARVEL",STUDIO CHANNEL 7 HD
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/155985
 
 
