@@ -379,10 +379,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302667
 #EXTINF:-1 group-title="HBO FAMILY 1",HBO Family SD (CL*)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313108
-#EXTINF:-1 group-title="HBO FAMILY 1",HHBO Family SD (LAT)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34895
-#EXTINF:-1 group-title="HBO FAMILY 1",HHBO Family HD (LAT)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34896
 #EXTINF:-1 group-title="HBO FAMILY 1",HHBO Family FHD (LAT)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34897
 
@@ -417,8 +413,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302666
 
 #EXTINF:-1 group-title="HBO XTREME 1",HBO Xtreme FHD (CL*)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313053
-#EXTINF:-1 group-title="HBO XTREME 1",HBO Xtreme HD (LAT)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312769
 
 
 #EXTINF:-1 group-title="HBO POP",HBO POP R
@@ -431,10 +425,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121638.ts
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302669
 #EXTINF:-1 group-title="HBO POP",HBO POP  FHD (CL*)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313058
-
-
-#EXTINF:-1 group-title="HBO POP 1",HBO POP HD (LAT)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312767
 
 
 #EXTINF:-1 group-title="HBO MUNDI",HBO Mundi FHD (MX Dual)
@@ -1289,8 +1279,6 @@ http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/663747
 http://playhispano.org:25461/Eddiepremium/024686420/191151
 #EXTINF:-1 group-title="NBA 7",NBA PASS GAME HD 3
 http://playhispano.org:25461/Eddiepremium/024686420/191152
-#EXTINF:-1 group-title="NBA 7",NBA PASS GAME HD 6
-http://playhispano.org:25461/Eddiepremium/024686420/191155
 #EXTINF:-1 group-title="NBA 7",NBA PASS GAME HD 7
 http://playhispano.org:25461/Eddiepremium/024686420/191156
 #EXTINF:-1 group-title="NBA 7",NBA PASS GAME HD 8
@@ -1311,12 +1299,6 @@ http://51.89.98.62:8080/duda04/duda04/84525
 http://51.89.98.62:8080/duda04/duda04/84526
 
 
-#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 2
-http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191151
-#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 4
-http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191153
-#EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 5
-http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191154
 #EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 6
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/191155
 #EXTINF:-1 group-title="NBA 9",NBA PASS GAME HD 9
@@ -1384,8 +1366,6 @@ http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191152
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191153
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 5
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191154
-#EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 6
-http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191155
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 7
 http://playhispano.org:25461/BOXDIGITAL/aJ4rpws3a0/191156
 #EXTINF:-1 group-title="NBA 11",NBA PASS GAME HD 8
@@ -1928,8 +1908,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34477
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34478
 #EXTINF:-1 group-title="CINEMA",Cinema 09
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34485
-#EXTINF:-1 group-title="CINEMA",Cinema 10
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34486
 #EXTINF:-1 group-title="CINEMA",Cinema 11
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34487
 #EXTINF:-1 group-title="CINEMA",Cinema 12
