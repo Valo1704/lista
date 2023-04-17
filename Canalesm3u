@@ -68,6 +68,10 @@ http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/323271.ts
 http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/327729.ts
 
 
+#EXTINF:-1 group-title="ALERTA AEROPUERTO 2",ALERTA AEROPUERTO
+http://streamingtv.vip:8080/MarioMesias/donmario0912/110501
+
+
 #EXTINF:-1 group-title="ALERTA AEROPUERTO TEMP 1",Alerta Aeropuerto S01 E01
 http://live.reystream.us:8080/series/karen34xt/834vsxk5x/51875.mkv
 #EXTINF:-1 group-title="ALERTA AEROPUERTO TEMP 1",Alerta Aeropuerto S01 E02
