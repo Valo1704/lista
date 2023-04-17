@@ -1,7 +1,5 @@
-Ch#EXTINF:-1 group-title="0.0 CINE MARVEL",CINE MARVEL *
+EXTINF:-1 group-title="0.0 CINE MARVEL",CINE MARVEL *
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/87465.ts
-#EXTINF:-1 group-title="0.0 CINE MARVEL",CINE MARVEL *
-http://tv.dominiotv.xyz:25461/live/OmarCOR/69046965/87465.ts
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
 http://tv.fullytv.com:8080/castillonuevo/.65489456()$/44728
 #EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL
@@ -190,8 +188,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113718.ts
 #EXTINF:-1 group-title="D PELICULA",D PELICULA PLUS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
-#EXTINF:-1 group-title="D PELICULA",D PELICULA PLUS
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52469.ts
 #EXTINF:-1 group-title="D PELICULA",DPelicula HD (MX VIP)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302635
 
@@ -335,8 +331,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313109
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35290
 
 
-#EXTINF:-1 group-title="HBO PLUS 2",HBO Plus FHD (MX Dual)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34891
 #EXTINF:-1 group-title="HBO PLUS 2",HBO Plus SD (LAT)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34892
 
@@ -364,9 +358,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324619.ts
 #EXTINF:-1 group-title="HBO SIGNATURE",HBO Signature SD (LAT)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34899
-#EXTINF:-1 group-title="HBO SIGNATURE",HBO Signature FHD (MX Dual)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34902
 
 
 #EXTINF:-1 group-title="HBO SIGNATURE 1",HBO Signature HD (MX VIP)
@@ -419,14 +410,10 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313096
 
 #EXTINF:-1 group-title="CINECANAL",Cinecanal
 http://190.131.228.59:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="CINECANAL",Cinecanal
-http://iptvglobal.site:25461/rrtv/rrtv12345/131121
 #EXTINF:-1 group-title="CINECANAL",CINECANAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 #EXTINF:-1 group-title="CINECANAL",CINECANAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
-#EXTINF:-1 group-title="CINECANAL",Cinecanal
-http://iptvglobal.site:25461/rrtv/rrtv12345/131121
 
 
 #EXTINF:-1 group-title="CINECANAL 1",CINECANAL HD
@@ -489,8 +476,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313042
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 group-title="STAR CHANNEL",Star Channel  SD (CL*)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313066
-#EXTINF:-1 group-title="STAR CHANNEL",Star Channel FHD (MX)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34925
 #EXTINF:-1 group-title="STAR CHANNEL",Star Channel SD (LAT)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34926
 
@@ -602,8 +587,6 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52485.ts
 
 
-#EXTINF:-1 group-title="0.2 LAS ESTRELLAS",Las Estrellas HD OPC 2
-http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1232
 #EXTINF:-1 group-title="0.2 LAS ESTRELLAS",Las Estrellas HD OPC 3
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1234
 #EXTINF:-1 group-title="0.2 LAS ESTRELLAS",Las Estrellas HD (MX VIP)
@@ -630,14 +613,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85726.ts
 #EXTINF:-1 group-title="DISCOVERY",DISCOVERY CHANNEL 2
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85727.ts
-
-
-#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H 1 HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85731.ts
-#EXTINF:-1 group-title="DISCOVERY H&H",DISCOVERY H&H opcion 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166510.ts
-#EXTINF:-1 group-title="DISCOVERY H&H",Discovery H&H FHD (MX E)
-http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/35205
 
 
 #EXTINF:-1 group-title="DISCOVERY TURBO",DISCOVERY TURBO SD
@@ -714,8 +689,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302621
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313150
 #EXTINF:-1 group-title="CARTOON NETWORK 2",Cartoon Network  SD (CL*)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313159
-#EXTINF:-1 group-title="CARTOON NETWORK 2",Cartoon Network FHD (E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35222
 #EXTINF:-1 group-title="CARTOON NETWORK 2",Cartoon Network SD (MX)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34752
 #EXTINF:-1 group-title="CARTOON NETWORK 2",Cartoon Network SD (LAT)
@@ -824,8 +797,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34622
 
 #EXTINF:-1 group-title="FOX SPORTS1 5",Fox Sports 1 SD (CL)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34630
-#EXTINF:-1 group-title="FOX SPORTS1 5",Fox Sports 1 HD (CL)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34631
 #EXTINF:-1 group-title="FOX SPORTS1 5",Fox Sports 1 FHD (CL)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34632
 
@@ -866,8 +837,6 @@ http://190.131.228.59:8000/play/a066/index.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49002.ts
 #EXTINF:-1 group-title="FOX SPORTS3",FOX SPORTS 3 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/415
-#EXTINF:-1 group-title="FOX SPORTS3",FOX SPORTS 3 SUR FHD
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63966
 #EXTINF:-1 group-title="FOX SPORTS3",FOX SPORTS 3 HD (ECU)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324630.ts
 
@@ -914,8 +883,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313063
 http://45.160.12.253:8000/play/108
 #EXTINF:-1 group-title="TNT SERIES",TNT SERIES (ECU) HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324318.ts
-#EXTINF:-1 group-title="TNT SERIES",TNT SERIES FHD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121699.ts
 
 
 #EXTINF:-1 group-title="TNT SERIES 1",TNT Series HD (MX VIP)
@@ -994,12 +961,6 @@ http://tvmate.icu:8080/ron@champagne/ron@2022/161758
 http://tvmate.icu:8080/ron@champagne/ron@2022/162032
 #EXTINF:-1 group-title="NBA 1",NBA 5
 http://tvmate.icu:8080/ron@champagne/ron@2022/162033
-#EXTINF:-1 group-title="NBA 1",NBA 11
-http://tvmate.icu:8080/ron@champagne/ron@2022/168395
-#EXTINF:-1 group-title="NBA 1",NBA 12
-http://tvmate.icu:8080/ron@champagne/ron@2022/171908
-#EXTINF:-1 group-title="NBA 1",NBA 13
-http://tvmate.icu:8080/ron@champagne/ron@2022/171909
 
 
 #EXTINF:-1 group-title="NBA 2",NBA ON FOX SPORTS
@@ -1026,30 +987,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140201
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/387
 #EXTINF:-1 group-title="NBA 3",Sacramento Kings
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/551
-#EXTINF:-1 group-title="NBA 3",New York Knicks
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/553
-#EXTINF:-1 group-title="NBA 3",New Orleans Pelicans
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/554
-#EXTINF:-1 group-title="NBA 3",Los Angeles Lakers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/556
-#EXTINF:-1 group-title="NBA 3",Indiana Pacers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/558
-#EXTINF:-1 group-title="NBA 3",Houston Rockets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/559
-#EXTINF:-1 group-title="NBA 3",Golden State Warriors
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/560
-#EXTINF:-1 group-title="NBA 3",Dallas Mavericks
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/562
-#EXTINF:-1 group-title="NBA 3",Boston Celtics
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/565
-#EXTINF:-1 group-title="NBA 3",Utah Jazz
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/566
-#EXTINF:-1 group-title="NBA 3",San Antonio Spurs
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/567
-#EXTINF:-1 group-title="NBA 3",Detroit Pistons
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/570
-#EXTINF:-1 group-title="NBA 3",Philadelphia 76ers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/576
 #EXTINF:-1 group-title="NBA 3",NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1 group-title="NBA 3",NBA ON FOX SPORTS
@@ -1304,9 +1241,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34660
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34661
 #EXTINF:-1 group-title="ESPN 1",ESPN FHD (CO)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312829
-#EXTINF:-1 group-title="ESPN 1",ESPN HD (CO)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312830
-
 
 #EXTINF:-1 group-title="ESPN 2",ESPN SD (CO)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312831
@@ -1328,8 +1262,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302639
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34662
 #EXTINF:-1 group-title="ESPN2 1",ESPN 2 FHD (ARG)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34664
-#EXTINF:-1 group-title="ESPN2 1",ESPN 2 HD (CO)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312833
 
 
 #EXTINF:-1 group-title="ESPN2 2",ESPN 2 SD (CO)
@@ -1826,8 +1758,6 @@ http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/863
 http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/78509
 #EXTINF:-1 group-title="1 TNT NBA",TNT USA
 http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/59108
-#EXTINF:-1 group-title="1 TNT NBA",TNT US HD
-http://allstar.is-by.us:25461/MbeniteZ/Cn3UzTmjYV/176885
 #EXTINF:-1 group-title="1 TNT NBA",TNT HD*
 http://starshare.live:8080/live/DANIPTV1234/35087257046/7349.m3u8
 
