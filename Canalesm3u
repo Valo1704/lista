@@ -12,31 +12,33 @@ http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/70964.ts
 http://185.53.88.153:2095/live/interevo292DF/UuHSjsh6Z2uL/71722.ts
 
 
-#EXTINF:-1 group-title="0.1 CINE MARVEL",CINEMA MARVEL
+#EXTINF:-1 group-title="0.0.1 CINE MARVEL",Peliculas Marvel
+http://streamingtv.vip:8080/MarioMesias/donmario0912/86338
+#EXTINF:-1 group-title="0.0.1 CINE MARVEL",CINEMA MARVEL
 http://tv.thepremiummedia.com:8080/javierjorge/123456/44728
-#EXTINF:-1 group-title="0.1 CINE MARVEL",Peliculas Marvel
+#EXTINF:-1 group-title="0.0.1 CINE MARVEL",Peliculas Marvel
 http://dns.k4livetv.com:8080/JUAN23/1904/302643
-#EXTINF:-1 group-title="0.1 CINE MARVEL",STUDIO CHANNEL 2 HD
+#EXTINF:-1 group-title="0.0.1 CINE MARVEL",STUDIO CHANNEL 2 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155980
-#EXTINF:-1 group-title="0.1 CINE MARVEL",STUDIO CHANNEL 3 HD
+#EXTINF:-1 group-title="0.0.1 CINE MARVEL",STUDIO CHANNEL 3 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155981
-#EXTINF:-1 group-title="0.1 CINE MARVEL",STUDIO CHANNEL 4 HD
+#EXTINF:-1 group-title="0.0.1 CINE MARVEL",STUDIO CHANNEL 4 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155982
 
 
-#EXTINF:-1 group-title="0.2 CINE MARVEL",STUDIO CHANNEL 6 HD
+#EXTINF:-1 group-title="0.0.2 CINE MARVEL",STUDIO CHANNEL 6 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155984
-#EXTINF:-1 group-title="0.2 CINE MARVEL",STUDIO CHANNEL 7 HD
+#EXTINF:-1 group-title="0.0.2 CINE MARVEL",STUDIO CHANNEL 7 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155985
-#EXTINF:-1 group-title="0.2 CINE MARVEL",STUDIO CHANNEL 9 HD
+#EXTINF:-1 group-title="0.0.2 CINE MARVEL",STUDIO CHANNEL 9 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155987
 
 
-#EXTINF:-1 group-title="0.3 CINE MARVEL",Universo Marvel (e)(1080)
+#EXTINF:-1 group-title="0.0.3 CINE MARVEL",Universo Marvel (e)(1080)
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/92072
-#EXTINF:-1 group-title="0.3 CINE MARVEL",Marvel Comics (e)(720)
+#EXTINF:-1 group-title="0.0.3 CINE MARVEL",Marvel Comics (e)(720)
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/92074
-#EXTINF:-1 group-title="0.3 CINE MARVEL",Marvel Comics Peliculas (e)(720)
+#EXTINF:-1 group-title="0.0.3 CINE MARVEL",Marvel Comics Peliculas (e)(720)
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/92076
 
 
@@ -1398,6 +1400,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
 
 #EXTINF:-1 group-title="AMERICA TV 4",HD AMERICA TELEVISION
 http://xtra.fireottplus.com:2052/230641037555/119482258817/147561
+#EXTINF:-1 group-title="AMERICA TV 4",America HD
+http://streamingtv.vip:8080/MarioMesias/donmario0912/135793
 
 
 #EXTINF:-1 group-title="PELICULAS",Capitan America: Guerra civil (4K)
@@ -1784,3 +1788,15 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35023
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35024
 #EXTINF:-1 group-title="MUSICA",MTV 00S SD (LAT)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35033
+
+
+#EXTINF:-1 group-title="INFELICES PARA SIEMPRE",Infelices para Siempre FHD 2023
+http://streamingtv.vip:8080/movie/MarioMesias/donmario0912/229629.mkv
+
+
+#EXTINF:-1 group-title="JOHN WICK 4",John Wick 4 HD (2023)
+http://streamingtv.vip:8080/movie/MarioMesias/donmario0912/230767.mkv
+
+
+#EXTINF:-1 group-title="DOCTOR STRANGE MULTIVERSO",Doctor Strange en el multiverso de la locura (2022)
+http://streamingtv.vip:8080/movie/MarioMesias/donmario0912/186309.mp4
