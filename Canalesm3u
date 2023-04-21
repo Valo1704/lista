@@ -176,6 +176,14 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49024.ts
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34618
 
 
+#EXTINF:-1 group-title="DEPORTES",WAPA DEPORTES 1
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193348
+#EXTINF:-1 group-title="DEPORTES",WAPA DEPORTES 2
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193349
+#EXTINF:-1 group-title="DEPORTES",WAPA DEPORTES 3
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193350
+#EXTINF:-1 group-title="DEPORTES",WAPA DEPORTES ECD
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193351
 #EXTINF:-1 group-title="DEPORTES",DAZN 1 (ESP)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/123036.ts
 #EXTINF:-1 group-title="DEPORTES",DAZN 2
@@ -1774,3 +1782,13 @@ http://streamingtv.vip:8080/movie/MarioMesias/donmario0912/230767.mkv
 
 #EXTINF:-1 group-title="DOCTOR STRANGE MULTIVERSO",Doctor Strange en el multiverso de la locura (2022)
 http://streamingtv.vip:8080/movie/MarioMesias/donmario0912/186309.mp4
+
+
+#EXTINF:-1 group-title="WAPA",WAPA 1
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193343
+#EXTINF:-1 group-title="WAPA",WAPA 2
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193344
+#EXTINF:-1 group-title="WAPA",WAPA 3
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193345
+##EXTINF:-1 group-title="WAPA",WAPA 4
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193346
