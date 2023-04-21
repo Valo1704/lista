@@ -196,8 +196,6 @@ http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193349
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193350
 #EXTINF:-1 group-title="DEPORTES",WAPA DEPORTES ECD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193351
-#EXTINF:-1 group-title="DEPORTES",DAZN 1 (ESP)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/123036.ts
 #EXTINF:-1 group-title="DEPORTES",DAZN 2
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/102979.ts
 #EXTINF:-1 group-title="DEPORTES",DAZN 4 (EVENTOS)
@@ -206,8 +204,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/282801.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49032.ts
 #EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS 2 HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49018.ts
-#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS PLUS
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/78750.ts
 #EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS PLUS HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113713.ts
 
@@ -575,8 +571,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302716
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313041
 #EXTINF:-1 group-title="PARAMOUNT 1",Paramount Channel FHD (CO.) (E)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35246
-#EXTINF:-1 group-title="PARAMOUNT 1",Paramount Channel SD (MX)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34980
 #EXTINF:-1 group-title="PARAMOUNT 1",Paramount Channel FHD (MX)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34981
 
@@ -1282,14 +1276,10 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34664
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312834
 
 
-#EXTINF:-1 group-title="ESPN 4",ESPN 4 opcion 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49000.ts
 #EXTINF:-1 group-title="ESPN 4",ESPN 4 ARG
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140316
 #EXTINF:-1 group-title="ESPN 4",ESPN 4
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137845.ts
-#EXTINF:-1 group-title="ESPN 4",ESPN 4 opcion 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49000.ts
 
 
 #EXTINF:-1 group-title="ESPN XTRA",ESPN Extra
@@ -1774,12 +1764,8 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34801
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302650
 
 
-#EXTINF:-1 group-title="MUSICA",Concert Channel SD (LAT)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35022
 #EXTINF:-1 group-title="MUSICA",Concert Channel FHD (LAT)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35023
-#EXTINF:-1 group-title="MUSICA",Concert Channel HD (LAT)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35024
 #EXTINF:-1 group-title="MUSICA",MTV 00S SD (LAT)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35033
 
