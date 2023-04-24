@@ -238,21 +238,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/146757.ts
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34676
 
 
-#EXTINF:-1 group-title="TNT SPORTS 1",TNT Sports HD (ARG)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34683
-#EXTINF:-1 group-title="TNT SPORTS 1",TNT Sports FHD (ARG)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34684
-
-
-#EXTINF:-1 group-title="TNT SPORTS 2",TNT Sports 2 SD (CL)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34674
-
-
 #EXTINF:-1 group-title="TNT SPORTS 3",TNT Sports 3 SD (CL)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/123886
-#EXTINF:-1 group-title="TNT SPORTS 3",TNT Sports 3 HD (CL)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/123887
-
 
 
 #EXTINF:-1 group-title="TYC SPORTS",TYC SPORTS HD (ARG)
@@ -751,14 +738,8 @@ http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/302633
 
 #EXTINF:-1 group-title="AMC",AMC HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324326.ts
-#EXTINF:-1 group-title="AMC",AMC  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313122
 #EXTINF:-1 group-title="AMC",AMC FHD (MX)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34916
-
-
-#EXTINF:-1 group-title="AMC 1",AMC HD (CA)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/181811
 
 
 #EXTINF:-1 group-title="FOX SPORTS1",FOX SPORTS
@@ -1247,13 +1228,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/123653
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34659
 #EXTINF:-1 group-title="ESPN 1",ESPN HD (ARG)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34660
-#EXTINF:-1 group-title="ESPN 1",ESPN FHD (ARG)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34661
-#EXTINF:-1 group-title="ESPN 1",ESPN FHD (CO)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312829
-
-#EXTINF:-1 group-title="ESPN 2",ESPN SD (CO)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312831
 
 
 #EXTINF:-1 group-title="ESPN2",ESPN 2
@@ -1270,10 +1244,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302639
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34662
 #EXTINF:-1 group-title="ESPN2 1",ESPN 2 FHD (ARG)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34664
-
-
-#EXTINF:-1 group-title="ESPN2 2",ESPN 2 SD (CO)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312834
 
 
 #EXTINF:-1 group-title="ESPN 4",ESPN 4 ARG
@@ -1394,8 +1364,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
 
 #EXTINF:-1 group-title="AMERICA TV 4",AMERICA TV PERU
 http://mytvstream.net:8080/vince/vince/110637
-#EXTINF:-1 group-title="AMERICA TV 4",HD AMERICA TELEVISION
-http://xtra.fireottplus.com:2052/230641037555/119482258817/147561
 #EXTINF:-1 group-title="AMERICA TV 4",America HD
 http://streamingtv.vip:8080/MarioMesias/donmario0912/135793
 
@@ -1678,8 +1646,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34504
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34506
 #EXTINF:-1 group-title="CINEMA",Cinema 32
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34508
-#EXTINF:-1 group-title="CINEMA",Cinema 34
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34510
 #EXTINF:-1 group-title="CINEMA",Cinema 35
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34511
 
@@ -2461,8 +2427,8 @@ http://playhispano.org:8080/series/eliaseggy787/JRZpSNT6Bv/31127.mp4
 http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/188181.mkv
 
 
-#EXTINF:-1 group-title="SHAZAM",Shazam! Fury of the Gods (2023) Dual-Latino (FHD)
-http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/209810.mkv
+#EXTINF:-1 group-title="SHAZAM",LEGO DC: ¡Shazam! Magia y monstruos (2020)
+http://castlempire.site:8080/movie/UserTest3Octubre_00i/FskXxRJQ3Ys7/105371.mkv
 
 
 #EXTINF:-1 group-title="ANT MAN",Ant-Man and the Wasp: Quantumania (2023) (DUAL)
