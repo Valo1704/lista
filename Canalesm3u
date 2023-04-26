@@ -14,18 +14,6 @@ http://streamingtv.vip:8080/MarioMesias/donmario0912/86338
 http://tv.thepremiummedia.com:8080/javierjorge/123456/44728
 #EXTINF:-1 group-title="0.0.1 CINE MARVEL",Peliculas Marvel
 http://dns.k4livetv.com:8080/JUAN23/1904/302643
-#EXTINF:-1 group-title="0.0.1 CINE MARVEL",STUDIO CHANNEL 2 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155980
-#EXTINF:-1 group-title="0.0.1 CINE MARVEL",STUDIO CHANNEL 3 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155981
-#EXTINF:-1 group-title="0.0.1 CINE MARVEL",STUDIO CHANNEL 4 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155982
-
-
-#EXTINF:-1 group-title="0.0.2 CINE MARVEL",STUDIO CHANNEL 6 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155984
-#EXTINF:-1 group-title="0.0.2 CINE MARVEL",STUDIO CHANNEL 7 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155985
 
 
 #EXTINF:-1 group-title="0.0.3 CINE MARVEL",Universo Marvel (e)(1080)
@@ -38,14 +26,8 @@ http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/92076
 
 #EXTINF:-1 group-title="0.0.4 CINE MARVEL",AVENGERS FHD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/87700
-#EXTINF:-1 group-title="0.0.4 CINE MARVEL",MARVEL STUDIO CHANNEL 3 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155981
-#EXTINF:-1 group-title="0.0.4 CINE MARVEL",MARVEL STUDIO CHANNEL 5 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155983
 #EXTINF:-1 group-title="0.0.4 CINE MARVEL",MARVEL STUDIO CHANNEL 8 HD
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155986
-#EXTINF:-1 group-title="0.0.4 CINE MARVEL",MARVEL STUDIO CHANNEL 10 HD
-http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155988
 
 
 #EXTINF:-1 group-title="ALIENIGENAS ANCESTRALES",ALIENIGENAS ANCESTRALES
@@ -214,8 +196,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323870.ts
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 #EXTINF:-1 group-title="D PELICULA",DE PELICULA CLASICO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113718.ts
-#EXTINF:-1 group-title="D PELICULA",D PELICULA PLUS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
 #EXTINF:-1 group-title="D PELICULA",DPelicula HD (MX VIP)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302635
 
@@ -344,8 +324,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35290
 http://190.131.228.59:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="HBO FAMILY",Hbo Family
 http://iptvglobal.site:25461/rrtv/rrtv12345/131118
-#EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY HD R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 #EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 
@@ -373,8 +351,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302670
 http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 group-title="HBO XTREME",HBO XTREME FHD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126312
-#EXTINF:-1 group-title="HBO XTREME",HBO XTREME HD R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126313
 #EXTINF:-1 group-title="HBO XTREME",HBO XTREME
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121640.ts
 #EXTINF:-1 group-title="HBO XTREME",HBO EXTREME HD (MX VIP)
@@ -415,8 +391,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313096
 http://190.131.228.59:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="CINECANAL",CINECANAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
-#EXTINF:-1 group-title="CINECANAL",CINECANAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 
 
 #EXTINF:-1 group-title="CINECANAL 1",CINECANAL HD
@@ -467,8 +441,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137607.ts
 
 #EXTINF:-1 group-title="STAR CHANNEL",Star Channel FHD
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313042
-#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 group-title="STAR CHANNEL",Star Channel  SD (CL*)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313066
 #EXTINF:-1 group-title="STAR CHANNEL",Star Channel SD (LAT)
@@ -501,8 +473,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313079
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312954
 
 
-#EXTINF:-1 group-title="SPACE",SPACE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
 #EXTINF:-1 group-title="SPACE",SPACE HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121650.ts
 #EXTINF:-1 group-title="SPACE",Space  FHD (CL*)
@@ -511,8 +481,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313044
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313070
 
 
-#EXTINF:-1 group-title="SPACE 1",Space SD (MX)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34968
 #EXTINF:-1 group-title="SPACE 1",Space FHD (MX)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34969
 
@@ -653,8 +621,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313043
 http://190.131.228.59:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
-#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166508.ts
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323869.ts
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network HD (MX VIP)
@@ -665,8 +631,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302621
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313150
 #EXTINF:-1 group-title="CARTOON NETWORK 2",Cartoon Network  SD (CL*)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313159
-#EXTINF:-1 group-title="CARTOON NETWORK 2",Cartoon Network SD (MX)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34752
 
 
 #EXTINF:-1 group-title="BOOMERANG",Boomerang
@@ -689,8 +653,6 @@ http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/302631
 http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/35228
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/223
-#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323871.ts
 
 
 #EXTINF:-1 group-title="DREAMWORKS",DreamWorks HD (MX VIP)
@@ -703,8 +665,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324326.ts
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34916
 
 
-#EXTINF:-1 group-title="FOX SPORTS1",FOX SPORTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS1",FOX SPORTS 1  (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 #EXTINF:-1 group-title="FOX SPORTS1",FOX SPORTS 1 HD (SUR)
@@ -763,8 +723,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34630
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34632
 
 
-#EXTINF:-1 group-title="FOX SPORTS2",FOX SPORTS 2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 group-title="FOX SPORTS2",Fox Sports 2
 http://190.131.228.59:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="FOX SPORTS2",FOX SPORTS 2 HD (SUR)
@@ -807,8 +765,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324630.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49002.ts
 #EXTINF:-1 group-title="FOX SPORTS3 1",FOX SPORTS 3 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48963.ts
-#EXTINF:-1 group-title="FOX SPORTS3 1",Fox Sports 3 FHD (MX)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34626
 
 
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium (MX VIP)
@@ -863,8 +819,6 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/141
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/146
 #EXTINF:-1 group-title="NOTICIAS 1",CNN en Español
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/159
-#EXTINF:-1 group-title="NOTICIAS 1",TELEFORMULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
 #EXTINF:-1 group-title="NOTICIAS 1",DW
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52471.ts
 
@@ -875,10 +829,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302602
 
 #EXTINF:-1 group-title="ESTADOS",MEXIQUENSE TV
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52486.ts
-
-
-#EXTINF:-1 group-title="CANAL 5",Canal 5 HD (XHGC-TDT)
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
 
 
 #EXTINF:-1 group-title="UNIMAS",UNIMAS WEST
@@ -1299,8 +1249,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/55632
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
 
 
-#EXTINF:-1 group-title="AMERICA TV 4",AMERICA TV PERU
-http://mytvstream.net:8080/vince/vince/110637
 #EXTINF:-1 group-title="AMERICA TV 4",America HD
 http://streamingtv.vip:8080/MarioMesias/donmario0912/135793
 
@@ -2696,4 +2644,3 @@ http://tvla.xyz:80/movie/vrhqyawo/87e0n2pQcM/252463.mkv
 http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/203847.mkv
 #EXTINF:-1 group-title="AVATAR",Avatar: The Way of Water (2022) HD Dual-Latino
 http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/203848.mkv
-
