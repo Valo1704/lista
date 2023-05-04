@@ -206,8 +206,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 #EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
-#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121627.ts
 #EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 OPC 2
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121626.ts
 
@@ -271,12 +269,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324321.ts
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60981
 
 
-#EXTINF:-1 group-title="UNIVERSAL CINEMA",UNIVERSAL CINEMA
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140162
-#EXTINF:-1 group-title="UNIVERSAL CINEMA",UNIVERSAL CINEMA
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140162
-
-
 #EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIMEN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 #EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIMEN
@@ -321,8 +313,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 
 
-#EXTINF:-1 group-title="CINEMAX",Cinemax
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/259
 #EXTINF:-1 group-title="CINEMAX",CINEMAX HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324325.ts
 
@@ -365,12 +355,6 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85727.ts
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/189922.ts
 
 
-#EXTINF:-1 group-title="DISCOVERY SCIENCE",Discovery Science
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/241
-#EXTINF:-1 group-title="DISCOVERY SCIENCE",DISCOVERY SCIENCE opcion 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166511.ts
-
-
 #EXTINF:-1 group-title="DISCOVERY FAMILY",DISCOVERY FAMILIA
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121707.ts
 
@@ -399,10 +383,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 
 #EXTINF:-1 group-title="DISNEY JUNIOR",DISNEY JR
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/166503.ts
-
-
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/223
 
 
 #EXTINF:-1 group-title="AMC",AMC HD
@@ -449,8 +429,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS1 3",FOX SPORTS 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-#EXTINF:-1 group-title="FOX SPORTS1 3",Fox Sports 1
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/151
 #EXTINF:-1 group-title="FOX SPORTS1 3",FOX SPORTS 1  (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
 
@@ -473,8 +451,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48298
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 #EXTINF:-1 group-title="FOX SPORTS2 1",FOX SPORTS 2
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140195
-#EXTINF:-1 group-title="FOX SPORTS2 1",Fox Sports 2 HD
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/153
 #EXTINF:-1 group-title="FOX SPORTS2 1",FOX SPORTS 2 HD (SUR)
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/66643.ts
 
@@ -515,12 +491,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121703.ts
 https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",N+
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Foro TV HD
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/141
 
 
-#EXTINF:-1 group-title="NOTICIAS 1",ADN40 HD
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/146
 #EXTINF:-1 group-title="NOTICIAS 1",DW
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52471.ts
 
@@ -701,8 +673,6 @@ http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/80682
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
 #EXTINF:-1 group-title="AZTECA UNO",AZTECA UNO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
-#EXTINF:-1 group-title="AZTECA UNO 1",AZTECA UNO
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52476.ts
 
 
 #EXTINF:-1 group-title="AZTECA UNO -2H",AZTECA UNO -2
@@ -711,8 +681,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 
 #EXTINF:-1 group-title="AZTECA 7",AZTECA SIETE
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="AZTECA 7",Azteca 7
-http://ttv.bz:80/Kenwyn/TJGm5d9YlP/172
 #EXTINF:-1 group-title="AZTECA 7",Azteca 7 FHD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1221
 #EXTINF:-1 group-title="AZTECA 7",Azteca 7 HD
