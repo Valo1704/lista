@@ -16,7 +16,8 @@ http://tvla.xyz:80/vzlrhhut/Qu99ann6N0/50586
 http://tvla.xyz:80/vzlrhhut/Qu99ann6N0/58067
 #EXTINF:-1 group-title="0.0 CINE MARVEL",VIP Cinema Marvel Studios Oeste FHD
 http://tvla.xyz:80/vzlrhhut/Qu99ann6N0/58068
-
+#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studio HD
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/38694
 
 #EXTINF:-1 group-title="ALIENIGENAS ANCESTRALES",ALIENIGENAS ANCESTRALES
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/761386.ts
@@ -174,6 +175,20 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/323870.ts
 
 #EXTINF:-1 group-title="D PELICULA",DE PELICULA CLASICO
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113718.ts
+#EXTINF:-1 group-title="D PELICULA",De Pelicula + SD (p)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/1470
+#EXTINF:-1 group-title="D PELICULA",De Pelicula HD (p)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/3285
+#EXTINF:-1 group-title="D PELICULA",De Pelicula SD (p)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/1469
+#EXTINF:-1 group-title="D PELICULA",De Pelicula + HD (i)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/37960
+#EXTINF:-1 group-title="D PELICULA",De Pelicula + HD (p)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/3143
+#EXTINF:-1 group-title="D PELICULA",De Pelicula Classico (i)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/91750
+#EXTINF:-1 group-title="D PELICULA",De Pelicula SD  (i)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/91751
 
 
 #EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS HD arg
@@ -315,6 +330,8 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324317.ts
 
 #EXTINF:-1 group-title="SPACE",SPACE HD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121650.ts
+#EXTINF:-1 group-title="SPACE",Space
+http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/31123
 
 
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
