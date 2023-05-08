@@ -134,6 +134,14 @@ http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/91750
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/91751
 
 
+#EXTINF:-1 group-title="D PELICULA 1",De Pelicula HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302635
+
+
+#EXTINF:-1 group-title="D PELICULA PLUS",De Pelicula Plus SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35000
+
+
 #EXTINF:-1 group-title="0.0 HBO",HBO LATINO R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
 #EXTINF:-1 group-title="0.0 HBO",HBO
@@ -146,6 +154,11 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 
 
+#EXTINF:-1 group-title="0.0 HBO 2",HBO HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302664
+#EXTINF:-1 group-title="0.0 HBO 2",HBO FHD (MX E)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35286
+
 #EXTINF:-1 group-title="0.0 HBO2",HBO 2 SD2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 #EXTINF:-1 group-title="0.0 HBO2",HBO 2
@@ -156,10 +169,58 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 
 
+#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302665
 #EXTINF:-1 group-title="0.0 HBO2 1",HBO 2
 http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 #EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
+
+
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO FHD (MX Dual)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34880
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Mundi FHD (MX Dual)
+http://hplay.xyz:80/hldoudby/qubRsmkm/43222
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Pop FHD (MX Dual)
+http://hplay.xyz:80/hldoudby/qubRsmkm/43223
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Xtreme FHD (MX Dual)
+http://hplay.xyz:80/hldoudby/qubRsmkm/43224
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO 2 FHD (MX Dual)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34887
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Plus FHD (MX Dual)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34891
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Family FHD (MX Dual)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34898
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Signature FHD (MX Dual)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34902
+
+
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4112
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155792
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO 2
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155794
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO 2 FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4095
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO PLUS FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4109
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO PLUS +
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4003
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO SIGNATURE
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155796
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO XTREME FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/8226
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO XTREME
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/44341
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO POP FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/8246
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO POP
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/47445
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO FAMILY
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4017
+#EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO MUNDI
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1143815
 
 
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
@@ -180,6 +241,10 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131118
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 
 
+#EXTINF:-1 group-title="HBO FAMILY 1",HBO Family FHD (MX E)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35292
+
+
 #EXTINF:-1 group-title="HBO XTREME",HBO XTREME FHD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126312
 
@@ -194,26 +259,58 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 
 #EXTINF:-1 group-title="CINECANAL",CINECANAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
+#EXTINF:-1 group-title="CINECANAL",Cine Canal HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302689
 
 
-#EXTINF:-1 group-title="CINECANAL 1",CINECANAL HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
+#EXTINF:-1 group-title="CINECANAL 1",Cinecanal SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34990
+#EXTINF:-1 group-title="CINECANAL 1",CINECANAL FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4068
+#EXTINF:-1 group-title="CINECANAL 1",CINECANAL FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155785
+
+
+#EXTINF:-1 group-title="CINECANAL 2",Cinecanal SD
+http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/59165
 
 
 #EXTINF:-1 group-title="UNIVERSAL",Universal Premium SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60981
+#EXTINF:-1 group-title="UNIVERSAL",Universal Premier HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302742
+
+
+#EXTINF:-1 group-title="UNIVERSAL CHANNEL",Universal Channel HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302739
+#EXTINF:-1 group-title="UNIVERSAL CHANNEL",Universal Channel FHD (MX E)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35266
+#EXTINF:-1 group-title="UNIVERSAL CHANNEL",Universal Channel SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34954
+#EXTINF:-1 group-title="UNIVERSAL CHANNEL",Universal Channel FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34955
+
+
+#EXTINF:-1 group-title="UNIVERSAL CINEMA",universal Cinema HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302740
 
 
 #EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIMEN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 #EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIMEN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
+#EXTINF:-1 group-title="UNIVERSAL CRIME",Universal Crime HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302741
 
 
 #EXTINF:-1 group-title="UNIVERSAL COMEDY",UNIVERSAL COMEDY
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
 
 
+#EXTINF:-1 group-title="UNIVERSAL REALITY",Universal Reality HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302743
+
+
 #EXTINF:-1 group-title="WARNER",WARNER
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 #EXTINF:-1 group-title="WARNER",Warner HD
@@ -224,6 +321,14 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 http://iptvglobal.site:25461/rrtv/rrtv12345/131129
 
 
+#EXTINF:-1 group-title="WARNER 1",Warner Channel HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302746
+#EXTINF:-1 group-title="WARNER 1",Warner Channel SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34920
+#EXTINF:-1 group-title="WARNER 1",Warner Channel FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34921
+
+
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
@@ -232,6 +337,14 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
+
+
+#EXTINF:-1 group-title="PARAMOUNT 1",Paramount HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302716
+#EXTINF:-1 group-title="PARAMOUNT 1",PARAMOUNT FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4065
+#EXTINF:-1 group-title="PARAMOUNT 1",PARAMOUNT
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155799
 
 
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS LATAM
@@ -250,6 +363,18 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 group-title="0.2 LAS ESTRELLAS",Las Estrellas HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302700
+#EXTINF:-1 group-title="0.2 LAS ESTRELLAS",Las Estrellas SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35036
+#EXTINF:-1 group-title="0.2 LAS ESTRELLAS",Las Estrellas FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35037
+
+
+#EXTINF:-1 group-title="0.2 LAS ESTRELLAS -1H",Las Estrellas -1HRs HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/304504
+
+
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",LAS ESTRELLAS -2H
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/245
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",Las Estrellas -2 Hrs Vix+
@@ -257,11 +382,18 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",LAS ESTRELLAS -2H
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/245
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas -2 Hrs Vix+
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 
 
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302621
+
+
+#EXTINF:-1 group-title="CARTOON NETWORK 1",Cartoon Network SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34752
+#EXTINF:-1 group-title="CARTOON NETWORK 1",Cartoon Network FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34753
 
 
 #EXTINF:-1 group-title="BOOMERANG",Boomerang
@@ -270,8 +402,12 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 
 #EXTINF:-1 group-title="TOONCAST",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
+#EXTINF:-1 group-title="TOONCAST",Tooncast SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34796
 
 
+#EXTINF:-1 group-title="FOX SPORTS1",Fox Sports HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302652
 #EXTINF:-1 group-title="FOX SPORTS1",Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1 group-title="FOX SPORTS1",FOX SPORTS 1 MX
@@ -306,6 +442,14 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
 
 
+#EXTINF:-1 group-title="FOX SPORTS1 4",Fox Sports SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34621
+#EXTINF:-1 group-title="FOX SPORTS1 4",Fox Sports FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34622
+
+
+#EXTINF:-1 group-title="FOX SPORTS2",Fox Sports 2 HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302653
 #EXTINF:-1 group-title="FOX SPORTS2",Fox Sports 2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 #EXTINF:-1 group-title="FOX SPORTS2",CO FOX SPORTS 2
@@ -320,8 +464,20 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140195
 
 
+#EXTINF:-1 group-title="FOX SPORTS2 2",Fox Sports 2 SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34623
+#EXTINF:-1 group-title="FOX SPORTS2 2",Fox Sports 2 FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34624
+
+
 #EXTINF:-1 group-title="FOX SPORTS3",FOX SPORTS 3 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/415
+
+
+#EXTINF:-1 group-title="FOX SPORTS3 1",Fox Sports 3 SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34625
+#EXTINF:-1 group-title="FOX SPORTS3 1",Fox Sports 3 FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34626
 
 
 #EXTINF:-1 group-title="NOTICIAS",N+
@@ -330,8 +486,20 @@ https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 group-title="NOTICIAS 1",ADN40 FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/43619
+#EXTINF:-1 group-title="NOTICIAS 1",ADN40 HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302602
+#EXTINF:-1 group-title="NOTICIAS 1",Milenio TV HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302702
+#EXTINF:-1 group-title="NOTICIAS 1",ForoTV HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302620
+
+
 #EXTINF:-1 group-title="NFL",NFL NETWORK
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/98}
+#EXTINF:-1 group-title="NFL",NFL Network (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/313027
 
 
 #EXTINF:-1 group-title="NBA 1",NBA 1
@@ -460,24 +628,8 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 
 
-#EXTINF:-1 group-title="ESPN",ESPN 1 SUR FHD
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
-
-
-#EXTINF:-1 group-title="ESPN 4",ESPN 4 ARG
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140316
-
-
-#EXTINF:-1 group-title="ESPN XTRA",ESPN Extra
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140202
-
-
-#EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM ARG
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
-
-
-#EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
+#EXTINF:-1 group-title="TUDN",TUDN HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/304510
 
 
 #EXTINF:-1 group-title="AZTECA UNO",Azteca Uno HD
@@ -488,6 +640,14 @@ http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/80682
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
 #EXTINF:-1 group-title="AZTECA UNO",AZTECA UNO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
+
+
+#EXTINF:-1 group-title="AZTECA UNO 1",Azteca Uno HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302682
+
+
+#EXTINF:-1 group-title="AZTECA UNO -1H",Azteca -1H HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302685
 
 
 #EXTINF:-1 group-title="AZTECA UNO -2H",AZTECA UNO -2
@@ -504,6 +664,10 @@ http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1222
 
 #EXTINF:-1 group-title="AZTECA 7 1",Azteca 7 SD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1223
+#EXTINF:-1 group-title="AZTECA 7 1",Azteca 7 FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/43605
+#EXTINF:-1 group-title="AZTECA 7 1",Azteca 7  2 HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302683
 
 
 #EXTINF:-1 group-title="AMERICA TV 0",America TV FHD (E)
@@ -754,6 +918,10 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/873
 #EXTINF:-1 group-title="1 TNT NBA",TNT West HD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/863
+#EXTINF:-1 group-title="1 TNT NBA",TNT
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/18767
+#EXTINF:-1 group-title="1 TNT NBA",TNT
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1080672
 
 
 #EXTINF:-1 group-title="INFELICES PARA SIEMPRE",Infelices para Siempre (2023)
@@ -834,6 +1002,12 @@ http://svtv.xyz:8080/jonya/HHcNTJp/276735
 http://svtv.xyz:8080/jonya/HHcNTJp/341670
 
 
+#EXTINF:-1 group-title="AFIZZIONADOS 1",Affiz HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/304505
+#EXTINF:-1 group-title="AFIZZIONADOS 1",AFIZZIONADOS LQ R
+http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/126369
+
+
 #EXTINF:-1 group-title="CHIP Y DALE",Chip y Dale: Al rescate (2022)
 http://hplay.xyz:80/movie/rtrboofc/pi519pvU9R/304665.mkv
 
@@ -842,3 +1016,264 @@ http://hplay.xyz:80/movie/rtrboofc/pi519pvU9R/304665.mkv
 http://hplay.xyz:80/movie/rtrboofc/pi519pvU9R/304678.mkv
 #EXTINF:-1 group-title="SONIC",Sonic 2: La Película 720p (2022)
 http://hplay.xyz:80/movie/rtrboofc/pi519pvU9R/304679.mkv
+
+
+#EXTINF:-1 group-title="AMC",AMC HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302605
+#EXTINF:-1 group-title="AMC",AMC SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34915
+#EXTINF:-1 group-title="AMC",AMC FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34916
+
+
+#EXTINF:-1 group-title="AMC 1",AMC FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4085
+#EXTINF:-1 group-title="AMC 1",AMC
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4118
+
+
+#EXTINF:-1 group-title="AXN",AXN HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302611
+#EXTINF:-1 group-title="AXN",AXN SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34939
+#EXTINF:-1 group-title="AXN",AXN FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34940
+
+
+#EXTINF:-1 group-title="AXN 1",AXN FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4038
+#EXTINF:-1 group-title="AXN 1",AXN
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155784
+
+
+#EXTINF:-1 group-title="A&E",A&E HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302612
+#EXTINF:-1 group-title="A&E",A&E SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34944
+#EXTINF:-1 group-title="A&E",A&E FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34945
+
+
+#EXTINF:-1 group-title="A&E 1",A&E FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4037
+#EXTINF:-1 group-title="A&E 1",A&E
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1156013
+
+
+#EXTINF:-1 group-title="CINEMAX",CineMax HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302623
+#EXTINF:-1 group-title="CINEMAX",Cinemax SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34995
+#EXTINF:-1 group-title="CINEMAX",Cinemax FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34996
+
+
+#EXTINF:-1 group-title="CINEMAX 1",CINEMAX FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4110
+
+
+#EXTINF:-1 group-title="DREAMWORKS",DreamWorks HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302633
+#EXTINF:-1 group-title="DREAMWORKS",DreamWorks HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/304507
+
+
+#EXTINF:-1 group-title="ESPN1",ESPN HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302638
+#EXTINF:-1 group-title="ESPN",ESPN 1 SUR FHD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
+
+
+#EXTINF:-1 group-title="ESPN 1",ESPN SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34652
+#EXTINF:-1 group-title="ESPN 1",ESPN FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34653
+
+
+#EXTINF:-1 group-title="ESPN2",ESPN 2 HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302639
+#EXTINF:-1 group-title="ESPN2",ESPN 2 SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34655
+#EXTINF:-1 group-title="ESPN2",ESPN 2 FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34656
+
+
+#EXTINF:-1 group-title="ESPN3",ESPN 3 HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302640
+#EXTINF:-1 group-title="ESPN3",ESPN 3 SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34657
+#EXTINF:-1 group-title="ESPN3",ESPN 3 FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34658
+
+
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 ARG
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140316
+
+
+#EXTINF:-1 group-title="ESPN XTRA",ESPN Extra
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140202
+
+
+#EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM ARG
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
+
+
+#EXTINF:-1 group-title="ESPN DEPORTES",ESPN DEPORTES
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
+
+
+#EXTINF:-1 group-title="ESPN DEPORTES 1",ESPN DEPORTES HD
+http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/140318
+
+
+#EXTINF:-1 group-title="STAR CHANNEL",Star Channel HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302645
+#EXTINF:-1 group-title="STAR CHANNEL",Star Channel FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34925
+
+
+#EXTINF:-1 group-title="STAR CHANNEL 1",STAR CHANNEL FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4022
+#EXTINF:-1 group-title="STAR CHANNEL 1",STAR CHANNEL
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4121
+
+
+#EXTINF:-1 group-title="IMAGEN TV",Imagen TV HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302650
+#EXTINF:-1 group-title="IMAGEN TV",Imagen TV FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/43609
+#EXTINF:-1 group-title="IMAGEN TV",Imagen HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302675
+
+
+#EXTINF:-1 group-title="FX",FX HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302655
+#EXTINF:-1 group-title="FX",FX SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34973
+#EXTINF:-1 group-title="FX",FX FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34974
+
+
+#EXTINF:-1 group-title="FX 1",FX FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4044
+#EXTINF:-1 group-title="FX 1",FX
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155789
+
+
+#EXTINF:-1 group-title="CLARO SPORTS",Claro Sports HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302690
+
+
+#EXTINF:-1 group-title="SONY",Sony HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302718
+#EXTINF:-1 group-title="SONY",Sony Entertainment SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34934
+#EXTINF:-1 group-title="SONY",Sony Entertainment FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34935
+
+
+#EXTINF:-1 group-title="SONY 1",SONY FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4048
+#EXTINF:-1 group-title="SONY 1",SONY
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155800
+
+
+#EXTINF:-1 group-title="SONY MOVIES",Sony Movies HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/304509
+#EXTINF:-1 group-title="SONY MOVIES",SONY MOVIES
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1143816
+
+
+#EXTINF:-1 group-title="SPACE",Space HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302719
+#EXTINF:-1 group-title="SPACE",Space SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34968
+#EXTINF:-1 group-title="SPACE",Space FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34969
+
+
+#EXTINF:-1 group-title="SPACE 1",SPACE FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4099
+
+
+#EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302721
+#EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal FHD (MX E)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35267
+
+
+#EXTINF:-1 group-title="STUDIO UNIVERSAL 1",Studio Universal SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34965
+#EXTINF:-1 group-title="STUDIO UNIVERSAL 1",Studio Universal FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34966
+
+
+#EXTINF:-1 group-title="SYFY",SyFy HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302722
+#EXTINF:-1 group-title="SYFY",SyFy SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35010
+#EXTINF:-1 group-title="SYFY",SyFy FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35011
+
+
+#EXTINF:-1 group-title="SYFY 1",SYFY FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4049
+#EXTINF:-1 group-title="SYFY 1",SYFY
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/3958
+
+
+#EXTINF:-1 group-title="TNT",TNT HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302733
+#EXTINF:-1 group-title="TNT",TNT FHD
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4103
+#EXTINF:-1 group-title="TNT",TNT
+http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4010
+
+
+#EXTINF:-1 group-title="TVC DEPORTES",TVC Deportes HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302737
+
+
+#EXTINF:-1 group-title="MEGANOTICIAS",Meganoticias (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/313026
+
+
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34757
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34758
+
+
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34765
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34766
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior HD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/312763
+
+
+#EXTINF:-1 group-title="PUEBLA",Televisa Puebla FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/35164
+
+
+#EXTINF:-1 group-title="NATGEO",National Geographic SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34844
+#EXTINF:-1 group-title="NATGEO",National Geographic FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/34845
+
+
+#EXTINF:-1 group-title="FORO TV",Foro TV FHD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/43608
+
+
+#EXTINF:-1 group-title="CANAL 5",Canal 5 SD (MX)
+http://hplay.xyz:80/hldoudby/qubRsmkm/43626
+#EXTINF:-1 group-title="CANAL 5",Canal 5 HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302619
+
+
+#EXTINF:-1 group-title="ESTADOS",MTY Canal 8 Televisa HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302688
+#EXTINF:-1 group-title="ESTADOS",MTY Canal 4 Televisa HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302687
+
