@@ -132,57 +132,71 @@ http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193349
 http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/193350
 
 
-#EXTINF:-1 group-title="D PELICULA",De Pelicula + SD (p)
-http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/1470
+
 #EXTINF:-1 group-title="D PELICULA",De Pelicula HD (p)
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/3285
 #EXTINF:-1 group-title="D PELICULA",De Pelicula SD (p)
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/1469
-#EXTINF:-1 group-title="D PELICULA",De Pelicula + HD (i)
-http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/37960
-#EXTINF:-1 group-title="D PELICULA",De Pelicula + HD (p)
-http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/3143
-#EXTINF:-1 group-title="D PELICULA",De Pelicula Classico (i)
-http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/91750
 #EXTINF:-1 group-title="D PELICULA",De Pelicula SD  (i)
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/91751
-
-
-#EXTINF:-1 group-title="D PELICULA 1",De Pelicula HD (MX VIP)
+#EXTINF:-1 group-title="D PELICULA",De Pelicula HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302635
 
 
+#EXTINF:-1 group-title="D PELICULA PLUS",DE PELICULAS PLUS
+http://daleplaypro.com:8080/J4757g67/G4757j67/63735
 #EXTINF:-1 group-title="D PELICULA PLUS",De Pelicula Plus SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/35000
+#EXTINF:-1 group-title="D PELICULA PLUS",De Pelicula + SD (p)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/1470
+#EXTINF:-1 group-title="D PELICULA PLUS",De Pelicula + HD (i)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/37960
+#EXTINF:-1 group-title="D PELICULA PLUS",De Pelicula + HD (p)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/3143
+
+
+#EXTINF:-1 group-title="D PELICULA CLASICO",De Pelicula Classico
+http://daleplaypro.com:8080/J4757g67/G4757j67/63736
+#EXTINF:-1 group-title="D PELICULA CLASICO",De Pelicula Classico (i)
+http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/91750
 
 
 #EXTINF:-1 group-title="0.0 HBO",HBO LATINO R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
 #EXTINF:-1 group-title="0.0 HBO",HBO
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
-
-
-#EXTINF:-1 group-title="0.0 HBO 1",HBO SD
+#EXTINF:-1 group-title="0.0 HBO",HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
-#EXTINF:-1 group-title="0.0 HBO 1",HBO HD IN
+#EXTINF:-1 group-title="0.0 HBO",HBO HD IN
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
-#EXTINF:-1 group-title="0.0 HBO ",HBO FHD (MX E)
+#EXTINF:-1 group-title="0.0 HBO",HBO FHD (MX E)
 http://hplay.xyz:80/hldoudby/qubRsmkm/35286
-
 #EXTINF:-1 group-title="0.0 HBO2",HBO 2 SD2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
-#EXTINF:-1 group-title="0.0 HBO2",HBO 2
+
+
+#EXTINF:-1 group-title="0.0 HBO 2",HBO 2
 http://iptvglobal.site:25461/rrtv/rrtv12345/131122
-#EXTINF:-1 group-title="0.0 HBO2",HBO 2 HD R
+#EXTINF:-1 group-title="0.0 HBO 2",HBO 2 HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
-#EXTINF:-1 group-title="0.0 HBO2",HBO 2 SD
+#EXTINF:-1 group-title="0.0 HBO 2",HBO 2 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
-
-
-#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2
+#EXTINF:-1 group-title="0.0 HBO 2",HBO 2
 http://iptvglobal.site:25461/rrtv/rrtv12345/131122
-#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 HD R
+#EXTINF:-1 group-title="0.0 HBO 2",HBO 2 HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
+
+
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO
+http://tbs-tv.com:8080/dark/kittylinetv/4134
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO 2
+http://tbs-tv.com:8080/dark/kittylinetv/4133
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Signature
+http://tbs-tv.com:8080/dark/kittylinetv/4137
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Plus
+http://tbs-tv.com:8080/dark/kittylinetv/4136
+#EXTINF:-1 group-title="0.0 HBO VARIOS",HBO Family
+http://tbs-tv.com:8080/dark/kittylinetv/4135
 
 
 #EXTINF:-1 group-title="0.0 HBO VARIOS 1",HBO FHD
@@ -213,15 +227,15 @@ http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4017
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1143815
 
 
+#EXTINF:-1 group-title="HBO PLUS",HBO Plus MX HD
+http://svtv.xyz:8080/jonya/HHcNTJp/30976
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
-
-
-#EXTINF:-1 group-title="HBO PLUS 1",HBO PLUS
+#EXTINF:-1 group-title="HBO PLUS",HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 
 
@@ -233,8 +247,12 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 
 #EXTINF:-1 group-title="HBO XTREME",HBO XTREME FHD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126312
+#EXTINF:-1 group-title="HBO XTREME",HBO XTREME MX
+http://svtv.xyz:8080/jonya/HHcNTJp/30973
 
 
+#EXTINF:-1 group-title="HBO POP",HBO POP MX
+http://svtv.xyz:8080/jonya/HHcNTJp/30982
 #EXTINF:-1 group-title="HBO POP",HBO POP R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126310
 
@@ -243,21 +261,19 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126310
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 
 
+#EXTINF:-1 group-title="CINECANAL",CINECANAL MX
+http://svtv.xyz:8080/jonya/HHcNTJp/31015
 #EXTINF:-1 group-title="CINECANAL",CINECANAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 #EXTINF:-1 group-title="CINECANAL",Cine Canal HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302689
-
-
-#EXTINF:-1 group-title="CINECANAL 1",Cinecanal SD (MX)
+#EXTINF:-1 group-title="CINECANAL",Cinecanal SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34990
-#EXTINF:-1 group-title="CINECANAL 1",CINECANAL FHD
+#EXTINF:-1 group-title="CINECANAL",CINECANAL FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4068
-#EXTINF:-1 group-title="CINECANAL 1",CINECANAL FHD
+#EXTINF:-1 group-title="CINECANAL",CINECANAL FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155785
-
-
-#EXTINF:-1 group-title="CINECANAL 2",Cinecanal SD
+#EXTINF:-1 group-title="CINECANAL",Cinecanal SD
 http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/59165
 
 
@@ -285,6 +301,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
 
 
+#EXTINF:-1 group-title="WARNER",Warner
+http://tbs-tv.com:8080/dark/kittylinetv/4269
+#EXTINF:-1 group-title="WARNER",WARNER
+http://hardcoremedia.xyz:80/brekxlir/2106453839/19619
 #EXTINF:-1 group-title="WARNER",WARNER
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 #EXTINF:-1 group-title="WARNER",Warner HD
@@ -293,14 +313,14 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131129
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 #EXTINF:-1 group-title="WARNER",Warner HD
 http://iptvglobal.site:25461/rrtv/rrtv12345/131129
-
-
-#EXTINF:-1 group-title="WARNER 1",Warner Channel SD (MX)
+#EXTINF:-1 group-title="WARNER",Warner Channel SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34920
-#EXTINF:-1 group-title="WARNER 1",Warner Channel FHD (MX)
+#EXTINF:-1 group-title="WARNER",Warner Channel FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34921
 
 
+#EXTINF:-1 group-title="PARAMOUNT",Paramount Channel (MX)
+http://hardcoremedia.xyz:80/brekxlir/2106453839/17746
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
@@ -309,16 +329,30 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
-
-
-#EXTINF:-1 group-title="PARAMOUNT 1",Paramount HD (MX VIP)
+#EXTINF:-1 group-title="PARAMOUNT",Paramount HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302716
-#EXTINF:-1 group-title="PARAMOUNT 1",PARAMOUNT FHD
+#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4065
-#EXTINF:-1 group-title="PARAMOUNT 1",PARAMOUNT
+#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155799
 
 
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas
+http://daleplaypro.com:8080/J4757g67/G4757j67/70905
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/70908
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Canal De Las Estrellas
+http://tbs-tv.com:8080/dark/kittylinetv/4067
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS
+http://svtv.xyz:8080/jonya/HHcNTJp/166378
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS
+http://svtv.xyz:8080/jonya/HHcNTJp/109056
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS
+http://svtv.xyz:8080/jonya/HHcNTJp/158064
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS SD
+http://svtv.xyz:8080/jonya/HHcNTJp/299289
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",CANAL DE LAS ESTRELLAS FHD
+http://svtv.xyz:8080/jonya/HHcNTJp/292830
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS LATAM
@@ -327,11 +361,9 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS MX
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-
-
-#EXTINF:-1 group-title="0.1 LAS ESTRELLAS",LAS ESTRELLAS centro
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS centro
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
-#EXTINF:-1 group-title="0.1 LAS ESTRELLAS",LAS ESTRELLAS INTERNACIONAL
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS INTERNACIONAL
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 
@@ -341,14 +373,14 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/245
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",LAS ESTRELLAS -2H
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/245
-#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas -2 Hrs Vix+
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",Las Estrellas -2 Hrs Vix+
 
 
 #EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
+http://hardcoremedia.xyz:80/brekxlir/2106453839/19535
+#EXTINF:-1 group-title="CARTOON NETWORK",CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
-
-
-#EXTINF:-1 group-title="CARTOON NETWORK 1",Cartoon Network SD (MX)
+#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34752
 
 
@@ -357,79 +389,141 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 
 
 #EXTINF:-1 group-title="TOONCAST",Tooncast
+http://tbs-tv.com:8080/dark/kittylinetv/4236
+#EXTINF:-1 group-title="TOONCAST",Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 #EXTINF:-1 group-title="TOONCAST",Tooncast SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34796
 
 
-#EXTINF:-1 group-title="FOX SPORTS1",Fox Sports
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/99836
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 SD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/99837
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135801
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/100115
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/50495
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/50496
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/82
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/83
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/84
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 1
+http://tbs-tv.com:8080/dark/kittylinetv/4121
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 MX HD
+http://svtv.xyz:8080/jonya/HHcNTJp/22901
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS
+http://hardcoremedia.xyz:80/brekxlir/2106453839/19573
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
-#EXTINF:-1 group-title="FOX SPORTS1",FOX SPORTS 1 MX
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/414
-
-
-#EXTINF:-1 group-title="FOX SPORTS1 1",CO FOX SPORTS 1
+#EXTINF:-1 group-title="FOX SPORTS 1",CO FOX SPORTS 1
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/457
-#EXTINF:-1 group-title="FOX SPORTS1 1",FOX SPORTS 1 ARG
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 ARG
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
-#EXTINF:-1 group-title="FOX SPORTS1 1",Fox Sports SD
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
-#EXTINF:-1 group-title="FOX SPORTS1 1",FOX SPORTS 1 SUR FHD
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-
-
-#EXTINF:-1 group-title="FOX SPORTS1 2",Fox Sports
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
-#EXTINF:-1 group-title="FOX SPORTS1 2",Fox Sports
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-#EXTINF:-1 group-title="FOX SPORTS1 2",FOX SPORTS 1 MX
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/414
-#EXTINF:-1 group-title="FOX SPORTS1 2",CO FOX SPORTS 1
+#EXTINF:-1 group-title="FOX SPORTS 1",CO FOX SPORTS 1
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/457
-
-
-#EXTINF:-1 group-title="FOX SPORTS1 3",FOX SPORTS 1 ARG
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 ARG
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
-#EXTINF:-1 group-title="FOX SPORTS1 3",Fox Sports SD
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
-#EXTINF:-1 group-title="FOX SPORTS1 3",FOX SPORTS 1 SUR FHD
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63964
-
-
-#EXTINF:-1 group-title="FOX SPORTS1 4",Fox Sports SD (MX)
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34621
 
 
-#EXTINF:-1 group-title="FOX SPORTS2",Fox Sports 2 HD (MX VIP)
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/100116
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135802
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/79
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/80
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/50506
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/50507
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
+http://tbs-tv.com:8080/dark/kittylinetv/4107
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 TP MX
+http://svtv.xyz:8080/jonya/HHcNTJp/61814
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302653
-#EXTINF:-1 group-title="FOX SPORTS2",Fox Sports 2
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
-#EXTINF:-1 group-title="FOX SPORTS2",CO FOX SPORTS 2
+#EXTINF:-1 group-title="FOX SPORTS 2",CO FOX SPORTS 2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/456
-
-
-#EXTINF:-1 group-title="FOX SPORTS2 1",FOX SPORTS 2 ARG
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 ARG
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48298
-#EXTINF:-1 group-title="FOX SPORTS2 1",FOX SPORTS 2 SUR FHD
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
-#EXTINF:-1 group-title="FOX SPORTS2 1",FOX SPORTS 2
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140195
-
-
-#EXTINF:-1 group-title="FOX SPORTS2 2",Fox Sports 2 SD (MX)
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34623
-#EXTINF:-1 group-title="FOX SPORTS2 2",Fox Sports 2 FHD (MX)
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34624
 
 
-#EXTINF:-1 group-title="FOX SPORTS3",FOX SPORTS 3 MX
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/76
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135803
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/50508
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/50509
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/77
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/78
+#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3
+http://tbs-tv.com:8080/dark/kittylinetv/4122
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 TP MX
+http://svtv.xyz:8080/jonya/HHcNTJp/61813
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/415
-
-
-#EXTINF:-1 group-title="FOX SPORTS3 1",Fox Sports 3 SD (MX)
+#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34625
-#EXTINF:-1 group-title="FOX SPORTS3 1",Fox Sports 3 FHD (MX)
+#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34626
+
+
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM
+http://hardcoremedia.xyz:80/brekxlir/2106453839/13596
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium
+http://tbs-tv.com:8080/dark/kittylinetv/4123
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/11570
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/11571
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/11572
+
+
+#EXTINF:-1 group-title="FOX DEPORTES",Fox Deportes
+http://tbs-tv.com:8080/dark/kittylinetv/4115
 
 
 #EXTINF:-1 group-title="NOTICIAS",N+
@@ -566,14 +660,66 @@ https://nbculocallive.akamaized.net/hls/live/2037606/tampa/stream1/master.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master.m3u8
 
 
+#EXTINF:-1 group-title="UNIVISION",UNIVISION CLEVELAND (P)
+http://daleplaypro.com:8080/J4757g67/G4757j67/50274
+#EXTINF:-1 group-title="UNIVISION",Univision FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/50278
+#EXTINF:-1 group-title="UNIVISION",UNIVISION HOUSTON
+http://daleplaypro.com:8080/J4757g67/G4757j67/50279
+#EXTINF:-1 group-title="UNIVISION",UNIVISION MIAMi
+http://daleplaypro.com:8080/J4757g67/G4757j67/50281
+#EXTINF:-1 group-title="UNIVISION",UNIVISION SAN ANTONIO
+http://daleplaypro.com:8080/J4757g67/G4757j67/50294
+#EXTINF:-1 group-title="UNIVISION",Univision West
+http://tbs-tv.com:8080/dark/kittylinetv/4263
+#EXTINF:-1 group-title="UNIVISION",Univision Telenovelas
+http://tbs-tv.com:8080/dark/kittylinetv/4262
+#EXTINF:-1 group-title="UNIVISION",Univision Fort Lauderdale
+http://tbs-tv.com:8080/dark/kittylinetv/4255
+#EXTINF:-1 group-title="UNIVISION",Univision East
+http://tbs-tv.com:8080/dark/kittylinetv/4254
+#EXTINF:-1 group-title="UNIVISION",Univision Deportes
+http://tbs-tv.com:8080/dark/kittylinetv/4253
+#EXTINF:-1 group-title="UNIVISION",Univision Dallas
+http://tbs-tv.com:8080/dark/kittylinetv/4252
+#EXTINF:-1 group-title="UNIVISION",Univision Atlanta
+http://tbs-tv.com:8080/dark/kittylinetv/4248
 #EXTINF:-1 group-title="UNIVISION",UNIVISION LATAM
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 group-title="TUDN 1",TUDN OP1
+http://daleplaypro.com:8080/J4757g67/G4757j67/100678
+#EXTINF:-1 group-title="TUDN 1",TUDN OP2
+http://daleplaypro.com:8080/J4757g67/G4757j67/100679
+#EXTINF:-1 group-title="TUDN 1",TUDN
+http://daleplaypro.com:8080/J4757g67/G4757j67/50238
 #EXTINF:-1 group-title="TUDN 1",TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
+#EXTINF:-1 group-title="TUDN 1",TUDN  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/136819
+#EXTINF:-1 group-title="TUDN 1",TUDN HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/136820
+#EXTINF:-1 group-title="TUDN 1",TUDN FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/136823
+#EXTINF:-1 group-title="TUDN 1",TUDN HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/136824
+#EXTINF:-1 group-title="TUDN 1",TUDN XTRA 1
+http://daleplaypro.com:8080/J4757g67/G4757j67/136825
+#EXTINF:-1 group-title="TUDN 1",TUDN XTRA 3
+http://daleplaypro.com:8080/J4757g67/G4757j67/136827
+#EXTINF:-1 group-title="TUDN 1",TUDN XTRA 4
+http://daleplaypro.com:8080/J4757g67/G4757j67/136828
+#EXTINF:-1 group-title="TUDN 1",TUDN XTRA 5
+http://daleplaypro.com:8080/J4757g67/G4757j67/136829
 
 
+#EXTINF:-1 group-title="AZTECA UNO",Azteca UNO
+http://tbs-tv.com:8080/dark/kittylinetv/4059
+#EXTINF:-1 group-title="AZTECA UNO",AZTECA UNO HD
+http://svtv.xyz:8080/jonya/HHcNTJp/37670
+#EXTINF:-1 group-title="AZTECA UNO",AZTECA UNO SD
+http://svtv.xyz:8080/jonya/HHcNTJp/37671
 #EXTINF:-1 group-title="AZTECA UNO",Azteca Uno HD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1225
 #EXTINF:-1 group-title="AZTECA UNO",Azteca Uno SD
@@ -588,18 +734,28 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 
 
+#EXTINF:-1 group-title="AZTECA 7",Azteca 7
+http://daleplaypro.com:8080/J4757g67/G4757j67/63185
+#EXTINF:-1 group-title="AZTECA 7",Azteca 7
+http://tbs-tv.com:8080/dark/kittylinetv/4058
+#EXTINF:-1 group-title="AZTECA 7",AZTECA 7
+http://svtv.xyz:8080/jonya/HHcNTJp/24167
 #EXTINF:-1 group-title="AZTECA 7",AZTECA SIETE
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="AZTECA 7",Azteca 7 FHD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1221
 #EXTINF:-1 group-title="AZTECA 7",Azteca 7 HD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1222
-
-
-#EXTINF:-1 group-title="AZTECA 7 1",Azteca 7 SD
+#EXTINF:-1 group-title="AZTECA 7",Azteca 7 SD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1223
 
 
+#EXTINF:-1 group-title="AMERICA TV 0",America HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135793
+#EXTINF:-1 group-title="AMERICA TV 0",America SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135795
+#EXTINF:-1 group-title="AMERICA TV 0",AMERICA TV FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135796
 #EXTINF:-1 group-title="AMERICA TV 0",America TV FHD (E)
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/10090
 #EXTINF:-1 group-title="AMERICA TV 0",America TV HD
@@ -899,12 +1055,12 @@ http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/203848.mkv
 
 
 #EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS
+http://svtv.xyz:8080/jonya/HHcNTJp/341670
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS
 http://svtv.xyz:8080/jonya/HHcNTJp/276735
 #EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS
 http://svtv.xyz:8080/jonya/HHcNTJp/341670
-
-
-#EXTINF:-1 group-title="AFIZZIONADOS 1",AFIZZIONADOS LQ R
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS LQ R
 http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/126369
 
 
@@ -920,37 +1076,47 @@ http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4085
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4118
 
 
+#EXTINF:-1 group-title="AXN",AXN
+http://tbs-tv.com:8080/dark/kittylinetv/4054
+#EXTINF:-1 group-title="AXN",AXN
+http://hardcoremedia.xyz:80/brekxlir/2106453839/19522
 #EXTINF:-1 group-title="AXN",AXN SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34939
 #EXTINF:-1 group-title="AXN",AXN FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34940
-
-
-#EXTINF:-1 group-title="AXN 1",AXN FHD
+#EXTINF:-1 group-title="AXN",AXN FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4038
-#EXTINF:-1 group-title="AXN 1",AXN
+#EXTINF:-1 group-title="AXN",AXN
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155784
 
 
+#EXTINF:-1 group-title="A&E",A&E HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/5
+#EXTINF:-1 group-title="A&E",A&E SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/6
 #EXTINF:-1 group-title="A&E",A&E SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34944
 #EXTINF:-1 group-title="A&E",A&E FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34945
-
-
-#EXTINF:-1 group-title="A&E 1",A&E FHD
+#EXTINF:-1 group-title="A&E",A&E FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4037
-#EXTINF:-1 group-title="A&E 1",A&E
+#EXTINF:-1 group-title="A&E",A&E
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1156013
 
 
+#EXTINF:-1 group-title="CINEMAX",CINEMAX  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/7
+#EXTINF:-1 group-title="CINEMAX",CINEMAX HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/8
+#EXTINF:-1 group-title="CINEMAX",CINEMAX  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/9
+#EXTINF:-1 group-title="CINEMAX",Cinemax
+http://tbs-tv.com:8080/dark/kittylinetv/4073
 #EXTINF:-1 group-title="CINEMAX",Cinemax SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34995
 #EXTINF:-1 group-title="CINEMAX",Cinemax FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34996
-
-
-#EXTINF:-1 group-title="CINEMAX 1",CINEMAX FHD
+#EXTINF:-1 group-title="CINEMAX",CINEMAX FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4110
 
 
@@ -958,25 +1124,83 @@ http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4110
 http://hplay.xyz:80/hldoudby/qubRsmkm/304507
 
 
-#EXTINF:-1 group-title="ESPN1",ESPN HD (MX VIP)
+#EXTINF:-1 group-title="ESPN 1",ESPN (CO) HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110789
+#EXTINF:-1 group-title="ESPN 1",ESPN 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135797
+#EXTINF:-1 group-title="ESPN 1",ESPN 4K
+http://daleplaypro.com:8080/J4757g67/G4757j67/156143
+#EXTINF:-1 group-title="ESPN 1",ESPN 4K
+http://daleplaypro.com:8080/J4757g67/G4757j67/156144
+#EXTINF:-1 group-title="ESPN 1",ESPN 4K
+http://daleplaypro.com:8080/J4757g67/G4757j67/156145
+#EXTINF:-1 group-title="ESPN 1",ESPN 1 HD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/52967
+#EXTINF:-1 group-title="ESPN 1",ESPN 1 SD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/230
+#EXTINF:-1 group-title="ESPN 1",ESPN 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81256
+#EXTINF:-1 group-title="ESPN 1",SPN 1 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81257
+#EXTINF:-1 group-title="ESPN 1",ESPN 1 FHD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/52968
+#EXTINF:-1 group-title="ESPN 1",ESPN HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/145
+#EXTINF:-1 group-title="ESPN 1",ESPN 1  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/73
+#EXTINF:-1 group-title="ESPN 1",ESPN 1  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/74
+#EXTINF:-1 group-title="ESPN 1",ESPN  1  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/75
+#EXTINF:-1 group-title="ESPN 1",ESPN HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302638
-#EXTINF:-1 group-title="ESPN",ESPN 1 SUR FHD
+#EXTINF:-1 group-title="ESPN 1",ESPN 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
-
-
 #EXTINF:-1 group-title="ESPN 1",ESPN SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34652
 #EXTINF:-1 group-title="ESPN 1",ESPN FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34653
+#EXTINF:-1 group-title="ESPN 1",ESPN 1 MX HD.
+http://svtv.xyz:8080/jonya/HHcNTJp/29768
 
 
-#EXTINF:-1 group-title="ESPN2",ESPN 2 FHD (MX)
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/49631
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135798
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 SD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/52964
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81258
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81259
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/54170
+#EXTINF:-1 group-title="ESPN 2",ESPN 2  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/71
+#EXTINF:-1 group-title="ESPN 2",ESPN 2  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/72
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34656
 
 
-#EXTINF:-1 group-title="ESPN3",ESPN 3 SD (MX)
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/52965
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135799
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 SD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/54169
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD*
+http://daleplaypro.com:8080/J4757g67/G4757j67/54516
+#EXTINF:-1 group-title="ESPN 3",ESPN 3  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/66
+#EXTINF:-1 group-title="ESPN 3",ESPN 3  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/68
+#EXTINF:-1 group-title="ESPN 3",ESPN 3  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/69
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34657
-#EXTINF:-1 group-title="ESPN3",ESPN 3 FHD (MX)
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34658
 
 
@@ -988,6 +1212,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140316
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140202
 
 
+#EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81254
 #EXTINF:-1 group-title="ESPN PREMIUM",ESPN PREMIUM ARG
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
 
@@ -1028,15 +1254,15 @@ http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4044
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155789
 
 
+#EXTINF:-1 group-title="SONY",Sony Channel
+http://tbs-tv.com:8080/dark/kittylinetv/4181
 #EXTINF:-1 group-title="SONY",Sony Entertainment SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34934
 #EXTINF:-1 group-title="SONY",Sony Entertainment FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34935
-
-
-#EXTINF:-1 group-title="SONY 1",SONY FHD
+#EXTINF:-1 group-title="SONY",SONY FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4048
-#EXTINF:-1 group-title="SONY 1",SONY
+#EXTINF:-1 group-title="SONY",SONY
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155800
 
 
@@ -1044,40 +1270,58 @@ http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1155800
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/1143816
 
 
+#EXTINF:-1 group-title="SPACE",SPACE CHANEL  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1280
+#EXTINF:-1 group-title="SPACE",SPACE CHANEL  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1281
+#EXTINF:-1 group-title="SPACE",SPACE CHANEL  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1282
+#EXTINF:-1 group-title="SPACE",Space
+http://tbs-tv.com:8080/dark/kittylinetv/4182
+#EXTINF:-1 group-title="SPACE",SPACE
+http://hardcoremedia.xyz:80/brekxlir/2106453839/19603
 #EXTINF:-1 group-title="SPACE",Space SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34968
 #EXTINF:-1 group-title="SPACE",Space FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34969
-
-
-#EXTINF:-1 group-title="SPACE 1",SPACE FHD
+#EXTINF:-1 group-title="SPACE",SPACE FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4099
 
 
+#EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal
+http://tbs-tv.com:8080/dark/kittylinetv/4199
+#EXTINF:-1 group-title="STUDIO UNIVERSAL",Universal Channel
+http://tbs-tv.com:8080/dark/kittylinetv/4247
+#EXTINF:-1 group-title="STUDIO UNIVERSAL",Universal Channel (MX)
+http://hardcoremedia.xyz:80/brekxlir/2106453839/17795
 #EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302721
 #EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal FHD (MX E)
 http://hplay.xyz:80/hldoudby/qubRsmkm/35267
-
-
-#EXTINF:-1 group-title="STUDIO UNIVERSAL 1",Studio Universal SD (MX)
+#EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34965
-#EXTINF:-1 group-title="STUDIO UNIVERSAL 1",Studio Universal FHD (MX)
+#EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34966
 
 
+#EXTINF:-1 group-title="SYFY",SYFY
+http://tbs-tv.com:8080/dark/kittylinetv/4176
 #EXTINF:-1 group-title="SYFY",SyFy SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/35010
 #EXTINF:-1 group-title="SYFY",SyFy FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/35011
-
-
-#EXTINF:-1 group-title="SYFY 1",SYFY FHD
+#EXTINF:-1 group-title="SYFY",SYFY FHD
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4049
-#EXTINF:-1 group-title="SYFY 1",SYFY
+#EXTINF:-1 group-title="SYFY",SYFY
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/3958
 
 
+#EXTINF:-1 group-title="TNT",TNT
+http://tbs-tv.com:8080/dark/kittylinetv/4204
+#EXTINF:-1 group-title="TNT",TNT MX
+http://svtv.xyz:8080/jonya/HHcNTJp/31012
+#EXTINF:-1 group-title="TNT",TNT MX
+http://svtv.xyz:8080/jonya/HHcNTJp/164030
 #EXTINF:-1 group-title="TNT",TNT HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302733
 #EXTINF:-1 group-title="TNT",TNT FHD
@@ -1086,12 +1330,18 @@ http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4103
 http://tv.nousiptv.com:8080/luchocba10@gmail.com/9Kvzq4H2a8/4010
 
 
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel FHD (MX)
+#EXTINF:-1 group-title="DISNEY",Disney Channel FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34758
-
-
-#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior FHD (MX)
+#EXTINF:-1 group-title="DISNEY",Disney Junior FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34766
+#EXTINF:-1 group-title="DISNEY",DISNEY JR HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/132697
+#EXTINF:-1 group-title="DISNEY",DISNEY JR SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/132698
+#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/132699
+#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/132700
 
 
 #EXTINF:-1 group-title="PUEBLA",Televisa Puebla FHD (MX)
@@ -1102,3 +1352,274 @@ http://hplay.xyz:80/hldoudby/qubRsmkm/35164
 http://hplay.xyz:80/hldoudby/qubRsmkm/34844
 #EXTINF:-1 group-title="NATGEO",National Geographic FHD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34845
+
+
+#EXTINF:-1 group-title="MTV",MTV 00's
+http://daleplaypro.com:8080/J4757g67/G4757j67/60103
+#EXTINF:-1 group-title="MTV",MTV Biggest Pop
+http://daleplaypro.com:8080/J4757g67/G4757j67/93062
+#EXTINF:-1 group-title="MTV",MTV en español
+http://daleplaypro.com:8080/J4757g67/G4757j67/93075
+#EXTINF:-1 group-title="MTV",MTV En Vivo
+http://daleplaypro.com:8080/J4757g67/G4757j67/93072
+#EXTINF:-1 group-title="MTV",MTV
+http://tbs-tv.com:8080/dark/kittylinetv/72838
+#EXTINF:-1 group-title="MTV",MTV Live
+http://tbs-tv.com:8080/dark/kittylinetv/72837
+#EXTINF:-1 group-title="MTV",MTV BIGGEST POP
+http://hardcoremedia.xyz:80/brekxlir/2106453839/5292
+#EXTINF:-1 group-title="MTV",MTV CLASSIC
+http://hardcoremedia.xyz:80/brekxlir/2106453839/5293
+#EXTINF:-1 group-title="MTV",MTV PLUTO TV
+http://hardcoremedia.xyz:80/brekxlir/2106453839/5294
+#EXTINF:-1 group-title="MTV",MTV PRANKS
+http://hardcoremedia.xyz:80/brekxlir/2106453839/5295
+#EXTINF:-1 group-title="MTV",MTV SPANKIN' NEW
+http://hardcoremedia.xyz:80/brekxlir/2106453839/5296
+
+
+#EXTINF:-1 group-title="NOVELAS",TLNOVELAS
+http://svtv.xyz:8080/jonya/HHcNTJp/296560
+#EXTINF:-1 group-title="NOVELAS",TL NOVELAS
+http://daleplaypro.com:8080/J4757g67/G4757j67/93368
+#EXTINF:-1 group-title="NOVELAS",TELENOVELAS HD
+http://svtv.xyz:8080/jonya/HHcNTJp/24165
+#EXTINF:-1 group-title="NOVELAS",TL NOVELAS
+http://svtv.xyz:8080/jonya/HHcNTJp/31073
+#EXTINF:-1 group-title="NOVELAS",Telenovelas
+http://tbs-tv.com:8080/dark/kittylinetv/4231
+#EXTINF:-1 group-title="NOVELAS",PASIONES
+http://svtv.xyz:8080/jonya/HHcNTJp/32145
+#EXTINF:-1 group-title="NOVELAS",Pasiones
+http://tbs-tv.com:8080/dark/kittylinetv/4171
+
+
+#EXTINF:-1 group-title="CLARO SPORTS",CLARO SPORTS MX
+http://svtv.xyz:8080/jonya/HHcNTJp/311367
+
+
+#EXTINF:-1 group-title="CANAL 5",CANAL 5 HD+
+http://svtv.xyz:8080/jonya/HHcNTJp/172
+
+
+#EXTINF:-1 group-title="ESTADOS",MEXIQUENSE TV
+http://svtv.xyz:8080/jonya/HHcNTJp/24194
+#EXTINF:-1 group-title="ESTADOS",TQ QUERETARO
+http://svtv.xyz:8080/jonya/HHcNTJp/24205
+#EXTINF:-1 group-title="ESTADOS",TVMAS
+http://svtv.xyz:8080/jonya/HHcNTJp/24209
+#EXTINF:-1 group-title="ESTADOS",TELEVISA MONTERREY
+http://svtv.xyz:8080/jonya/HHcNTJp/31068
+
+
+#EXTINF:-1 group-title="NOTICIAS",FORO TV
+http://svtv.xyz:8080/jonya/HHcNTJp/109054
+#EXTINF:-1 group-title="NOTICIAS",Foro TV
+http://tbs-tv.com:8080/dark/kittylinetv/4110
+#EXTINF:-1 group-title="NOTICIAS",AMX Noticias (720p) [Not 24/7]
+http://svtv.xyz:8080/jonya/HHcNTJp/288410
+#EXTINF:-1 group-title="NOTICIAS",ADN 40  MX
+http://svtv.xyz:8080/jonya/HHcNTJp/332233
+#EXTINF:-1 group-title="NOTICIAS",CNN Internacional
+http://tbs-tv.com:8080/dark/kittylinetv/4065
+#EXTINF:-1 group-title="NOTICIAS",CNN Espanol
+http://tbs-tv.com:8080/dark/kittylinetv/4064
+
+
+#EXTINF:-1 group-title="CINELATINO",Cinelatino
+http://tbs-tv.com:8080/dark/kittylinetv/74358
+
+
+#EXTINF:-1 group-title="VH1",VH1 Classic
+http://daleplaypro.com:8080/J4757g67/G4757j67/69032
+#EXTINF:-1 group-title="VH1",VH1 Classic
+http://tbs-tv.com:8080/dark/kittylinetv/4264
+#EXTINF:-1 group-title="VH1",VH1
+http://tbs-tv.com:8080/dark/kittylinetv/4265
+#EXTINF:-1 group-title="VH1",VH1 Classics
+http://daleplaypro.com:8080/J4757g67/G4757j67/93306
+
+
+#EXTINF:-1 group-title="UNIMAS",UNIMAS FRESNO (P)
+http://daleplaypro.com:8080/J4757g67/G4757j67/50247
+#EXTINF:-1 group-title="UNIMAS",UNIMAS LAS VEGAS
+http://daleplaypro.com:8080/J4757g67/G4757j67/50251
+#EXTINF:-1 group-title="UNIMAS",UNIMAS NY
+http://daleplaypro.com:8080/J4757g67/G4757j67/50254
+#EXTINF:-1 group-title="UNIMAS",UNIMAS SAN ANTONIO
+http://daleplaypro.com:8080/J4757g67/G4757j67/50260
+#EXTINF:-1 group-title="UNIMAS",Unimas West
+http://tbs-tv.com:8080/dark/kittylinetv/4246
+#EXTINF:-1 group-title="UNIMAS",Unimas Washington
+http://tbs-tv.com:8080/dark/kittylinetv/4245
+#EXTINF:-1 group-title="UNIMAS",Unimas Las Vegas
+http://tbs-tv.com:8080/dark/kittylinetv/4244
+#EXTINF:-1 group-title="UNIMAS",Unimas Hawai
+http://tbs-tv.com:8080/dark/kittylinetv/4243
+#EXTINF:-1 group-title="UNIMAS",Unimas East
+http://tbs-tv.com:8080/dark/kittylinetv/4242
+#EXTINF:-1 group-title="UNIMAS",Unimas Dallas
+http://tbs-tv.com:8080/dark/kittylinetv/4241
+
+
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81250
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81251
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1312
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1313
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1379
+#EXTINF:-1 group-title="TNT SPORTS",TNT Sports
+http://tbs-tv.com:8080/dark/kittylinetv/4206
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS 2 MB
+http://daleplaypro.com:8080/J4757g67/G4757j67/55284
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/55288
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/55289
+
+
+#EXTINF:-1 group-title="TELEMUNDO",TELEMUNDO CHICAGO
+http://daleplaypro.com:8080/J4757g67/G4757j67/414
+#EXTINF:-1 group-title="TELEMUNDO",TELEMUNDO MIAMI
+http://daleplaypro.com:8080/J4757g67/G4757j67/419
+#EXTINF:-1 group-title="TELEMUNDO",TELEMUNDO MIAMI  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/420
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo West
+http://tbs-tv.com:8080/dark/kittylinetv/4230
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Washington
+http://tbs-tv.com:8080/dark/kittylinetv/4229
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo San Fransisco
+http://tbs-tv.com:8080/dark/kittylinetv/4228
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Phoenix
+http://tbs-tv.com:8080/dark/kittylinetv/4227
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Philadelphia
+http://tbs-tv.com:8080/dark/kittylinetv/4226
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo New York
+http://tbs-tv.com:8080/dark/kittylinetv/4225
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Los Angeles
+http://tbs-tv.com:8080/dark/kittylinetv/4224
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Las Vegas
+http://tbs-tv.com:8080/dark/kittylinetv/4223
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo International
+http://tbs-tv.com:8080/dark/kittylinetv/4222
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Houston
+http://tbs-tv.com:8080/dark/kittylinetv/4221
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Fresno
+http://tbs-tv.com:8080/dark/kittylinetv/4220
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo East
+http://tbs-tv.com:8080/dark/kittylinetv/4218
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Dallas
+http://tbs-tv.com:8080/dark/kittylinetv/4217
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Chicago
+http://tbs-tv.com:8080/dark/kittylinetv/4216
+#EXTINF:-1 group-title="TELEMUNDO",Telemundo Atlanta
+http://tbs-tv.com:8080/dark/kittylinetv/4214
+
+
+#EXTINF:-1 group-title="STARZ",Starz
+http://tbs-tv.com:8080/dark/kittylinetv/4195
+#EXTINF:-1 group-title="STARZ",Starz West
+http://tbs-tv.com:8080/dark/kittylinetv/4198
+#EXTINF:-1 group-title="STARZ",Starz Kids & Family
+http://tbs-tv.com:8080/dark/kittylinetv/4197
+#EXTINF:-1 group-title="STARZ",Starz Family
+http://tbs-tv.com:8080/dark/kittylinetv/4196
+#EXTINF:-1 group-title="STARZ",Starz Encore Western
+http://tbs-tv.com:8080/dark/kittylinetv/4194
+#EXTINF:-1 group-title="STARZ",Starz Encore Suspense
+http://tbs-tv.com:8080/dark/kittylinetv/4193
+#EXTINF:-1 group-title="STARZ",Starz Encore HBO Family
+http://tbs-tv.com:8080/dark/kittylinetv/4192
+#EXTINF:-1 group-title="STARZ",Starz Encore Classic
+http://tbs-tv.com:8080/dark/kittylinetv/4190
+#EXTINF:-1 group-title="STARZ",Starz Encore Black
+http://tbs-tv.com:8080/dark/kittylinetv/4189
+#EXTINF:-1 group-title="STARZ",Starz Encore Action
+http://tbs-tv.com:8080/dark/kittylinetv/4188
+#EXTINF:-1 group-title="STARZ",Starz Encore
+http://tbs-tv.com:8080/dark/kittylinetv/4191
+#EXTINF:-1 group-title="STARZ",Starz Edge
+http://tbs-tv.com:8080/dark/kittylinetv/4187
+#EXTINF:-1 group-title="STARZ",Starz East
+http://tbs-tv.com:8080/dark/kittylinetv/4186
+#EXTINF:-1 group-title="STARZ",Starz Comedy
+http://tbs-tv.com:8080/dark/kittylinetv/4185
+#EXTINF:-1 group-title="STARZ",Starz Cinema
+http://tbs-tv.com:8080/dark/kittylinetv/4184
+#EXTINF:-1 group-title="STARZ",Starz Black
+http://tbs-tv.com:8080/dark/kittylinetv/4183
+
+#EXTINF:-1 group-title="UNIVERSO",Nbc Universo
+http://tbs-tv.com:8080/dark/kittylinetv/4162
+
+
+#EXTINF:-1 group-title="DIRECTV SPORTS",DirectTV Sports
+http://tbs-tv.com:8080/dark/kittylinetv/4083
+#EXTINF:-1 group-title="DIRECTV SPORTS",DirectTV Sport 1
+http://tbs-tv.com:8080/dark/kittylinetv/4082
+#EXTINF:-1 group-title="DIRECTV SPORTS",DirectTV Sport+
+http://tbs-tv.com:8080/dark/kittylinetv/4084
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135805
+#EXTINF:-1 group-title="DIRECTV SPORTS",DIRECTV SPORTS PLUS HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/135806
+
+
+#EXTINF:-1 group-title="TYC SPORTS",TYC SPORTS  INTERNACIONAL HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1380
+#EXTINF:-1 group-title="TYC SPORTS",TYC SPORTS  HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1381
+#EXTINF:-1 group-title="TYC SPORTS",TYC SPORTS  SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/1382
+#EXTINF:-1 group-title="TYC SPORTS",TYC SPORTS HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81252
+#EXTINF:-1 group-title="TYC SPORTS",TYC SPORTS SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/81253
+
+
+#EXTINF:-1 group-title="WIN SPORTS",Win Sports + SD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/69291
+#EXTINF:-1 group-title="WIN SPORTS",Win Sports + FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/69292
+#EXTINF:-1 group-title="WIN SPORTS",Win Sports SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/69294
+
+
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios Guadalajara
+http://daleplaypro.com:8080/J4757g67/G4757j67/70915
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/70916
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios Plus HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/70919
+
+
+#EXTINF:-1 group-title="VEVO",Vevo Pop
+http://daleplaypro.com:8080/J4757g67/G4757j67/93081
+#EXTINF:-1 group-title="VEVO",Vevo Latino
+http://daleplaypro.com:8080/J4757g67/G4757j67/93082
+#EXTINF:-1 group-title="VEVO",Vevo '80s
+http://daleplaypro.com:8080/J4757g67/G4757j67/93089
+
+
+#EXTINF:-1 group-title="FAMILIA MOSTER",FAMILIA MOSTER
+http://daleplaypro.com:8080/J4757g67/G4757j67/110570
+
+
+#EXTINF:-1 group-title="AMAZON PRIME",AMAZON PRIME 1 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/126800
+#EXTINF:-1 group-title="AMAZON PRIME",AMAZON PRIME 2 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/126801
+#EXTINF:-1 group-title="AMAZON PRIME",AMAZON PRIME 3  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/126802
+#EXTINF:-1 group-title="AMAZON PRIME",AMAZON PRIME 4  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/126803
+#EXTINF:-1 group-title="AMAZON PRIME",AMAZON PRIME 5  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/126804
+#EXTINF:-1 group-title="AMAZON PRIME",AMAZON PRIME 6  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/126805
+#EXTINF:-1 group-title="AMAZON PRIME",AMAZON PRIME 7  FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/126806
