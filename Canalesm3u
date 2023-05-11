@@ -28,6 +28,10 @@ http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/155986
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0/38694
 
 
+#EXTINF:-1 group-title="ALERTA AEROPUERTO",Alerta Aeropuerto SD
+http://tvpanel.one:80/live/pboyette64/aE656Pd3ou/761035.ts
+#EXTINF:-1 group-title="ALERTA AEROPUERTO",Alerta Aeropuerto
+http://streamingtv.vip:8080/MarioMesias/donmario0912/110501
 #EXTINF:-1 group-title="ALERTA AEROPUERTO",ALERTA AEROPUERTO
 http://streamingtv.vip:8080/MarioMesias/donmario0912/110501
 
@@ -1326,3 +1330,21 @@ http://daleplaypro.com:8080/J4757g67/G4757j67/126804
 http://daleplaypro.com:8080/J4757g67/G4757j67/126805
 #EXTINF:-1 group-title="AMAZON PRIME",AMAZON PRIME 7  FHD
 http://daleplaypro.com:8080/J4757g67/G4757j67/126806
+
+
+#EXTINF:-1 group-title="SHREK",Shrek
+https://archive.org/download/00100_20190920/00100.avi
+#EXTINF:-1 group-title="SHREK",Shrek 2
+https://archive.org/download/00200_20190920/00200.avi
+#EXTINF:-1 group-title="SHREK",Shrek 3
+https://archive.org/download/sh3_20200512/sh3.avi
+#EXTINF:-1 group-title="SHREK",Shrek 4
+https://archive.org/download/00400_20190920/00400.mkv
+
+
+#EXTINF:-1 group-title="MI VILLANO FAVORITO",Mi villano favorito 1
+https://archive.org/download/v177aN0_1/infa/v177aN0_1.avi
+#EXTINF:-1 group-title="MI VILLANO FAVORITO",Mi villano favorito 2
+https://archive.org/download/v177aN0_1/infa/v177aN0_2.avi
+#EXTINF:-1 group-title="MI VILLANO FAVORITO",Mi villano favorito 3
+https://archive.org/download/v177aN0_1/infa/v177aN0_3.avi
