@@ -494,8 +494,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
 
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34621
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports FHD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/34622
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302652
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports
@@ -530,8 +528,6 @@ http://hplay.xyz:80/hldoudby/qubRsmkm/34621
 
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34623
-#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 FHD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/34624
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302653
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2
@@ -546,8 +542,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140195
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 SD (MX)
 http://hplay.xyz:80/hldoudby/qubRsmkm/34623
-#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 FHD (MX)
-http://hplay.xyz:80/hldoudby/qubRsmkm/34624
 
 
 #EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 SD (MX)
@@ -580,8 +574,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302624
 http://hidra.live:80/xaehsalg/454K7nBmkn/302691
 #EXTINF:-1 group-title="NOTICIAS",CNN Español SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35181
-#EXTINF:-1 group-title="NOTICIAS",CNN Internacional SD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/35182
 #EXTINF:-1 group-title="NOTICIAS",Milenio TV HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302702
 #EXTINF:-1 group-title="NOTICIAS",ForoTV HD (MX VIP)
@@ -1414,8 +1406,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302703
 http://hidra.live:80/xaehsalg/454K7nBmkn/35015
 #EXTINF:-1 group-title="MUSICA",MTV Live SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35020
-#EXTINF:-1 group-title="MUSICA",MTV Live FHD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/35021
 #EXTINF:-1 group-title="MUSICA",MTV HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312963
 #EXTINF:-1 group-title="MUSICA",Telehit FHD (MX)
@@ -1536,16 +1526,12 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34833
 
 #EXTINF:-1 group-title="AZ",AZ Clic FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/43599
-#EXTINF:-1 group-title="AZ",AZ Click SD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/43600
 #EXTINF:-1 group-title="AZ",AZ Cinema FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/43601
 #EXTINF:-1 group-title="AZ",AZ Corazon FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/43602
 #EXTINF:-1 group-title="AZ",AZ Mundo FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/43603
-#EXTINF:-1 group-title="AZ",Azteca Mundo SD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/43616
 #EXTINF:-1 group-title="AZ",Azteca Corazon HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302681
 #EXTINF:-1 group-title="AZ",AZ1 HD (MX VIP)
