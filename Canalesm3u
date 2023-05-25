@@ -231,6 +231,20 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/312769
 http://hidra.live:80/xaehsalg/454K7nBmkn/312770
 
 
+#EXTINF:-1 group-title="0.0 HBO VARIOS 4",HBO Family
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301434
+#EXTINF:-1 group-title="0.0 HBO VARIOS 4",HBO Plus
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301442
+#EXTINF:-1 group-title="0.0 HBO VARIOS 4",HBO
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263288
+#EXTINF:-1 group-title="0.0 HBO VARIOS 4",HBO 2
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263289
+#EXTINF:-1 group-title="0.0 HBO VARIOS 4",HBO Extreme
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263437
+#EXTINF:-1 group-title="0.0 HBO VARIOS 4",HBO Signature
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263449
+
+
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 #EXTINF:-1 group-title="HBO PLUS",HBO PLUS
@@ -253,6 +267,9 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126310
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 
 
+
+#EXTINF:-1 group-title="CINECANAL",Cinecanal
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263281
 #EXTINF:-1 group-title="CINECANAL",Cinecanal SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34990
 #EXTINF:-1 group-title="CINECANAL",Cinecanal HD (LAT)*
@@ -325,6 +342,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/304508
 http://hidra.live:80/xaehsalg/454K7nBmkn/302741
 
 
+#EXTINF:-1 group-title="WARNER",Warner Channel
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263282
 #EXTINF:-1 group-title="WARNER",Warner Channel SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34920
 #EXTINF:-1 group-title="WARNER",Warner Channel HD (MX VIP)
@@ -341,6 +360,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34922
 http://hidra.live:80/xaehsalg/454K7nBmkn/34923
 
 
+#EXTINF:-1 group-title="PARAMOUNT",Paramount Channel
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263357
 #EXTINF:-1 group-title="PARAMOUNT",Paramount Network HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312900
 #EXTINF:-1 group-title="PARAMOUNT",Paramount HD (MX VIP)
@@ -359,6 +380,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34983
 http://hidra.live:80/xaehsalg/454K7nBmkn/34984
 
 
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263287
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35036
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas FHD (MX)
@@ -385,7 +408,8 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 http://hidra.live:80/xaehsalg/454K7nBmkn/304504
 
 
-#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",Las Estrellas -2 Hrs Vix+
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",Las Estrellas -2
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263524
 
 
 #EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network HD (MX VIP)
@@ -406,8 +430,12 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34756
 
 #EXTINF:-1 group-title="BOOMERANG",Boomerang
 http://iptvglobal.site:25461/rrtv/rrtv12345/87434
+#EXTINF:-1 group-title="BOOMERANG",Cartoonito
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301437
 
 
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/276614
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports MX
 http://sdmx.us:25461/53135/aNsKaKVHrJcj/10950
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports MX HD
@@ -440,6 +468,8 @@ http://sdmx.us:25461/53135/aNsKaKVHrJcj/155648
 http://sdmx.us:25461/53135/aNsKaKVHrJcj/10953
 
 
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301440
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX
 http://sdmx.us:25461/53135/aNsKaKVHrJcj/10949
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX HD
@@ -502,6 +532,8 @@ http://hplay.xyz:80/hldoudby/qubRsmkm/34625
 http://hplay.xyz:80/hldoudby/qubRsmkm/34626
 
 
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301428
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/304554
 
@@ -524,15 +556,19 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302691
 http://hidra.live:80/xaehsalg/454K7nBmkn/35181
 #EXTINF:-1 group-title="NOTICIAS",Milenio TV HD (MX VIP)
 http://hplay.xyz:80/hldoudby/qubRsmkm/302702
-#EXTINF:-1 group-title="NOTICIAS",ForoTV HD (MX VIP)
-http://hplay.xyz:80/hldoudby/qubRsmkm/302620
-#EXTINF:-1 group-title="NOTICIAS",Foro TV FHD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/43608
 #EXTINF:-1 group-title="NOTICIAS",ADN40 HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302602
 #EXTINF:-1 group-title="NOTICIAS",Milenio TV HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302702
-#EXTINF:-1 group-title="NOTICIAS",ForoTV HD (MX VIP)
+
+
+#EXTINF:-1 group-title="FORO",FORO TV
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263443
+#EXTINF:-1 group-title="FORO",ForoTV HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302620
+#EXTINF:-1 group-title="FORO",Foro TV FHD (MX)
+http://hidra.live:80/xaehsalg/454K7nBmkn/43608
+#EXTINF:-1 group-title="FORO",ForoTV HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302620
 
 
@@ -636,20 +672,30 @@ https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 group-title="AZTECA UNO",Azteca Uno SD
+http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/80682
+#EXTINF:-1 group-title="AZTECA UNO",Azteca 13
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263448
 #EXTINF:-1 group-title="AZTECA UNO",Azteca Uno HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302682
 #EXTINF:-1 group-title="AZTECA UNO",Azteca 1 SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/43613
 #EXTINF:-1 group-title="AZTECA UNO",Azteca Uno HD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1225
-#EXTINF:-1 group-title="AZTECA UNO",Azteca Uno SD
-http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/80682
 
 
+#EXTINF:-1 group-title="AZTECA UNO -1H",Azteca Uno menos -1
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301429
 #EXTINF:-1 group-title="AZTECA UNO -1H",Azteca -1 HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302685
 
 
+#EXTINF:-1 group-title="AZTECA UNO -2H",Azteca Uno menos -2hr
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301435
+
+
+#EXTINF:-1 group-title="AZTECA 7",Azteca 7
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263435
 #EXTINF:-1 group-title="AZTECA 7",Azteca 7 FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/43605
 #EXTINF:-1 group-title="AZTECA 7",Azteca 7  2 HD (MX VIP)
@@ -794,6 +840,8 @@ http://sdmx.us:25461/53135/aNsKaKVHrJcj/202591
 http://sdmx.us:25461/53135/aNsKaKVHrJcj/155471
 
 
+#EXTINF:-1 group-title="AMC",AMC
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263354
 #EXTINF:-1 group-title="AMC",AMC HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312924
 #EXTINF:-1 group-title="AMC",AMC SD (MX)
@@ -814,7 +862,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34918
 http://hidra.live:80/xaehsalg/454K7nBmkn/34919
 
 
-
+#EXTINF:-1 group-title="AXN",AXN
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263277
 #EXTINF:-1 group-title="AXN",AXN HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312922
 #EXTINF:-1 group-title="AXN",AXN SD (MX)
@@ -833,6 +882,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34942
 http://hidra.live:80/xaehsalg/454K7nBmkn/34943
 
 
+#EXTINF:-1 group-title="A&E",A&E
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263279
 #EXTINF:-1 group-title="A&E",A&E SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34944
 #EXTINF:-1 group-title="A&E",A&E FHD (MX)
@@ -853,6 +904,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34947
 http://hidra.live:80/xaehsalg/454K7nBmkn/34948
 
 
+#EXTINF:-1 group-title="CINEMAX",Cinemax
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263356
 #EXTINF:-1 group-title="CINEMAX",Cinemax SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34995
 #EXTINF:-1 group-title="CINEMAX",Cinemax FHD (MX)
@@ -979,6 +1032,18 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34826
 http://hidra.live:80/xaehsalg/454K7nBmkn/34828
 
 
+#EXTINF:-1 group-title="DISCOVERY 7",Discovery H&H
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263299
+#EXTINF:-1 group-title="DISCOVERY 7",Discovery TLC
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263348
+#EXTINF:-1 group-title="DISCOVERY 7",Discovery Turbo
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263349
+#EXTINF:-1 group-title="DISCOVERY 7",Discovery World
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263350
+#EXTINF:-1 group-title="DISCOVERY 7",Discovery Theater
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263438
+
+
 #EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34781
 #EXTINF:-1 group-title="DISCOVERY KIDS",Discovery Kids FHD (MX)
@@ -989,32 +1054,38 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34784
 http://hidra.live:80/xaehsalg/454K7nBmkn/34785
 
 
-#EXTINF:-1 group-title="DISNEY",Disney Channel HD (LAT)*
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263301
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312928
-#EXTINF:-1 group-title="DISNEY",Disney Channel HD (MX VIP)
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302631
-#EXTINF:-1 group-title="DISNEY",DisneyJR HD (MX VIP)
-http://hidra.live:80/xaehsalg/454K7nBmkn/302632
-#EXTINF:-1 group-title="DISNEY",Disney Channel SD (MX)
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34757
-#EXTINF:-1 group-title="DISNEY",Disney Channel FHD (MX)
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34758
-#EXTINF:-1 group-title="DISNEY",Disney Junior SD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/34765
-#EXTINF:-1 group-title="DISNEY",Disney Junior FHD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/34766
-#EXTINF:-1 group-title="DISNEY",Disney Junior HD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/312763
-#EXTINF:-1 group-title="DISNEY",Disney Junior HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312949
-#EXTINF:-1 group-title="DISNEY",Disney Channel SD (LAT)
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel SD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34759
-#EXTINF:-1 group-title="DISNEY",Disney Channel HD (LAT)
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34760
-#EXTINF:-1 group-title="DISNEY",Disney Channel FHD (LAT)
+#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel FHD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34761
-#EXTINF:-1 group-title="DISNEY",Disney Junior SD (LAT)
+
+
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior SD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34767
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney jr
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301444
+#EXTINF:-1 group-title="DISNEY JUNIOR",DisneyJR HD (MX VIP)
+http://hidra.live:80/xaehsalg/454K7nBmkn/302632
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior SD (MX)
+http://hidra.live:80/xaehsalg/454K7nBmkn/34765
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior FHD (MX)
+http://hidra.live:80/xaehsalg/454K7nBmkn/34766
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior HD (MX)
+http://hidra.live:80/xaehsalg/454K7nBmkn/312763
+#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior HD (LAT)*
+http://hidra.live:80/xaehsalg/454K7nBmkn/312949
 
 
 #EXTINF:-1 group-title="DISTRITO COMEDIA",Distrito Comedia HD (MX VIP)
@@ -1029,6 +1100,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/312828
 http://sdmx.us:25461/53135/aNsKaKVHrJcj/2121734
 
 
+#EXTINF:-1 group-title="ESPN",ESPN
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301441
 #EXTINF:-1 group-title="ESPN",ESPN MX
 http://sdmx.us:25461/53135/aNsKaKVHrJcj/2092626
 #EXTINF:-1 group-title="ESPN",ESPN HD (MX VIP)
@@ -1103,6 +1176,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34927
 http://hidra.live:80/xaehsalg/454K7nBmkn/34928
 
 
+#EXTINF:-1 group-title="IMAGEN TV",Imagen Tv
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263439
 #EXTINF:-1 group-title="IMAGEN TV",Imagen TV HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302650
 #EXTINF:-1 group-title="IMAGEN TV",Imagen TV FHD (MX)
@@ -1125,6 +1200,14 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34975
 http://hidra.live:80/xaehsalg/454K7nBmkn/34976
 
 
+#EXTINF:-1 group-title="GOLDEN",Golden
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263340
+#EXTINF:-1 group-title="GOLDEN",Golden Edge
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263341
+#EXTINF:-1 group-title="GOLDEN",Golden Premier 1
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301443
+#EXTINF:-1 group-title="GOLDEN",Golden Premier2
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301439
 #EXTINF:-1 group-title="GOLDEN",Golden SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34985
 #EXTINF:-1 group-title="GOLDEN",Golden Edge HD (MX VIP)
@@ -1160,6 +1243,12 @@ http://sdmx.us:25461/53135/aNsKaKVHrJcj/10923
 http://hidra.live:80/xaehsalg/454K7nBmkn/35033
 #EXTINF:-1 group-title="MUSICA",VMTV 80s (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35034
+#EXTINF:-1 group-title="MUSICA",MTV
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263351
+#EXTINF:-1 group-title="MUSICA",MTV Live
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263353
+#EXTINF:-1 group-title="MUSICA",VH1
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263352
 #EXTINF:-1 group-title="MUSICA",VMTV 00S FHD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35035
 #EXTINF:-1 group-title="MUSICA",MTV HD (MX VIP)
@@ -1188,6 +1277,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/35023
 http://hidra.live:80/xaehsalg/454K7nBmkn/35024
 
 
+#EXTINF:-1 group-title="NATGEO",National Geographic
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263296
 #EXTINF:-1 group-title="NATGEO",Natgeo HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312903
 #EXTINF:-1 group-title="NATGEO",National Geographic HD (MX VIP)
@@ -1204,6 +1295,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34847
 http://hidra.live:80/xaehsalg/454K7nBmkn/34848
 
 
+#EXTINF:-1 group-title="SONY",Sony
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263347
 #EXTINF:-1 group-title="SONY",Sony HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312933
 #EXTINF:-1 group-title="SONY",Sony HD (MX VIP)
@@ -1222,6 +1315,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34937
 http://hidra.live:80/xaehsalg/454K7nBmkn/34938
 
 
+#EXTINF:-1 group-title="SPACE",Space
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263355
 #EXTINF:-1 group-title="SPACE",Space HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312898
 #EXTINF:-1 group-title="SPACE",Space SD (MX)
@@ -1236,6 +1331,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34970
 http://hidra.live:80/xaehsalg/454K7nBmkn/34971
 
 
+#EXTINF:-1 group-title="TNT",TNT
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263280
 #EXTINF:-1 group-title="TNT",TNT HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302733
 #EXTINF:-1 group-title="TNT",TNT Series HD (MX VIP)
@@ -1258,6 +1355,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34963
 http://hidra.live:80/xaehsalg/454K7nBmkn/34964
 
 
+#EXTINF:-1 group-title="TUDN",TUDN
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/272088
 #EXTINF:-1 group-title="TUDN",TUDN HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/304510
 #EXTINF:-1 group-title="TUDN",TUDN
@@ -1298,6 +1397,10 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34831
 http://hidra.live:80/xaehsalg/454K7nBmkn/34832
 #EXTINF:-1 group-title="HISTORY CHANNEL",History Channel FHD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34833
+#EXTINF:-1 group-title="HISTORY CHANNEL",History Channel
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263300
+#EXTINF:-1 group-title="HISTORY CHANNEL",History 2
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301433
 
 
 #EXTINF:-1 group-title="AZ",AZ Clic FHD (MX)
@@ -1316,6 +1419,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302615
 http://hidra.live:80/xaehsalg/454K7nBmkn/302680
 
 
+#EXTINF:-1 group-title="CANAL 5",Canal 5
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263434
 #EXTINF:-1 group-title="CANAL 5",Canal 5 SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/43626
 
@@ -1437,3 +1542,13 @@ http://sdmx.us:25461/53135/aNsKaKVHrJcj/10944
 http://sdmx.us:25461/53135/aNsKaKVHrJcj/25279
 #EXTINF:-1 group-title="TYC SPORTS",TyC Sports Internacional HD
 http://sdmx.us:25461/53135/aNsKaKVHrJcj/155679
+
+
+#EXTINF:-1 group-title="MULTIMEDIOS",Multimedios Plus
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301431
+
+
+#EXTINF:-1 group-title="TLC",TLC
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301426
+
+
