@@ -386,6 +386,12 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34983
 http://hidra.live:80/xaehsalg/454K7nBmkn/34984
 
 
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNHdNebIZxWCY1k1jvjt4Yco/ts
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGW5CqXiVakuMLX3M17ULp4/ts
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNBNzx3o7mMk-VyTxv3pXwBw/ts
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263287
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas SD (MX)
@@ -412,8 +418,20 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS -1H",Las Estrellas -1HRs HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/304504
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -1H",LAS ESTRELLAS 1 HORA FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y-0QV3vpTiO0vvaZMrkVnDg/ts
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -1H",LAS ESTRELLAS 1 HORA HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y3wkk65EL4r_tWPwymwT2sM/ts
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -1H",LAS ESTRELLAS 1 HORA
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y_HH62iRZmKKITRtyKK6Eu8/ts
 
 
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",LAS ESTRELLAS 2 HORAS FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y5kHMDBO8la5eqBrNb3frRU/ts
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",LAS ESTRELLAS 2 HORAS HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YwTaCLCVgwTSFx1xRYmF0vk/ts
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",LAS ESTRELLAS 2 HORAS
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YxRItPLrpGFBeJc3T8TRJVY/ts
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",Las Estrellas -2
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263524
 
@@ -440,18 +458,48 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301437
 
 
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SP1 MX FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y6184yEF-XPot2DNpFJOIhQ/ts
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SP1 MX HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YzlQejjLxiCVOzwjdCMv0WM/ts
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SP1 MX
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y4UgvVK8rdnMRUiOpJLFStQ/ts
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNPNyoA32MP_YyK1nVueSNIo/ts
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNExIH43DfmijYPwWH3M95Dc/ts
+#EXTINF:-1 group-title="FOX SPORTS 1",FOX SPORTS
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PND5BxSp_Tc-r8I1j21yvC-4/ts
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/276614
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302652
 
 
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SP2 MX FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YynlMMSqqES6lS1q1ITAaC4/ts
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SP2 MX HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y8GS7u9r8JFoGxGuT3Cf6Fo/ts
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SP2 MX
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y3I9NtkKqgavWcBNdm7VAb8/ts
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNBPjhqu_x8XS_p4mIM3I9HU/ts
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNJa2cHVWuu2RZC8rq37xGD8/ts
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNOtgSKR5jgHv7kQCI_SEaBE/ts
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301440
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302653
 
 
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNHmlK4xtrsa_JfsRk_FgQXg/ts
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3 HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNHHATYMMdYJy6pZdEatMn4c/ts
+#EXTINF:-1 group-title="FOX SPORTS 3",FOX SPORTS 3
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNFglz51xmEJNxuiElMLp_ms/ts
 #EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34625
 #EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 FHD (MX)
@@ -464,32 +512,88 @@ http://hplay.xyz:80/hldoudby/qubRsmkm/34625
 http://hplay.xyz:80/hldoudby/qubRsmkm/34626
 
 
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX PREMIUM FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNEe97RqWHMZiooom75viDYc/ts
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX PREMIUM HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNN_incT1f5bePerCnyeadSI/ts
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX PREMIUM
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNIigewNTihervhJ6XI6UscM/ts
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301428
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/304554
 
 
-#EXTINF:-1 group-title="NOTICIAS",N+
+#EXTINF:-1 group-title="PUEBLA",TELEVISA PUEBLA FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNLTEcGtGc4xiU9TkigY-qHo/ts
+#EXTINF:-1 group-title="PUEBLA",TELEVISA PUEBLA HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGSrAChbAiFUwLGEQ-KrvQI/ts
+#EXTINF:-1 group-title="PUEBLA",TELEVISA PUEBLA
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNOW4M6s1vH2-ZdaV9bWhcyo/ts
+
+
+#EXTINF:-1 group-title="N+",N+ FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y_aeNZfHixHu8atWlD6Us_4/ts
+#EXTINF:-1 group-title="N+",N+ HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Yyv7y6TYH2PwbbTqPbAcoUg/ts
+#EXTINF:-1 group-title="N+",N+
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Yypn76Fu0U0Gg1zM9-dSFcU/ts
+#EXTINF:-1 group-title="N+",N+ TELEVISA NOTICIAS FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNDRZYNvbhW-aeLDGMU5GZy8/ts
+#EXTINF:-1 group-title="N+",N+ TELEVISA NOTICIAS HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNBIdSo7jdGAVNhNStCTARpQ/ts
+#EXTINF:-1 group-title="N+",N+ TELEVISA NOTICIAS
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNLP0X5POBqUETRl5NKLFDBA/ts
+#EXTINF:-1 group-title="N+",N+
 https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",N+
+#EXTINF:-1 group-title="N+",N+
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",ADN40 FHD (MX)
+#EXTINF:-1 group-title="N+",N+MEDIA FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNC9hJS6UVBVaxXYj7U7Taqg/ts
+#EXTINF:-1 group-title="N+",N+MEDIA HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNDuKLLv_I-0IyesCqR46Xnc/ts
+#EXTINF:-1 group-title="N+",N+MEDIA
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNEOvofaSfltAJEPRabcE2w0/ts
+
+
+#EXTINF:-1 group-title="ADN40",ADN 40 FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNAYX4yDBGuNDD0xF-ig-l4M/ts
+#EXTINF:-1 group-title="ADN40",ADN 40 HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNNjQepPOHE1eKUiXQOT3SPw/ts
+#EXTINF:-1 group-title="ADN40",ADN 40
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNIm4txyFP0JL64TczNO7HKY/ts
+#EXTINF:-1 group-title="ADN40",ADN40 FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/43619
-#EXTINF:-1 group-title="NOTICIAS",CNN HD (MX VIP)
-http://hidra.live:80/xaehsalg/454K7nBmkn/302624
-#EXTINF:-1 group-title="NOTICIAS",CNN Español HD (MX VIP)
-http://hidra.live:80/xaehsalg/454K7nBmkn/302691
-#EXTINF:-1 group-title="NOTICIAS",CNN Español SD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/35181
-#EXTINF:-1 group-title="NOTICIAS",Milenio TV HD (MX VIP)
-http://hplay.xyz:80/hldoudby/qubRsmkm/302702
-#EXTINF:-1 group-title="NOTICIAS",ADN40 HD (MX VIP)
+#EXTINF:-1 group-title="ADN40",ADN40 HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302602
-#EXTINF:-1 group-title="NOTICIAS",Milenio TV HD (MX VIP)
+
+
+#EXTINF:-1 group-title="CNN",CNN HD (MX VIP)
+http://hidra.live:80/xaehsalg/454K7nBmkn/302624
+#EXTINF:-1 group-title="CNN",CNN Español HD (MX VIP)
+http://hidra.live:80/xaehsalg/454K7nBmkn/302691
+#EXTINF:-1 group-title="CNN",CNN Español SD (MX)
+http://hidra.live:80/xaehsalg/454K7nBmkn/35181
+
+
+#EXTINF:-1 group-title="MILENIO",MILENIO TV FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNMAXPHhOFsUD2irYCrnqqCc/ts
+#EXTINF:-1 group-title="MILENIO",MILENIO TV HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNJ_dh8cDpqkmAcPyvHG_c90/ts
+#EXTINF:-1 group-title="MILENIO",MILENIO TV
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNCHrYfCBXpyaHCkk0NZKml8/ts
+#EXTINF:-1 group-title="MILENIO",Milenio TV HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302702
+#EXTINF:-1 group-title="MILENIO",Milenio TV HD (MX VIP)
+http://hplay.xyz:80/hldoudby/qubRsmkm/302702
 
 
+#EXTINF:-1 group-title="FORO",FORO TV FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNPF1kb1YN0Wt3SRgE0TtPVk/ts
+#EXTINF:-1 group-title="FORO",FORO TV HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGck5-oQEApvsETnN6K_GzQ/ts
+#EXTINF:-1 group-title="FORO",FORO TV
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNMHtIQHg0zgdkrVP4_hOR4w/ts
 #EXTINF:-1 group-title="FORO",FORO TV
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263443
 #EXTINF:-1 group-title="FORO",ForoTV HD (MX VIP)
@@ -598,6 +702,12 @@ https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 group-title="AZTECA UNO",AZTECA UNO FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNMue0hjVItrlNXRKJu-CLF4/ts
+#EXTINF:-1 group-title="AZTECA UNO",AZTECA UNO HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNJOqPoeNlUVl6dabesXQT_E/ts
+#EXTINF:-1 group-title="AZTECA UNO",AZTECA UNO
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNJwahdDIT2G7mNkjwzJ68wc/ts
 #EXTINF:-1 group-title="AZTECA UNO",Azteca Uno SD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/80682
 #EXTINF:-1 group-title="AZTECA UNO",Azteca 13
@@ -612,10 +722,22 @@ http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1225
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301429
 
 
+#EXTINF:-1 group-title="AZTECA UNO -2H",AZTECA UNO 2 HORAS FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YwqlJRvXuQjT6OgJeSmkysk/ts
+#EXTINF:-1 group-title="AZTECA UNO -2H",AZTECA UNO 2 HORAS HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y623_N2BMucumLP8gC2yLG8/ts
+#EXTINF:-1 group-title="AZTECA UNO -2H",AZTECA UNO 2 HORAS
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YztVbTP9IeNMjL9bTeYmTCI/ts
 #EXTINF:-1 group-title="AZTECA UNO -2H",Azteca Uno menos -2hr
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301435
 
 
+#EXTINF:-1 group-title="AZTECA 7",AZTECA 7 FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNKNbQ1hQsXKnPKO7NH9tBiQ/ts
+#EXTINF:-1 group-title="AZTECA 7",AZTECA 7
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNCN8A2T_K5yLLF0Q0P-JOuE/ts
+#EXTINF:-1 group-title="AZTECA 7",AZTECA 7 HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNNOH0PmYw5i276MNST85Gwo/ts
 #EXTINF:-1 group-title="AZTECA 7",Azteca 7
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263435
 #EXTINF:-1 group-title="AZTECA 7",Azteca 7 FHD (MX)
@@ -746,6 +868,18 @@ http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/203847.mkv
 http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/203848.mkv
 
 
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Yy9CNdXwiMoN153KGkzeX6Y/ts
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y7uII7nUrKssNEIlus6Btfw/ts
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y8DYRN7PxZd8f2njXjVSu0E/ts
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNL_Jh_1l753rnpQM3bI-bHQ/ts
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNPsNXC9AuBdyU3iwsyBkg-Y/ts
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNHtE_ffnKX2tS3XPGlccr8M/ts
 #EXTINF:-1 group-title="AFIZZIONADOS",Affiz HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/304505
 #EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS LQ R
@@ -1006,6 +1140,12 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302637
 http://hidra.live:80/xaehsalg/454K7nBmkn/312828
 
 
+#EXTINF:-1 group-title="ESPN",ESPN FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNBAeTz5OMxXSyaYD8xx1t8g/ts
+#EXTINF:-1 group-title="ESPN",ESPN HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNNXusCOeh8b6zIMhV09h80k/ts
+#EXTINF:-1 group-title="ESPN",ESPN
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNCHmRndDbm72Vb58ZDdj-uA/ts
 #EXTINF:-1 group-title="ESPN",ESPN
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301441
 #EXTINF:-1 group-title="ESPN",ESPN HD (MX VIP)
@@ -1016,6 +1156,12 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34652
 http://hidra.live:80/xaehsalg/454K7nBmkn/34653
 
 
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNHr_bHJqnlJy7D8GCKYB1Ic/ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNDLm8jwT-UNfipmWvod6Jm0/ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNEs70UovJnY0PxToNydYrQo/ts
 #EXTINF:-1 group-title="ESPN 2",ESPN 2 HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302639
 
@@ -1044,6 +1190,12 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34927
 http://hidra.live:80/xaehsalg/454K7nBmkn/34928
 
 
+#EXTINF:-1 group-title="IMAGEN TV",IMAGEN TV FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNOBkg_YflogUsrwgBKhFAc0/ts
+#EXTINF:-1 group-title="IMAGEN TV",IMAGEN TV HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNJ-Lcf0v9x3SFsF7wbh6vCc/ts
+#EXTINF:-1 group-title="IMAGEN TV",IMAGEN TV
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNCgPaF59nze2ImIuTrZhloo/ts
 #EXTINF:-1 group-title="IMAGEN TV",Imagen Tv
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263439
 #EXTINF:-1 group-title="IMAGEN TV",Imagen TV HD (MX VIP)
@@ -1210,10 +1362,36 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34963
 http://hidra.live:80/xaehsalg/454K7nBmkn/34964
 
 
+#EXTINF:-1 group-title="TUDN",TUDN MX FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNE18rx2W16xowOLXadu5ZUo/ts
+#EXTINF:-1 group-title="TUDN",TUDN MX HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNJNE8Vz5ZWFRYIyN3_3ZVpM/ts
+#EXTINF:-1 group-title="TUDN",TUDN MX
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNAv2HRzTawBXdq4i9cfD8Ow/ts
+#EXTINF:-1 group-title="TUDN",TUDN FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNDXPA5tncIph2ED7Zu3ttDw/ts
+#EXTINF:-1 group-title="TUDN",TUDN HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNHx1WmChfDu3ZgoBHkvSUFI/ts
+#EXTINF:-1 group-title="TUDN",TUDN
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNKTAsjO6d5Kz779ND-nbqms/ts
+#EXTINF:-1 group-title="TUDN",TUDN FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNAFGW7RJY4JLt8Pw0Af-uRo/ts
+#EXTINF:-1 group-title="TUDN",TUDN HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNNmMqWGI--Lei0SAcc23d1M/ts
+#EXTINF:-1 group-title="TUDN",TUDN
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNP00w4ndhdWKC5rb_kFPdog/ts
 #EXTINF:-1 group-title="TUDN",TUDN
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/272088
 #EXTINF:-1 group-title="TUDN",TUDN HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/304510
+
+
+#EXTINF:-1 group-title="ADRENALINA",ADRENALINA SPORTS FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNBIoMwN2WjqMdlwymsAwDM0/ts
+#EXTINF:-1 group-title="ADRENALINA",ADRENALINA SPORTS HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNOgMC4PGquLVqoRdZ3IT-Gg/ts
+#EXTINF:-1 group-title="ADRENALINA",ADRENALINA SPORTS
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNF3n7Kh71oUyvPqP6VfS_9E/ts
 
 
 #EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet HD (LAT)*
@@ -1256,14 +1434,72 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302615
 http://hidra.live:80/xaehsalg/454K7nBmkn/302680
 
 
+#EXTINF:-1 group-title="CANAL 5",CANAL 5 FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNCUSWSRYOIGbD2kYwvZh1tU/ts
+#EXTINF:-1 group-title="CANAL 5",CANAL 5 HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNCOM-CUCj2dl_odj2FCT5zo/ts
+#EXTINF:-1 group-title="CANAL 5",CANAL 5
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNEm-D5ZPsO5bNOpCAlrGVtE/ts
 #EXTINF:-1 group-title="CANAL 5",Canal 5
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263434
 
 
+#EXTINF:-1 group-title="ESTADOS",CANAL 4 GUADALAJARA FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y9XFDt7XqHFoMr20gGZywkc/ts
+#EXTINF:-1 group-title="ESTADOS",CANAL 4 GUADALAJARA HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y-poIPohIpV5StcOVF7DQXE/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA MONTEREY FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y4-Jxi6Q2Yz2y0ChkBl9LKU/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA MONTEREY HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y-oHWN_VlrdOZcNTlkyxmMM/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA MONTEREY
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y1y-7VAI4MySeuF-uITgEY8/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA GUADALAJARA FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y5fod9ofaIw9g1E0XHdPreA/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA GUADALAJARA HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YxvQumR7srbgd4dkRI3rU2U/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA GUADALAJARA
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y_5y64OVd8TL971tBa8yilk/ts
+#EXTINF:-1 group-title="ESTADOS",TVP CULIACAN FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y_6bHxAVSEiw0y8AU34zPw8/ts
+#EXTINF:-1 group-title="ESTADOS",TVP CULIACAN HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y_jhbC1E5ELiXzrz7CFMvRg/ts
+#EXTINF:-1 group-title="ESTADOS",TVP CULIACAN
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y0vDEdUfqskXZGllGV3P2-Q/ts
+#EXTINF:-1 group-title="ESTADOS",CANAL 12 TIJUANA FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y9IajaTapR2I5QfuMECCNbM/ts
+#EXTINF:-1 group-title="ESTADOS",CANAL 12 TIJUANA HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YzjdtMxnJ0hAm-4Fw655Caw/ts
+#EXTINF:-1 group-title="ESTADOS",CANAL 12 TIJUANA
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y1pJeSzIABXflSBhs6vAEyk/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA LEON FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y7pVLyIKoUnNRv7kmpr5jrA/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA LEON HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y_oHl_L264_4xskyzJfjbPE/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA LEON
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YxWZIbCU3hx_edFS-ekhFwM/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA CD JUAREZ FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y1YnNp4wN_W7pRMtgDTwzE0/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA CD JUAREZ HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y1kE5e5OpVnfWP3SZt8jzPA/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA CD JUAREZ
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y5_R18KsU2Ib16qUBVk2QDg/ts
 #EXTINF:-1 group-title="ESTADOS",MTY Canal 8 Televisa HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302688
 #EXTINF:-1 group-title="ESTADOS",MTY Canal 4 Televisa HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302687
+#EXTINF:-1 group-title="ESTADOS",CANAL 8  LA PAZ BCS FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNIo36iyquV4d9zJFJ7swVTU/ts
+#EXTINF:-1 group-title="ESTADOS",CANAL 8  LA PAZ BCS HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNML9w4F0dW9vibZhsKu2D68/ts
+#EXTINF:-1 group-title="ESTADOS",CANAL 8  LA PAZ BCS
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNL3YEMUycF1LuNVDbN7SazE/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA 8 FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNKtDcbLVFad5wiWRx_tyxUo/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA 8 HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNJgSsaNW44iDg4C54dgt2GA/ts
+#EXTINF:-1 group-title="ESTADOS",TELEVISA 8
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNEdYbsGnZcyEBDHGvlCiJrw/ts
 
 
 #EXTINF:-1 group-title="CARTOONITO",Cartoonito FHD (LAT)
@@ -1292,9 +1528,67 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/35003
 http://hidra.live:80/xaehsalg/454K7nBmkn/35006
 
 
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y4TrJYCvXFRku0CykvZCV6A/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YytWc7Gu56Evbw7orOiz0dg/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS GUADALAJARA FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y6ClshNsGFb--tc4jlWwhEo/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS GUADALAJARA HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y1_MX6L5PvEq4yaC37b0SMM/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS GUADALAJARA
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YzEB5DfsFuvNvV7nocAyXqw/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS SALTILLO
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y9SUq0mK95JA2DOwlFAQFO0/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS BAJIO FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y4RGCH28yl7jOV99AKHyCN0/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS BAJIO
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y-mAAlQDFNh9mG9kyJ-DCQM/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS PLUS FHD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y5Y86ISQwVo3j1BfYfc-EDc/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS PLUS HD
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YzO3Wie1c2Qb_0kmCn9-9Ns/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS PLUS
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0Y_YewnQ3-u-TJoDF75aqJX8/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS
+http://dnslivetv.online:80/play/S8ti1C7i3j9EjunueDl0YzuR0_U-yDyFKYEV9OU-QTs/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS  MONTEREY FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNFbDO2cPc1U3mjIxJI9tq9o/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS  MONTEREY HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNOmgpbfEci24djWMl-xtvV4/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS  MONTEREY
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNBMj42QY_BRuyoyMGbGT3PA/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS LAGUNA FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNCB4ZFZfmGc7Pe0VR1DptOk/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS LAGUNA HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNH-R9FjH-38D_d-DUpdVT6E/ts
+#EXTINF:-1 group-title="MULTIMEDIOS",MULTIMEDIOS LAGUNA
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNDkiUb2_lYkj1mFscfPxIuY/ts
 #EXTINF:-1 group-title="MULTIMEDIOS",Multimedios Plus
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301431
 
 
 #EXTINF:-1 group-title="TLC",TLC
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301426
+
+
+#EXTINF:-1 group-title="TELENOVELAS",TL NOVELAS FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNP1iGAiHB0DAS9c2oBUPXsU/ts
+#EXTINF:-1 group-title="TELENOVELAS",TL NOVELAS HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNH7XbJhRon41UXZZ4AeOXm0/ts
+#EXTINF:-1 group-title="TELENOVELAS",TL NOVELAS
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNMky0O5_f_agL_eZYf8AanI/ts
+#EXTINF:-1 group-title="TELENOVELAS",TLNOVELAS FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNOWYN0wwWmUzYr8Y1PRqHUI/ts
+#EXTINF:-1 group-title="TELENOVELAS",TLNOVELAS HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNAivAEHlS2moncxb0AO1shs/ts
+#EXTINF:-1 group-title="TELENOVELAS",TLNOVELAS
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNKpy6RzUet-hrFfN05KORvY/ts
+
+
+#EXTINF:-1 group-title="TVC DEPORTES",TVC DEPORTES FHD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNOLDKq2rECCOcouYMFYNhXs/ts
+#EXTINF:-1 group-title="TVC DEPORTES",TVC DEPORTES HD
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGhQtjzDOcs1jbSNyfOGoGU/ts
+#EXTINF:-1 group-title="TVC DEPORTES",TVC DEPORTES
+http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNK8_wROEuPmeFOb2BEj9hQM/ts
