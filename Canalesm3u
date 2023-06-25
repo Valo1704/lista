@@ -277,8 +277,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34922
 http://hidra.live:80/xaehsalg/454K7nBmkn/34923
 
 
-#EXTINF:-1 group-title="PARAMOUNT",Paramount Channel
-http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263357
 #EXTINF:-1 group-title="PARAMOUNT",Paramount Network HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312900
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
@@ -771,8 +769,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/35034
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263351
 #EXTINF:-1 group-title="MUSICA",MTV Live
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263353
-#EXTINF:-1 group-title="MUSICA",VH1
-http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263352
 #EXTINF:-1 group-title="MUSICA",VMTV 00S FHD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35035
 #EXTINF:-1 group-title="MUSICA",MTV HD (MX VIP)
@@ -879,10 +875,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302681
 http://hidra.live:80/xaehsalg/454K7nBmkn/302615
 #EXTINF:-1 group-title="AZ",AZ Mundo FHD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302680
-
-
-#EXTINF:-1 group-title="CANAL 5",Canal 5
-http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263434
 
 
 #EXTINF:-1 group-title="ESTADOS",MTY Canal 8 Televisa HD (MX VIP)
