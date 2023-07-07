@@ -261,8 +261,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302721
 http://hidra.live:80/xaehsalg/454K7nBmkn/34965
 #EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34966
-#EXTINF:-1 group-title="STUDIO UNIVERSAL",Studio Universal HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312897
 
 
 #EXTINF:-1 group-title="UNIVERSAL CHANNEL",Universal Channel HD (LAT)*
@@ -299,8 +297,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34922
 http://hidra.live:80/xaehsalg/454K7nBmkn/34923
 
 
-#EXTINF:-1 group-title="PARAMOUNT",Paramount Network HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312900
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1 group-title="PARAMOUNT",Paramount
@@ -375,8 +371,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/43619
 http://hidra.live:80/xaehsalg/454K7nBmkn/302602
 
 
-#EXTINF:-1 group-title="CNN",CNN HD (MX VIP)
-http://hidra.live:80/xaehsalg/454K7nBmkn/302624
 #EXTINF:-1 group-title="CNN",CNN Español HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302691
 
@@ -591,8 +585,6 @@ http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/126369
 
 #EXTINF:-1 group-title="AMC",AMC
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263354
-#EXTINF:-1 group-title="AMC",AMC HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312924
 #EXTINF:-1 group-title="AMC",AMC SD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34917
 #EXTINF:-1 group-title="AMC",AMC FHD (LAT)
@@ -615,8 +607,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34943
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263279
 #EXTINF:-1 group-title="A&E",A&E HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302612
-#EXTINF:-1 group-title="A&E",A&E HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312957
 #EXTINF:-1 group-title="A&E",A&E SD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34946
 #EXTINF:-1 group-title="A&E",A&E FHD (LAT)
@@ -669,8 +659,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34784
 
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263301
-#EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312928
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302631
 #EXTINF:-1 group-title="DISNEY CHANNEL",Disney Channel SD (LAT)
@@ -687,8 +675,6 @@ http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301444
 http://hidra.live:80/xaehsalg/454K7nBmkn/302632
 #EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34766
-#EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior HD (MX)
-http://hidra.live:80/xaehsalg/454K7nBmkn/312763
 #EXTINF:-1 group-title="DISNEY JUNIOR",Disney Junior HD (LAT)*
 http://hidra.live:80/xaehsalg/454K7nBmkn/312949
 
@@ -739,12 +725,8 @@ http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263439
 http://hidra.live:80/xaehsalg/454K7nBmkn/302650
 
 
-#EXTINF:-1 group-title="FX",FX HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312926
 #EXTINF:-1 group-title="FX",FX HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302655
-#EXTINF:-1 group-title="FX",FX HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312954
 #EXTINF:-1 group-title="FX",FX SD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34975
 #EXTINF:-1 group-title="FX",FX FHD (LAT)
@@ -763,8 +745,6 @@ http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301439
 http://hidra.live:80/xaehsalg/454K7nBmkn/34985
 #EXTINF:-1 group-title="GOLDEN",Golden Edge HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302657
-#EXTINF:-1 group-title="GOLDEN",Golden  HD (MX VIP)
-http://hidra.live:80/xaehsalg/454K7nBmkn/302658
 #EXTINF:-1 group-title="GOLDEN",Golden Plus HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302659
 #EXTINF:-1 group-title="GOLDEN",Golden Premier HD (MX VIP)
@@ -785,8 +765,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34618
 
 #EXTINF:-1 group-title="MUSICA",VMTV 00S SD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35033
-#EXTINF:-1 group-title="MUSICA",VMTV 80s (LAT)
-http://hidra.live:80/xaehsalg/454K7nBmkn/35034
 #EXTINF:-1 group-title="MUSICA",MTV
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263351
 #EXTINF:-1 group-title="MUSICA",MTV Live
@@ -799,12 +777,8 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/302703
 http://hidra.live:80/xaehsalg/454K7nBmkn/35015
 #EXTINF:-1 group-title="MUSICA",MTV Live SD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35020
-#EXTINF:-1 group-title="MUSICA",MTV HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312963
 #EXTINF:-1 group-title="MUSICA",Telehit FHD (MX)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35031
-#EXTINF:-1 group-title="MUSICA",VH1+ HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312959
 #EXTINF:-1 group-title="MUSICA",VMTV FHD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/35018
 #EXTINF:-1 group-title="MUSICA",VMTV Hits SD (LAT)
@@ -821,8 +795,6 @@ http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263296
 http://hidra.live:80/xaehsalg/454K7nBmkn/312903
 #EXTINF:-1 group-title="NATGEO",National Geographic HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302706
-#EXTINF:-1 group-title="NATGEO",National Geographic SD (LAT)
-http://hidra.live:80/xaehsalg/454K7nBmkn/34846
 #EXTINF:-1 group-title="NATGEO",National Geographic HD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34847
 #EXTINF:-1 group-title="NATGEO",National Geographic FHD (LAT)
@@ -855,10 +827,6 @@ http://hidra.live:80/xaehsalg/454K7nBmkn/34971
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263280
 #EXTINF:-1 group-title="TNT",TNT Series HD (MX VIP)
 http://hidra.live:80/xaehsalg/454K7nBmkn/302734
-#EXTINF:-1 group-title="TNT",TNT Series HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312893
-#EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
-http://hidra.live:80/xaehsalg/454K7nBmkn/34960
 #EXTINF:-1 group-title="TNT",TNT Series SD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34962
 #EXTINF:-1 group-title="TNT",TNT Series FHD (LAT)
@@ -871,8 +839,6 @@ http://51.222.43.170:8001/2861/xR4VbCnLKjJp/272088
 http://hidra.live:80/xaehsalg/454K7nBmkn/304510
 
 
-#EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet HD (LAT)*
-http://hidra.live:80/xaehsalg/454K7nBmkn/312923
 #EXTINF:-1 group-title="ANIMAL PLANET",Animal Planet FHD (LAT)
 http://hidra.live:80/xaehsalg/454K7nBmkn/34803
 
