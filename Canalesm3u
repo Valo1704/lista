@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="0 CANAL 5",CANAL 5 HD+
-http://zonamovie.live:8008/VIRGY12/dpBudBxCao/410173
-#EXTINF:-1 group-title="0 CANAL 5",CANAL 5
-http://zonamovie.live:8008/VIRGY12/dpBudBxCao/524356
-#EXTINF:-1 group-title="0 CANAL 5",CANAL 5 OP2
-http://zonamovie.live:8008/VIRGY12/dpBudBxCao/524357
 #EXTINF:-1 group-title="0 CANAL 5",Canal 5 (M)(1080)
 http://latintvec.com:43201/carlludena1/FymIrMhTPC/26973
 #EXTINF:-1 group-title="0 CANAL 5",Canal 5 (M)(SD)
@@ -106,18 +100,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 
 #EXTINF:-1 group-title="0.0 HBO 2",HBO 2
 http://iptvglobal.site:25461/rrtv/rrtv12345/131122
-#EXTINF:-1 group-title="0.0 HBO 2",HBO 2 HD R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
 #EXTINF:-1 group-title="0.0 HBO 2",HBO 2
 http://iptvglobal.site:25461/rrtv/rrtv12345/131122
-#EXTINF:-1 group-title="0.0 HBO 2",HBO 2 HD R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
-
-
-#EXTINF:-1 group-title="HBO PLUS",HBO PLUS
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
-#EXTINF:-1 group-title="HBO PLUS",HBO PLUS
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
 
 
 #EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY R
@@ -276,8 +260,6 @@ http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/20429
 
 
 #EXTINF:-1 group-title="AMERICA TV 2",AMERICA TV HD
-http://casaprotv.xyz:8080/cipri/cipri/230918
-#EXTINF:-1 group-title="AMERICA TV 2",AMERICA TV HD
 http://casaprotv.xyz:8080/cipri/cipri/230920
 #EXTINF:-1 group-title="AMERICA TV 2",AmericaTV
 http://191.98.171.198:4000/play/a01a/index.m3u8
@@ -335,204 +317,137 @@ http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/97810.mp4
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/863
 
 
-#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS LQ R
-http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/126369
-
-
-#EXTINF:-1 group-title="VARIOS",A&E
+#EXTINF:-1 group-title="0.0 VARIOS",A&E
 http://187.189.125.28:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="VARIOS",A3Series
-http://187.189.125.28:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="VARIOS",AMC
+#EXTINF:-1 group-title="0.0 VARIOS",AMC
 http://187.189.125.28:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="VARIOS",ANIMAL PLANET
+#EXTINF:-1 group-title="0.0 VARIOS",ANIMAL PLANET
 http://187.189.125.28:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="VARIOS",ANTENA 3
-http://187.189.125.28:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="VARIOS",ARTS
-http://187.189.125.28:8000/play/a07q/index.m3u8
-#EXTINF:-1 group-title="VARIOS",AXN
+#EXTINF:-1 group-title="0.0 VARIOS",AXN
 http://187.189.125.28:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="VARIOS",AYM
+#EXTINF:-1 group-title="0.0 VARIOS",AYM
 http://187.189.125.28:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="VARIOS",AZTECA SIETE
+#EXTINF:-1 group-title="0.0 VARIOS",AZTECA SIETE
 http://187.189.125.28:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="VARIOS",AZTECA UNO
+#EXTINF:-1 group-title="0.0 VARIOS",AZTECA UNO
 http://187.189.125.28:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="VARIOS",BABY TV
-http://187.189.125.28:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CANAL 22.2
+#EXTINF:-1 group-title="0.0 VARIOS",CANAL 22.2
 http://187.189.125.28:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CANAL CATORCE
+#EXTINF:-1 group-title="0.0 VARIOS",CANAL CATORCE
 http://187.189.125.28:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CANAL CINCO
+#EXTINF:-1 group-title="0.0 VARIOS",CANAL CINCO
 http://187.189.125.28:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CANAL DEL CONGRESO
-http://187.189.125.28:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CARTOON NETWORK
+#EXTINF:-1 group-title="0.0 VARIOS",CARTOON NETWORK
 http://187.189.125.28:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CARTOONITO
+#EXTINF:-1 group-title="0.0 VARIOS",CARTOONITO
 http://187.189.125.28:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CINE CANAL
+#EXTINF:-1 group-title="0.0 VARIOS",CINECANAL
 http://187.189.125.28:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CINE LATINO
+#EXTINF:-1 group-title="0.0 VARIOS",CINELATINO
 http://187.189.125.28:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CINE LATINO
+#EXTINF:-1 group-title="0.0 VARIOS",CINELATINO
 http://187.189.125.28:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CINEC
+#EXTINF:-1 group-title="0.0 VARIOS",CINECANAL
 http://187.189.125.28:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CLARO
+#EXTINF:-1 group-title="0.0 VARIOS",CLARO
 http://187.189.125.28:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CMAX
-http://187.189.125.28:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CNN EN ESPAÑOL
-http://187.189.125.28:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="VARIOS",CNN INTERNACIONAL
-http://187.189.125.28:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="VARIOS",COMEDY CENTRAL
-http://187.189.125.28:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="VARIOS",DISCOVERY HOME & HEALTH
+#EXTINF:-1 group-title="0.0 VARIOS",DISCOVERY HOME & HEALTH
 http://187.189.125.28:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="VARIOS",DISCOVERY KIDS
+#EXTINF:-1 group-title="0.0 VARIOS",DISCOVERY KIDS
 http://187.189.125.28:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="VARIOS",DISCOVERY TURBO
+#EXTINF:-1 group-title="0.0 VARIOS",DISCOVERY TURBO
 http://187.189.125.28:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="VARIOS",DISNEY CHANNEL
+#EXTINF:-1 group-title="0.0 VARIOS",DISNEY CHANNEL
 http://187.189.125.28:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="VARIOS",DISNEY JUNIOR
+#EXTINF:-1 group-title="0.0 VARIOS",DISNEY JUNIOR
 http://187.189.125.28:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="VARIOS",E!
-http://187.189.125.28:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="VARIOS",ESPN EXTRA
+#EXTINF:-1 group-title="0.0 VARIOS",ESPN EXTRA
 http://187.189.125.28:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="VARIOS",ESPN2
+#EXTINF:-1 group-title="0.0 VARIOS",ESPN2
 http://187.189.125.28:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="VARIOS",ESPN3
+#EXTINF:-1 group-title="0.0 VARIOS",ESPN3
 http://187.189.125.28:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="VARIOS",EURO
-http://187.189.125.28:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="VARIOS",EXATV
-http://187.189.125.28:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="VARIOS",EXATV BACKUP
-http://187.189.125.28:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="VARIOS",FAST&FUN BOX INGLES
-http://187.189.125.28:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="VARIOS",FILM & ARTS
-http://187.189.125.28:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="VARIOS",FX
+#EXTINF:-1 group-title="0.0 VARIOS",FX
 http://187.189.125.28:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="VARIOS",GAMET
-http://187.189.125.28:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="VARIOS",GOURMET
-http://187.189.125.28:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO
+#EXTINF:-1 group-title="0.0 VARIOS",HBO
 http://187.189.125.28:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO 2
+#EXTINF:-1 group-title="0.0 VARIOS",HBO 2
 http://187.189.125.28:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILY
+#EXTINF:-1 group-title="0.0 VARIOS",HBO FAMILY
 http://187.189.125.28:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYHBO MUNDI
+#EXTINF:-1 group-title="0.0 VARIOS",HBO MUNDI
 http://187.189.125.28:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYHBO PLUS
+#EXTINF:-1 group-title="0.0 VARIOS",HBO PLUS
 http://187.189.125.28:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYHBO XTREME
+#EXTINF:-1 group-title="0.0 VARIOS",HBO XTREME
 http://187.189.125.28:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HISTORY
+#EXTINF:-1 group-title="0.0 VARIOS",HISTORY
 http://187.189.125.28:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HISTORY 2
+#EXTINF:-1 group-title="0.0 VARIOS",HISTORY 2
 http://187.189.125.28:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HOLA TV
-http://187.189.125.28:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HTV
-http://187.189.125.28:8000/play/a07l/index.m3u8
-#EXTINF:-1,IMAGEN TELEVISION
+#EXTINF:-1 group-title="0.0 VARIOS",IMAGEN TELEVISION
 http://187.189.125.28:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="VARIOS",INGENIO TV
-http://187.189.125.28:8000/play/a07p/index.m3u8
-#EXTINF:-1 group-title="VARIOS",INVESTIGATION DISCOVERY
-http://187.189.125.28:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="VARIOS",JUSTICIA TV
-http://187.189.125.28:8000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="VARIOS",LA MEJOR TV
-http://187.189.125.28:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="VARIOS",LA MEJOR TV BACKUP
-http://187.189.125.28:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="VARIOS",LAS ESTRELLAS
+#EXTINF:-1 group-title="0.0 VARIOS",LAS ESTRELLAS
 http://187.189.125.28:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="VARIOS",LIFE TIME
-http://187.189.125.28:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MC
+#EXTINF:-1 group-title="0.0 VARIOS",MC
 http://187.189.125.28:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MC BACKUP
+#EXTINF:-1 group-title="0.0 VARIOS",MC BACKUP
 http://187.189.125.28:8000/play/a085/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MEGANOTICIAS MX
+#EXTINF:-1 group-title="0.0 VARIOS",MEGANOTICIAS MX
 http://187.189.125.28:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MTV
+#EXTINF:-1 group-title="0.0 VARIOS",MTV
 http://187.189.125.28:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MTV 00S
+#EXTINF:-1 group-title="0.0 VARIOS",MTV 00S
 http://187.189.125.28:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MTV HITS
+#EXTINF:-1 group-title="0.0 VARIOS",MTV HITS
 http://187.189.125.28:8000/play/a07i/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MULTIMEDIOS TV 6 CDMX
+#EXTINF:-1 group-title="0.0 VARIOS",MULTIMEDIOS TV 6 CDMX
 http://187.189.125.28:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MULTIPREMIER
+#EXTINF:-1 group-title="0.0 VARIOS",MULTIPREMIER
 http://187.189.125.28:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="VARIOS",MULTIPREMIER BACKUP
+#EXTINF:-1 group-title="0.0 VARIOS",MULTIPREMIER BACKUP
 http://187.189.125.28:8000/play/a087/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYMVSTV
-http://187.189.125.28:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYNATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="0.0 VARIOS",NATIONAL GEOGRAPHIC
 http://187.189.125.28:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYNBA INGLES
+#EXTINF:-1 group-title="0.0 VARIOS",NBA INGLES
 http://187.189.125.28:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYNETTV
-http://187.189.125.28:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYNFL NETWORK INGLES
+#EXTINF:-1 group-title="0.0 VARIOS",NFL NETWORK INGLES
 http://187.189.125.28:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYNICK MUSIC
+#EXTINF:-1 group-title="0.0 VARIOS",NICK MUSIC
 http://187.189.125.28:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYNICKELODEON
+#EXTINF:-1 group-title="0.0 VARIOS",NICKELODEON
 http://187.189.125.28:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYNIK JR
+#EXTINF:-1 group-title="0.0 VARIOS",NICK JR
 http://187.189.125.28:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYONCE
+#EXTINF:-1 group-title="0.0 VARIOS",ONCE
 http://187.189.125.28:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYONCE NIÑOS
+#EXTINF:-1 group-title="0.0 VARIOS",ONCE NIÑOS
 http://187.189.125.28:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYOUTDOOR INGLES
-http://187.189.125.28:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYPARAMOUNT
+#EXTINF:-1 group-title="0.0 VARIOS",PARAMOUNT
 http://187.189.125.28:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYPX SPORTS
-http://187.189.125.28:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYRT ESPAÑOL
-http://187.189.125.28:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYSONY CHANNEL
+#EXTINF:-1 group-title="0.0 VARIOS",SONY CHANNEL
 http://187.189.125.28:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYSPACE
+#EXTINF:-1 group-title="0.0 VARIOS",SPACE
 http://187.189.125.28:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYSTAR CHANNEL
+#EXTINF:-1 group-title="0.0 VARIOS",STAR CHANNEL
 http://187.189.125.28:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYSTUDIO UNIVERSAL
+#EXTINF:-1 group-title="0.0 VARIOS",STUDIO UNIVERSAL
 http://187.189.125.28:8000/play/a07v/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYSYFY
+#EXTINF:-1 group-title="0.0 VARIOS",SYFY
 http://187.189.125.28:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYTELEF
+#EXTINF:-1 group-title="0.0 VARIOS",TELEF
 http://187.189.125.28:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYTLC
+#EXTINF:-1 group-title="0.0 VARIOS",TLC
 http://187.189.125.28:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYTNT
+#EXTINF:-1 group-title="0.0 VARIOS",TNT
 http://187.189.125.28:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYTNT SERIES
+#EXTINF:-1 group-title="0.0 VARIOS",TNT SERIES
 http://187.189.125.28:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYTV UNAM
-http://187.189.125.28:8000/play/a07c/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYTVC DEPORTES
+#EXTINF:-1 group-title="0.0 VARIOS",TVC DEPORTES
 http://187.189.125.28:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYUNIVERSAL TV
+#EXTINF:-1 group-title="0.0 VARIOS",UNIVERSAL TV
 http://187.189.125.28:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYVIDEOROLA
+#EXTINF:-1 group-title="0.0 VARIOS",VIDEOROLA
 http://187.189.125.28:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="VARIOS",HBO FAMILYWB CHANNEL
+#EXTINF:-1 group-title="0.0 VARIOS",WB CHANNEL
 http://187.189.125.28:8000/play/a046/index.m3u8
-
