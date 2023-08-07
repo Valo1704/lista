@@ -28,6 +28,8 @@ http://50.7.66.234:8080/alejandramadruga/AM4134370/44728
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0/38694
 
 
+#EXTINF:-1 group-title="ESPN 1",ESPN MX (HD)
+http://premiumultra.xyz:8080/56966773293/050123zero/519
 #EXTINF:-1 group-title="ESPN 1",ESPN SD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34652
 #EXTINF:-1 group-title="ESPN 1",ESPN HD (MX)
@@ -36,8 +38,14 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302638
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34653
 
 
+#EXTINF:-1 group-title="ESPN 2",ESPN MX (HD) 2
+http://premiumultra.xyz:8080/56966773293/050123zero/521
 #EXTINF:-1 group-title="ESPN 2",ESPN 2 HD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302639
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 MX (HD)
+http://premiumultra.xyz:8080/56966773293/050123zero/505
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 MX (HD)
+http://premiumultra.xyz:8080/56966773293/050123zero/509
 
 
 #EXTINF:-1 group-title="ESPN 3",ESPN 3 SD (MX)
@@ -48,6 +56,10 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302640
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34658
 
 
+#EXTINF:-1 group-title="FOX SPORTS 1",SPORTS 1 MX (HD)
+http://premiumultra.xyz:8080/56966773293/050123zero/540
+#EXTINF:-1 group-title="FOX SPORTS 1",SPORTS 1 MX (HD)
+http://premiumultra.xyz:8080/56966773293/050123zero/534
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports HD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302652
 
@@ -59,6 +71,11 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302653
 
 #EXTINF:-1 group-title="CLARO SPORTS",Claro Sports HD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302690
+
+
+#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS MX (HD)
+http://premiumultra.xyz:8080/56966773293/050123zero/579
+
 
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304554
