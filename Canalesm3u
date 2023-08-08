@@ -79,7 +79,26 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302640
 #EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34658
 
-
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports MX
+http://magi-stv.net:8080/Joseluis/Joseluis123/10950
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports MX HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/155648
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports MX FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/10953
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports
+http://magi-stv.net:8080/Joseluis/Joseluis123/2092587
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports ARG
+http://magi-stv.net:8080/Joseluis/Joseluis123/2090080
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports ARG HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/14651
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports ARG FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/10959
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports CL
+http://magi-stv.net:8080/Joseluis/Joseluis123/183331
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports CL FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/183329
+#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports CL HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/183330
 #EXTINF:-1 group-title="FOX SPORTS 1",SPORTS 1 MX (HD)
 http://premiumultra.xyz:8080/56966773293/050123zero/540
 #EXTINF:-1 group-title="FOX SPORTS 1",SPORTS 1 MX (HD)
@@ -87,11 +106,47 @@ http://premiumultra.xyz:8080/56966773293/050123zero/534
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports HD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302652
 
-
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX
+http://magi-stv.net:8080/Joseluis/Joseluis123/10949
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/10952
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/155649
+#EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 LQ
+http://magi-stv.net:8080/Joseluis/Joseluis123/2092588
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 CL HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/183332
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 CL FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/183333
+#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 COL FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/183213
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 SD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34623
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 HD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302653
+
+#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 LQ
+http://magi-stv.net:8080/Joseluis/Joseluis123/2123478
+#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 ARG
+http://magi-stv.net:8080/Joseluis/Joseluis123/10958
+#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 CL
+http://magi-stv.net:8080/Joseluis/Joseluis123/183334
+#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 COL HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/202100
+#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 COL FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/183214
+
+
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium MX
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106730
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium (MX)
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304554
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX Sports Premium Arg
+http://magi-stv.net:8080/Joseluis/Joseluis123/195839
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX Sports Premium Arg FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/195840
+#EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX Sports Premium Arg HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/10915
 
 #EXTINF:-1 group-title="CLARO SPORTS",Claro Sports HD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302690
@@ -99,10 +154,6 @@ http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302690
 
 #EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS MX (HD)
 http://premiumultra.xyz:8080/56966773293/050123zero/579
-
-
-#EXTINF:-1 group-title="FOX SPORTS PREMIUM",Fox Sports Premium (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/304554
 
 
 #EXTINF:-1 group-title="ALERTA AEROPUERTO",Alerta Aeropuerto
@@ -500,3 +551,52 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149947.mkv
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149948.mkv
 #EXTINF:-1 group-title="EFECTO MARIPOSA",El Efecto Mariposa 3: Revelaciones (2009)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149949.mkv
+
+
+#EXTINF:-1 group-title="FLASH",Flash (2023) FHD
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2169863.mkv
+#EXTINF:-1 group-title="FLASH",Flash (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167691.mkv
+#EXTINF:-1 group-title="FLASH",Flash (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167692.mp4
+
+
+#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167693.mkv
+#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2169927.mp4
+
+
+#EXTINF:-1 group-title="MARIO BROS",Super Mario Bros. La película (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164095.mp4
+#EXTINF:-1 group-title="MARIO BROS",Super Mario Bros. La película (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164103.mp4
+
+#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023) [CAM]
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164101.mp4
+
+#EXTINF:-1 group-title="BARBIE",Barbie (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171391.mkv
+
+#EXTINF:-1 group-title="MANSION EMBRUJADA",Mansión embrujada (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171392.mkv
+
+
+#EXTINF:-1 group-title="MISION IMPOSIBLE",Misión: Imposible - Sentencia mortal parte uno (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171393.mkv
+
+
+#EXTINF:-1 group-title="ELEMENTOS",Elementos (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2168617.mkv
+
+#EXTINF:-1 group-title="CABALLEROS DEL ZODIACO",Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2162057.mp4
+
+#EXTINF:-1 group-title="CALABOZOS Y DRAGONES",Calabozos & Dragones: Honor entre ladrones (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2162054.mp4
+
+
+#EXTINF:-1 group-title="LA REVOLUCION DE JESUS",La Revolución de Jesús (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2162029.mkv
+#EXTINF:-1 group-title="LA REVOLUCION DE JESUS",La Revolución de Jesús (2023)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2161969.mp4
