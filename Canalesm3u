@@ -492,3 +492,11 @@ http://187.189.125.28:8000/play/a050/index.m3u8
 http://187.189.125.28:8000/play/a07j/index.m3u8
 #EXTINF:-1 group-title="0.0 VARIOS",WB CHANNEL
 http://187.189.125.28:8000/play/a046/index.m3u8
+
+
+#EXTINF:-1 group-title="EFECTO MARIPOSA",El Efecto Mariposa (2004)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149947.mkv
+#EXTINF:-1 group-title="EFECTO MARIPOSA",El Efecto Mariposa 2 (2006)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149948.mkv
+#EXTINF:-1 group-title="EFECTO MARIPOSA",El Efecto Mariposa 3: Revelaciones (2009)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149949.mkv
