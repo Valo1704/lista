@@ -190,12 +190,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 
 
-#EXTINF:-1 group-title="0.0 HBO 2",HBO 2
-http://iptvglobal.site:25461/rrtv/rrtv12345/131122
-#EXTINF:-1 group-title="0.0 HBO 2",HBO 2
-http://iptvglobal.site:25461/rrtv/rrtv12345/131122
-
-
 #EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
 
@@ -221,11 +215,6 @@ http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/59165
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
 
 
-#EXTINF:-1 group-title="PARAMOUNT",Paramount
-http://iptvglobal.site:25461/rrtv/rrtv12345/131130
-#EXTINF:-1 group-title="PARAMOUNT",Paramount
-http://iptvglobal.site:25461/rrtv/rrtv12345/131130
-
 
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -233,10 +222,6 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS centro
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
-
-
-#EXTINF:-1 group-title="BOOMERANG",Boomerang
-http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 
 
 #EXTINF:-1 group-title="NBA 1",NBA 1
@@ -365,9 +350,6 @@ http://191.98.171.198:4000/play/a01a/index.m3u8
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
 
 
-#EXTINF:-1 group-title="AMERICA TV 4",America HD
-http://streamingtv.vip:8080/MarioMesias/donmario0912/135793
-
 
 #EXTINF:-1 group-title="PELICULAS",Capitan America: Guerra civil (4K)
 http://vod.tuxchannel.mx/peliculas4k/captain%20america%20civil%20war.mkv
@@ -407,142 +389,6 @@ http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/97810.mp4
 
 #EXTINF:-1 group-title="1 TNT NBA",TNT West HD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/863
-
-
-#EXTINF:-1 group-title="0.0 VARIOS",A&E
-http://187.189.125.28:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",AMC
-http://187.189.125.28:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",ANIMAL PLANET
-http://187.189.125.28:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",AXN
-http://187.189.125.28:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",AYM
-http://187.189.125.28:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",AZTECA SIETE
-http://187.189.125.28:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",AZTECA UNO
-http://187.189.125.28:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CANAL 22.2
-http://187.189.125.28:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CANAL CATORCE
-http://187.189.125.28:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CANAL CINCO
-http://187.189.125.28:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CARTOON NETWORK
-http://187.189.125.28:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CARTOONITO
-http://187.189.125.28:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CINECANAL
-http://187.189.125.28:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CINELATINO
-http://187.189.125.28:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CINELATINO
-http://187.189.125.28:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CINECANAL
-http://187.189.125.28:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",CLARO
-http://187.189.125.28:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",DISCOVERY HOME & HEALTH
-http://187.189.125.28:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",DISCOVERY KIDS
-http://187.189.125.28:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",DISCOVERY TURBO
-http://187.189.125.28:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",DISNEY CHANNEL
-http://187.189.125.28:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",DISNEY JUNIOR
-http://187.189.125.28:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",ESPN EXTRA
-http://187.189.125.28:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",ESPN2
-http://187.189.125.28:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",ESPN3
-http://187.189.125.28:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",FX
-http://187.189.125.28:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",HBO
-http://187.189.125.28:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",HBO 2
-http://187.189.125.28:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",HBO FAMILY
-http://187.189.125.28:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",HBO MUNDI
-http://187.189.125.28:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",HBO PLUS
-http://187.189.125.28:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",HBO XTREME
-http://187.189.125.28:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",HISTORY
-http://187.189.125.28:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",HISTORY 2
-http://187.189.125.28:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",IMAGEN TELEVISION
-http://187.189.125.28:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",LAS ESTRELLAS
-http://187.189.125.28:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MC
-http://187.189.125.28:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MC BACKUP
-http://187.189.125.28:8000/play/a085/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MEGANOTICIAS MX
-http://187.189.125.28:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MTV
-http://187.189.125.28:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MTV 00S
-http://187.189.125.28:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MTV HITS
-http://187.189.125.28:8000/play/a07i/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MULTIMEDIOS TV 6 CDMX
-http://187.189.125.28:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MULTIPREMIER
-http://187.189.125.28:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",MULTIPREMIER BACKUP
-http://187.189.125.28:8000/play/a087/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",NATIONAL GEOGRAPHIC
-http://187.189.125.28:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",NBA INGLES
-http://187.189.125.28:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",NFL NETWORK INGLES
-http://187.189.125.28:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",NICK MUSIC
-http://187.189.125.28:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",NICKELODEON
-http://187.189.125.28:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",NICK JR
-http://187.189.125.28:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",ONCE
-http://187.189.125.28:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",ONCE NIÑOS
-http://187.189.125.28:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",PARAMOUNT
-http://187.189.125.28:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",SONY CHANNEL
-http://187.189.125.28:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",SPACE
-http://187.189.125.28:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",STAR CHANNEL
-http://187.189.125.28:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",STUDIO UNIVERSAL
-http://187.189.125.28:8000/play/a07v/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",SYFY
-http://187.189.125.28:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",TELEF
-http://187.189.125.28:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",TLC
-http://187.189.125.28:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",TNT
-http://187.189.125.28:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",TNT SERIES
-http://187.189.125.28:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",TVC DEPORTES
-http://187.189.125.28:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",UNIVERSAL TV
-http://187.189.125.28:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",VIDEOROLA
-http://187.189.125.28:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="0.0 VARIOS",WB CHANNEL
-http://187.189.125.28:8000/play/a046/index.m3u8
 
 
 #EXTINF:-1 group-title="EFECTO MARIPOSA",El Efecto Mariposa (2004)
