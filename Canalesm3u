@@ -446,6 +446,10 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2162029.mkv
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2161969.mp4
 
 
+#EXTINF:-1 group-title="ANTMAN",Ant-Man y la Avispa: Quantumanía (2023)
+http://208.88.245.85/nuevo/antman.quantumania.dual2023.mkv
+
+
 #EXTINF:-1 group-title="VARIOS",A&E
 http://45.228.234.193:16000/play/a0dw/index.m3u8
 #EXTINF:-1 group-title="VARIOS",A&E HD
