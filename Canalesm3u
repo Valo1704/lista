@@ -2,8 +2,6 @@
 http://latintvec.com:43201/carlludena1/FymIrMhTPC/26973
 #EXTINF:-1 group-title="0 CANAL 5",Canal 5 (M)(SD)
 http://latintvec.com:43201/carlludena1/FymIrMhTPC/26678
-#EXTINF:-1 group-title="0 CANAL 5",Canal 5 HD (MX)
-http://hidra.live:80/ilseucuh/J52j6Fslu8/302619
 
 
 #EXTINF:-1 group-title="0.0 LA CASA DE LOS FAMOSOS",La casa de los famosos (CAM 1)
@@ -34,8 +32,6 @@ http://magi-stv.net:8080/BUZZTVAS/RKVMU/2167709
 http://playhispano.org:8080/firesp11/2023C/240125
 #EXTINF:-1 group-title="0.0.1 LA CASA DE LOS FAMOSOS",La Casa de los Famosos Camara 1
 http://playhispano.org:8080/firesp11/2023C/240126
-#EXTINF:-1 group-title="0.0.1 LA CASA DE LOS FAMOSOS",La Casa de los Famosos Camara 5
-http://playhispano.org:8080/firesp11/2023C/240127
 #EXTINF:-1 group-title="0.0.1 LA CASA DE LOS FAMOSOS",La Casa de los Famosos Camara 4
 http://playhispano.org:8080/firesp11/2023C/240128
 #EXTINF:-1 group-title="0.0.1 LA CASA DE LOS FAMOSOS",La Casa de los Famosos Camara 2
@@ -52,30 +48,14 @@ http://50.7.66.234:8080/alejandramadruga/AM4134370/44728
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0/38694
 
 
-#EXTINF:-1 group-title="ESPN 1",ESPN MX (HD)
-http://premiumultra.xyz:8080/56966773293/050123zero/519
 #EXTINF:-1 group-title="ESPN 1",ESPN SD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34652
-#EXTINF:-1 group-title="ESPN 1",ESPN HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302638
 #EXTINF:-1 group-title="ESPN 1",ESPN FHD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34653
 
 
-#EXTINF:-1 group-title="ESPN 2",ESPN MX (HD) 2
-http://premiumultra.xyz:8080/56966773293/050123zero/521
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302639
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 MX (HD)
-http://premiumultra.xyz:8080/56966773293/050123zero/505
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 MX (HD)
-http://premiumultra.xyz:8080/56966773293/050123zero/509
-
-
 #EXTINF:-1 group-title="ESPN 3",ESPN 3 SD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34657
-#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302640
 #EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34658
 
@@ -99,12 +79,7 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/183331
 http://magi-stv.net:8080/Joseluis/Joseluis123/183329
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports CL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183330
-#EXTINF:-1 group-title="FOX SPORTS 1",SPORTS 1 MX (HD)
-http://premiumultra.xyz:8080/56966773293/050123zero/540
-#EXTINF:-1 group-title="FOX SPORTS 1",SPORTS 1 MX (HD)
-http://premiumultra.xyz:8080/56966773293/050123zero/534
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302652
+
 
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10949
@@ -122,8 +97,7 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/183333
 http://magi-stv.net:8080/Joseluis/Joseluis123/183213
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 SD (MX)
 http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34623
-#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302653
+
 
 #EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123478
@@ -147,13 +121,6 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/195839
 http://magi-stv.net:8080/Joseluis/Joseluis123/195840
 #EXTINF:-1 group-title="FOX SPORTS PREMIUM",FOX Sports Premium Arg HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10915
-
-#EXTINF:-1 group-title="CLARO SPORTS",Claro Sports HD (MX)
-http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302690
-
-
-#EXTINF:-1 group-title="AFIZZIONADOS",AFIZZIONADOS MX (HD)
-http://premiumultra.xyz:8080/56966773293/050123zero/579
 
 
 #EXTINF:-1 group-title="ALERTA AEROPUERTO",Alerta Aeropuerto
@@ -208,8 +175,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
 
 #EXTINF:-1 group-title="CINECANAL",CINECANAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
-#EXTINF:-1 group-title="CINECANAL",Cinecanal SD
-http://allstar.is-by.us:25461/Pe39ca55/fYbMrTdidt/59165
 
 #EXTINF:-1 group-title="UNIVERSAL COMEDY",UNIVERSAL COMEDY
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
@@ -399,6 +364,10 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149948.mkv
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149949.mkv
 
 
+#EXTINF:-1 group-title="FLASH",Flash (2023) (DUAL) 4K
+http://flowfhd.xyz:8080/movie/edwin/edwin/78523.mkv
+#EXTINF:-1 group-title="FLASH",Flash (2023) (DUAL)
+http://flowfhd.xyz:8080/movie/edwin/edwin/80118.mkv
 #EXTINF:-1 group-title="FLASH",Flash (2023) FHD
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2169863.mkv
 #EXTINF:-1 group-title="FLASH",Flash (2023)
@@ -406,7 +375,22 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167691.mkv
 #EXTINF:-1 group-title="FLASH",Flash (2023)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167692.mp4
 
+#EXTINF:-1 group-title="GUARDIANES DE LA GALAXIA",Guardianes de la Galaxia volumen 3 (2023) (DUAL)
+http://flowfhd.xyz:8080/movie/edwin/edwin/89878.mkv
 
+
+#EXTINF:-1 group-title="SHAZAM",Shazam! Fury of the Gods (2023) (DUAL)
+http://flowfhd.xyz:8080/movie/edwin/edwin/20943.mkv
+#EXTINF:-1 group-title="SHAZAM",¡Shazam! La furia de los dioses (2023)
+http://flowfhd.xyz:8080/movie/edwin/edwin/69256.mp4
+
+
+#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023) Dual-Latino
+http://flowfhd.xyz:8080/movie/edwin/edwin/72735.mkv
+#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023) Dual-Latino 4k only
+http://flowfhd.xyz:8080/movie/edwin/edwin/72737.mkv
+#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023)
+http://flowfhd.xyz:8080/movie/edwin/edwin/69238.mkv
 #EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167693.mkv
 #EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023)
@@ -418,6 +402,14 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164095.mp4
 #EXTINF:-1 group-title="MARIO BROS",Super Mario Bros. La película (2023)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164103.mp4
 
+#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023) (DUAL)
+http://flowfhd.xyz:8080/movie/edwin/edwin/32525.mkv
+#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023)
+http://flowfhd.xyz:8080/movie/edwin/edwin/13540.mkv
+#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023) (DUAL) 4K
+http://flowfhd.xyz:8080/movie/edwin/edwin/24222.mkv
+#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023)
+http://flowfhd.xyz:8080/movie/edwin/edwin/69198.mkv
 #EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023) [CAM]
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164101.mp4
 
@@ -428,6 +420,12 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171391.mkv
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171392.mkv
 
 
+#EXTINF:-1 group-title="MISION IMPOSIBLE",Misión de rescate 2 (2023) (DUAL)
+http://flowfhd.xyz:8080/movie/edwin/edwin/36573.mkv
+#EXTINF:-1 group-title="MISION IMPOSIBLE",Misión de rescate 2 (2023)
+http://flowfhd.xyz:8080/movie/edwin/edwin/69174.mkv
+#EXTINF:-1 group-title="MISION IMPOSIBLE",Misión: Imposible - Sentencia mortal parte uno (2023) (DUAL)
+http://flowfhd.xyz:8080/movie/edwin/edwin/80217.mkv
 #EXTINF:-1 group-title="MISION IMPOSIBLE",Misión: Imposible - Sentencia mortal parte uno (2023)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171393.mkv
 
