@@ -79,8 +79,6 @@ https://tinyurl.com/2jsn7pcx
 
 #EXTINF:-1 group-title="MEXICO",28 Nuevo Leon (Mexico) (🇲🇽)
 https://tinyurl.com/2gv899ct
-#EXTINF:-1 group-title="MEXICO",4.1 (Mexico) (🇲🇽)
-https://tinyurl.com/2j3zebc5
 #EXTINF:-1 group-title="MEXICO",4.2 (Mexico) (🇲🇽)
 https://tinyurl.com/2f2henkn
 #EXTINF:-1 group-title="MEXICO",4.3 (Mexico) (🇲🇽)
@@ -200,10 +198,6 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/202100
 http://magi-stv.net:8080/Joseluis/Joseluis123/183214
 
 
-#EXTINF:-1 group-title="FOX PREMIUM",FOX Sports Premium
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/78290
-
-
 #EXTINF:-1 group-title="ALERTA AEROPUERTO",Alerta Aeropuerto
 http://streamingtv.vip:8080/MarioMesias/donmario0912/110501
 #EXTINF:-1 group-title="ALERTA AEROPUERTO",ALERTA AEROPUERTO
@@ -230,47 +224,16 @@ http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/3143
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0473/91750
 
 
-#EXTINF:-1 group-title="0.0 HBO",HBO LATINO R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
-#EXTINF:-1 group-title="0.0 HBO",HBO
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
-#EXTINF:-1 group-title="0.0 HBO",HBO HD IN
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
-
-
-#EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
-
-
-#EXTINF:-1 group-title="HBO XTREME",HBO XTREME FHD R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126312
-
-
-#EXTINF:-1 group-title="HBO POP",HBO POP R
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126310
-
-
-#EXTINF:-1 group-title="HBO MUNDI",HBO MUNDI HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
-
-
 #EXTINF:-1 group-title="CINECANAL",CINECANAL HD
 http://177.53.153.21:8001/play/a08n/index.m3u8
 #EXTINF:-1 group-title="CINECANAL",Cinecanal (Mexico) (🇲🇽)
 http://177.234.230.226:8010/play/a00c/index.m3u8
-#EXTINF:-1 group-title="CINECANAL",CINECANAL HD
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
 
 
 #EXTINF:-1 group-title="CINEMAX",Cinemax (Mexico) (🇲🇽)
 http://187.102.208.152:8000/play/a089/index.m3u8
 #EXTINF:-1 group-title="CINEMAX",Cinemax HD
 http://177.53.153.21:8001/play/a02h/index.m3u8
-
-
-#EXTINF:-1 group-title="UNIVERSAL COMEDY",UNIVERSAL COMEDY
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
-
 
 
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas (Mexico) (🇲🇽)
@@ -287,8 +250,6 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 
-#EXTINF:-1 group-title="MTV",MTV (Mexico) (🇲🇽)
-http://186.190.224.39:8000/play/a05n/index.m3u8
 #EXTINF:-1 group-title="MTV",MTV 00's (Mexico) (🇲🇽)
 http://187.102.208.155:8000/play/a0a9/index.m3u8
 #EXTINF:-1 group-title="MTV",MTV Hits (Mexico) (🇲🇽)
@@ -344,14 +305,6 @@ http://tvmate.icu:8080/ron@champagne/ron@2022/161757
 http://tvmate.icu:8080/ron@champagne/ron@2022/161758
 
 
-#EXTINF:-1 group-title="NBA 2",NBA ON TNT
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
-
-
-#EXTINF:-1 group-title="NBA 3",NBA ON TNT
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
-
-
 #EXTINF:-1 group-title="NBA 4",NBA League Pass 1 HD US
 http://45.90.105.74:25461/Universochingatuculo/HA280622/39085
 #EXTINF:-1 group-title="NBA 4",NBA League Pass 10 HD US
@@ -370,10 +323,6 @@ http://45.90.105.74:25461/Universochingatuculo/HA280622/39080
 http://45.90.105.74:25461/Universochingatuculo/HA280622/39079
 #EXTINF:-1 group-title="NBA 4",NBA League Pass 9 HD US
 http://45.90.105.74:25461/Universochingatuculo/HA280622/39078
-
-
-#EXTINF:-1 group-title="TELEMUNDO",Telemundo East HD ESP
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140233
 
 
 #EXTINF:-1 group-title="TELEMUNDO 1",Telemundo Area De La Bahia
@@ -455,17 +404,6 @@ http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/20429
 
 #EXTINF:-1 group-title="AMERICA TV 2",AMERICA TV HD
 http://casaprotv.xyz:8080/cipri/cipri/230920
-#EXTINF:-1 group-title="AMERICA TV 2",AmericaTV
-http://191.98.171.198:4000/play/a01a/index.m3u8
-
-
-#EXTINF:-1 group-title="AMERICA TV 3",AMERICA TV
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
-#EXTINF:-1 group-title="AMERICA TV 3",AmericaTV
-http://191.98.171.198:4000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="AMERICA TV 3",AMERICA TV
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
-
 
 
 #EXTINF:-1 group-title="PELICULAS",Capitan America: Guerra civil (4K)
@@ -500,10 +438,6 @@ http://vod.tuxchannel.mx/peliculas4k/avengers%20age%20of%20ultron.mkv
 http://vod.tuxchannel.mx/peliculas/720/avengers%20infinity%20war.mkv
 
 
-#EXTINF:-1 group-title="SCOOBY DOO",¡Scooby-Doo! La Leyenda de Scoobydur (latino 2021)
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/97810.mp4
-
-
 #EXTINF:-1 group-title="1 TNT NBA",TNT West HD
 http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/863
 
@@ -531,10 +465,6 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167692.mp4
 http://flowfhd.xyz:8080/movie/edwin/edwin/89878.mkv
 
 
-#EXTINF:-1 group-title="SHAZAM",Shazam! Fury of the Gods (2023) (DUAL)
-http://flowfhd.xyz:8080/movie/edwin/edwin/20943.mkv
-
-
 #EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023) Dual-Latino
 http://flowfhd.xyz:8080/movie/edwin/edwin/72735.mkv
 #EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023) Dual-Latino 4k only
@@ -552,12 +482,9 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164095.mp4
 #EXTINF:-1 group-title="MARIO BROS",Super Mario Bros. La película (2023)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164103.mp4
 
-#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023) (DUAL)
-http://flowfhd.xyz:8080/movie/edwin/edwin/32525.mkv
+
 #EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023)
 http://flowfhd.xyz:8080/movie/edwin/edwin/13540.mkv
-#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023) (DUAL) 4K
-http://flowfhd.xyz:8080/movie/edwin/edwin/24222.mkv
 #EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023)
 http://flowfhd.xyz:8080/movie/edwin/edwin/69198.mkv
 #EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023) [CAM]
@@ -570,8 +497,6 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171391.mkv
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171392.mkv
 
 
-#EXTINF:-1 group-title="MISION DE RESCATE",Misión de rescate 2 (2023) (DUAL)
-http://flowfhd.xyz:8080/movie/edwin/edwin/36573.mkv
 #EXTINF:-1 group-title="MISION DE RESCATE",Misión de rescate 2 (2023)
 http://flowfhd.xyz:8080/movie/edwin/edwin/69174.mkv
 
@@ -628,146 +553,3 @@ http://177.53.153.21:8001/play/a01u/index.m3u8
 
 #EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS HD
 http://177.53.153.21:8001/play/a01x/index.m3u8
-
-
-#EXTINF:-1 group-title="NFL",NFL Network HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/715
-#EXTINF:-1 group-title="NFL",NFL Red Zone FHD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/27932
-#EXTINF:-1 group-title="NFL",NFL Network
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63360
-#EXTINF:-1 group-title="NFL",NFL Red Zone
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/1209
-#EXTINF:-1 group-title="NFL",NFL 00
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63396
-#EXTINF:-1 group-title="NFL",NFL 01
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63397
-#EXTINF:-1 group-title="NFL",NFL 02
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63398
-#EXTINF:-1 group-title="NFL",NFL 03
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63399
-#EXTINF:-1 group-title="NFL",NFL 04
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63400
-#EXTINF:-1 group-title="NFL",NFL 05
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63401
-#EXTINF:-1 group-title="NFL",NFL 06
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63402
-#EXTINF:-1 group-title="NFL",NFL 07
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63403
-#EXTINF:-1 group-title="NFL",NFL 08
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63404
-#EXTINF:-1 group-title="NFL",NFL 09
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63405
-#EXTINF:-1 group-title="NFL",NFL 10
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63406
-#EXTINF:-1 group-title="NFL",NFL 11
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63407
-#EXTINF:-1 group-title="NFL",NFL 12
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63408
-#EXTINF:-1 group-title="NFL",NFL 13
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63409
-#EXTINF:-1 group-title="NFL",NFL 14
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63410
-#EXTINF:-1 group-title="NFL",NFL 15
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63411
-#EXTINF:-1 group-title="NFL",NFL 16
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/63412
-#EXTINF:-1 group-title="NFL",NFL 17
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/107800
-
-#EXTINF:-1 group-title="VARIOS",A&E HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61101
-#EXTINF:-1 group-title="VARIOS",ADN40
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61088
-#EXTINF:-1 group-title="VARIOS",Adrenalina
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61172
-#EXTINF:-1 group-title="VARIOS",Afizzionados
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/60895
-#EXTINF:-1 group-title="VARIOS",AMC FHD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/116855
-#EXTINF:-1 group-title="VARIOS",AMC HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/116854
-#EXTINF:-1 group-title="VARIOS",AMC SD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61156
-#EXTINF:-1 group-title="VARIOS",AXN FHD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61102
-#EXTINF:-1 group-title="VARIOS",AYM Sports
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61178
-#EXTINF:-1 group-title="VARIOS",AZ Cinema HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61152
-#EXTINF:-1 group-title="VARIOS",AZ Click
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61085
-#EXTINF:-1 group-title="VARIOS",AZ Corazon
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61117
-#EXTINF:-1 group-title="VARIOS",AZ Mundo
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61128
-#EXTINF:-1 group-title="VARIOS",Azteca 7
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61098
-#EXTINF:-1 group-title="VARIOS",Azteca Uno
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61176
-#EXTINF:-1 group-title="VARIOS",Boomerang
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61136
-#EXTINF:-1 group-title="VARIOS",Canal 5
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61177
-#EXTINF:-1 group-title="VARIOS",Canal Once
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61179
-#EXTINF:-1 group-title="VARIOS",Cartoon Network SD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/60772
-#EXTINF:-1 group-title="VARIOS",Cinecanal HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61184
-#EXTINF:-1 group-title="VARIOS",Claro Sports
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/60903
-#EXTINF:-1 group-title="VARIOS",CNN en Español
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61094
-#EXTINF:-1 group-title="VARIOS",CNN International
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61093
-#EXTINF:-1 group-title="VARIOS",ESPN 2
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61153
-#EXTINF:-1 group-title="VARIOS",ESPN 2 HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/60998
-#EXTINF:-1 group-title="VARIOS",ESPN 3
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61159
-#EXTINF:-1 group-title="VARIOS",ESPN Extra HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61158
-#EXTINF:-1 group-title="VARIOS",ESPN
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61160
-#EXTINF:-1 group-title="VARIOS",Estrella TV
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61083
-#EXTINF:-1 group-title="VARIOS",Foro TV FHD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61181
-#EXTINF:-1 group-title="VARIOS",Foro TV
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61046
-#EXTINF:-1 group-title="VARIOS",Fox Sports 1 FHD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61048
-#EXTINF:-1 group-title="VARIOS",Fox Sports 1 HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61089
-#EXTINF:-1 group-title="VARIOS",Fox Sports 2 FHD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61049
-#EXTINF:-1 group-title="VARIOS",Fox Sports 2 HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61091
-#EXTINF:-1 group-title="VARIOS",Fox Sports 3 HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61092
-#EXTINF:-1 group-title="VARIOS",Las Estrellas
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/60894
-#EXTINF:-1 group-title="VARIOS",MTV 00s
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61164
-#EXTINF:-1 group-title="VARIOS",MTV 80s
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61167
-#EXTINF:-1 group-title="VARIOS",MTV Tr3s OFFLINE
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/128415
-#EXTINF:-1 group-title="VARIOS",MTV
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61165
-#EXTINF:-1 group-title="VARIOS",Multimedios
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61111
-#EXTINF:-1 group-title="VARIOS",Multipremier
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61053
-#EXTINF:-1 group-title="VARIOS",MVS TV SD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/119702
-#EXTINF:-1 group-title="VARIOS",Star Action FHD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61148
-#EXTINF:-1 group-title="VARIOS",Televisa Monterrey
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/60966
-#EXTINF:-1 group-title="VARIOS",Televisa Tijuana
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61157
-#EXTINF:-1 group-title="VARIOS",TUDN HD
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/77320
