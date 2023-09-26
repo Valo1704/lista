@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="0 CANAL 5",Canal 5 (M)(1080)
-http://latintvec.com:43201/carlludena1/FymIrMhTPC/26973
-#EXTINF:-1 group-title="0 CANAL 5",Canal 5 (M)(SD)
-http://latintvec.com:43201/carlludena1/FymIrMhTPC/26678
-
-
 #EXTINF:-1 group-title="A&E",A&E (Mexico) (🇲🇽)
 http://177.234.230.226:8010/play/a03b/index.m3u8
 #EXTINF:-1 group-title="A&E",A&E HD
@@ -77,8 +71,6 @@ https://tinyurl.com/yb9x9xre
 https://tinyurl.com/2jsn7pcx
 
 
-#EXTINF:-1 group-title="MEXICO",28 Nuevo Leon (Mexico) (🇲🇽)
-https://tinyurl.com/2gv899ct
 #EXTINF:-1 group-title="MEXICO",4.2 (Mexico) (🇲🇽)
 https://tinyurl.com/2f2henkn
 #EXTINF:-1 group-title="MEXICO",4.3 (Mexico) (🇲🇽)
@@ -188,10 +180,6 @@ http://45.191.234.189:15082/play/a03i/index.m3u8
 http://177.53.153.21:8001/play/a02d/index.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123478
-#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 ARG
-http://magi-stv.net:8080/Joseluis/Joseluis123/10958
-#EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 CL
-http://magi-stv.net:8080/Joseluis/Joseluis123/183334
 #EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 COL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202100
 #EXTINF:-1 group-title="FOX SPORTS 3",Fox Sports 3 COL FHD
@@ -301,8 +289,6 @@ http://177.53.153.21:8001/play/a03z/index.m3u8
 http://tvmate.icu:8080/ron@champagne/ron@2022/161756
 #EXTINF:-1 group-title="NBA 1",NBA 2
 http://tvmate.icu:8080/ron@champagne/ron@2022/161757
-#EXTINF:-1 group-title="NBA 1",NBA 3
-http://tvmate.icu:8080/ron@champagne/ron@2022/161758
 
 
 #EXTINF:-1 group-title="NBA 4",NBA League Pass 1 HD US
@@ -450,31 +436,12 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149948.mkv
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2149949.mkv
 
 
-#EXTINF:-1 group-title="FLASH",Flash (2023) (DUAL) 4K
-http://flowfhd.xyz:8080/movie/edwin/edwin/78523.mkv
-#EXTINF:-1 group-title="FLASH",Flash (2023) (DUAL)
-http://flowfhd.xyz:8080/movie/edwin/edwin/80118.mkv
 #EXTINF:-1 group-title="FLASH",Flash (2023) FHD
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2169863.mkv
 #EXTINF:-1 group-title="FLASH",Flash (2023)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167691.mkv
 #EXTINF:-1 group-title="FLASH",Flash (2023)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167692.mp4
-
-#EXTINF:-1 group-title="GUARDIANES DE LA GALAXIA",Guardianes de la Galaxia volumen 3 (2023) (DUAL)
-http://flowfhd.xyz:8080/movie/edwin/edwin/89878.mkv
-
-
-#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023) Dual-Latino
-http://flowfhd.xyz:8080/movie/edwin/edwin/72735.mkv
-#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023) Dual-Latino 4k only
-http://flowfhd.xyz:8080/movie/edwin/edwin/72737.mkv
-#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023)
-http://flowfhd.xyz:8080/movie/edwin/edwin/69238.mkv
-#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023)
-http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2167693.mkv
-#EXTINF:-1 group-title="TRANSFORMERS",Transformers: El despertar de las bestias (2023)
-http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2169927.mp4
 
 
 #EXTINF:-1 group-title="MARIO BROS",Super Mario Bros. La película (2023)
@@ -483,10 +450,6 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164095.mp4
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164103.mp4
 
 
-#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023)
-http://flowfhd.xyz:8080/movie/edwin/edwin/13540.mkv
-#EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023)
-http://flowfhd.xyz:8080/movie/edwin/edwin/69198.mkv
 #EXTINF:-1 group-title="FAST AND FURIOS",Rápidos y furiosos X (2023) [CAM]
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2164101.mp4
 
@@ -495,16 +458,6 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171391.mkv
 
 #EXTINF:-1 group-title="MANSION EMBRUJADA",Mansión embrujada (2023)
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171392.mkv
-
-
-#EXTINF:-1 group-title="MISION DE RESCATE",Misión de rescate 2 (2023)
-http://flowfhd.xyz:8080/movie/edwin/edwin/69174.mkv
-
-
-#EXTINF:-1 group-title="MISION IMPOSIBLE",Misión: Imposible - Sentencia mortal parte uno (2023) (DUAL)
-http://flowfhd.xyz:8080/movie/edwin/edwin/80217.mkv
-#EXTINF:-1 group-title="MISION IMPOSIBLE",Misión: Imposible - Sentencia mortal parte uno (2023)
-http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2171393.mkv
 
 
 #EXTINF:-1 group-title="ELEMENTOS",Elementos (2023)
