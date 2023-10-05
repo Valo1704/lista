@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="A&E",A&E (Mexico) (🇲🇽)
-http://177.234.230.226:8010/play/a03b/index.m3u8
 #EXTINF:-1 group-title="A&E",A&E HD
 http://177.53.153.21:8001/play/a01s/index.m3u8
 
@@ -9,8 +7,6 @@ http://190.26.217.123:8000/play/a14o/index.m3u8
 http://177.53.153.21:8001/play/a039/index.m3u8
 
 
-#EXTINF:-1 group-title="AXN",AXN (Mexico) (🇲🇽)
-http://177.234.230.226:8010/play/a03e/index.m3u8
 #EXTINF:-1 group-title="AXN",AXN HD
 http://177.53.153.21:8001/play/a01v/index.m3u8
 
@@ -84,16 +80,10 @@ http://50.7.66.234:8080/alejandramadruga/AM4134370/44728
 http://live.budtvlight.com:25461/bud-1763358/7f63ee0/38694
 
 
-#EXTINF:-1 group-title="HBO",HBO (Mexico) (🇲🇽)
-http://186.148.163.18:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO 2 (Mexico) (🇲🇽)
-http://186.148.163.18:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Family (Mexico) (🇲🇽)
 http://186.148.163.18:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop (Mexico) (🇲🇽)
 http://187.102.208.155:8000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Xtreme (Mexico) (🇲🇽)
-http://187.102.208.152:8000/play/a08p/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO+ (Mexico) (🇲🇽)
 http://186.148.163.18:8000/play/a01o/index.m3u8
 
@@ -140,12 +130,6 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/155648
 http://magi-stv.net:8080/Joseluis/Joseluis123/10953
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092587
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports ARG
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090080
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports ARG HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/14651
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports ARG FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10959
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports CL
 http://magi-stv.net:8080/Joseluis/Joseluis123/183331
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports CL FHD
@@ -160,10 +144,6 @@ http://190.26.217.123:8000/play/a141/index.m3u8
 http://177.53.153.21:8001/play/a02v/index.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10949
-#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10952
-#EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 MX FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155649
 #EXTINF:-1 group-title="FOX SPORTS 2",FOX SPORTS 2 LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092588
 #EXTINF:-1 group-title="FOX SPORTS 2",Fox Sports 2 CL HD
@@ -283,12 +263,6 @@ https://tinyurl.com/23ra9k4y
 
 #EXTINF:-1 group-title="GOL PERU",GOLPERU HD
 http://177.53.153.21:8001/play/a03z/index.m3u8
-
-
-#EXTINF:-1 group-title="NBA 1",NBA 1
-http://tvmate.icu:8080/ron@champagne/ron@2022/161756
-#EXTINF:-1 group-title="NBA 1",NBA 2
-http://tvmate.icu:8080/ron@champagne/ron@2022/161757
 
 
 #EXTINF:-1 group-title="NBA 4",NBA League Pass 1 HD US
