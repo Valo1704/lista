@@ -23,6 +23,17 @@ http://186.148.163.18:8000/play/a03g/index.m3u8
 http://190.149.66.90:4000/play/a009/index.m3u8
 
 
+#EXTINF:-1 group-title="ESPN1",ESPN  +
+http://168.181.122.234:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="ESPN1",ESPN 2 HD
+http://168.181.122.234:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="ESPN1",ESPN 3 HD
+http://168.181.122.234:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="ESPN1",ESPN HD
+http://168.181.122.234:8000/play/a00o/index.m3u8
+
+
+
 #EXTINF:-1 group-title="ESPN",ESPN (Mexico) (🇲🇽)
 http://177.234.230.226:8010/play/a001/index.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN HD
