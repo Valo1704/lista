@@ -31,6 +31,16 @@ http://168.181.122.234:8000/play/a00p/index.m3u8
 http://168.181.122.234:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="ESPN1",ESPN HD
 http://168.181.122.234:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="ESPN1",ESPN 2 HD
+http://45.186.252.17:8000/play/a09j
+#EXTINF:-1 group-title="ESPN1",ESPN 3 HD
+http://45.186.252.17:8000/play/a09l
+#EXTINF:-1 group-title="ESPN1",ESPN Extra HD
+http://45.186.252.17:8000/play/a0bs
+#EXTINF:-1 group-title="ESPN1",ESPN HD
+http://45.186.252.17:8000/play/a09k
+#EXTINF:-1 group-title="ESPN1",ESPN Premium HD
+http://45.186.252.17:8000/play/a0bu
 
 
 
@@ -127,6 +137,12 @@ http://177.53.153.21:8001/play/a054/index.m3u8
 http://177.53.153.21:8001/play/a053/index.m3u8
 
 
+#EXTINF:-1 group-title="FOX SPORTS VARIOS",Fox Sports 2 HD
+http://45.186.252.17:8000/play/a09m
+#EXTINF:-1 group-title="FOX SPORTS VARIOS",Fox Sports 3 HD
+http://45.186.252.17:8000/play/a0av
+#EXTINF:-1 group-title="FOX SPORTS VARIOS",Fox Sports HD
+http://45.186.252.17:8000/play/a0bt
 
 
 #EXTINF:-1 group-title="FOX SPORTS 1",FOX Sports 1 (Mexico) (🇲🇽)
