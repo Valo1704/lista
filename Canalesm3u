@@ -30,39 +30,12 @@ http://45.186.252.17:8000/play/a09k
 http://45.186.252.17:8000/play/a0bu
 
 
-
-#EXTINF:-1 group-title="ESPN",ESPN (Mexico) (🇲🇽)
-http://177.234.230.226:8010/play/a001/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN HD
-http://177.53.153.21:8001/play/a025/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN 2 HD
-http://177.53.153.21:8001/play/a021/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD
-http://177.53.153.21:8001/play/a02c/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN 4 HD
-http://177.53.153.21:8001/play/a02u/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN EXTRA HD
-http://177.53.153.21:8001/play/a03a/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN  +
-http://177.53.153.21:8001/play/a065/index.m3u8
-
-
-#EXTINF:-1 group-title="ESPN",ESPN 3 (Mexico) (🇲🇽)
-http://187.102.208.152:8000/play/a058/index.m3u8
-
-
 #EXTINF:-1 group-title="DHE",DHE (Mexico) (🇲🇽)
 http://177.234.230.226:8010/play/a01c/index.m3u8
 
 
 #EXTINF:-1 group-title="ESTRELLA",Estrella (Mexico) (🇲🇽)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network (Mexico) (🇲🇽)
-http://190.26.217.123:8000/play/a14q/index.m3u8
-#EXTINF:-1 group-title="CARTOON NETWORK",Cartoon Network HD
-http://177.53.153.21:8001/play/a03d/index.m3u8
 
 
 #EXTINF:-1 group-title="CINE",Cine JaJa (Mexico) (🇲🇽)
@@ -81,13 +54,6 @@ https://tinyurl.com/2f2henkn
 https://tinyurl.com/2oumvxof
 
 
-
-#EXTINF:-1 group-title="0.0 CINE MARVEL",CINEMA MARVEL STUDIOS
-http://50.7.66.234:8080/alejandramadruga/AM4134370/44728
-#EXTINF:-1 group-title="0.0 CINE MARVEL",Cinema Marvel Studio HD
-http://live.budtvlight.com:25461/bud-1763358/7f63ee0/38694
-
-
 #EXTINF:-1 group-title="HBO",HBO Family (Mexico) (🇲🇽)
 http://186.148.163.18:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop (Mexico) (🇲🇽)
@@ -96,32 +62,8 @@ http://187.102.208.155:8000/play/a0a5/index.m3u8
 http://186.148.163.18:8000/play/a01o/index.m3u8
 
 
-#EXTINF:-1 group-title="HBO VARIOS",HBO 2 HD
-http://177.53.153.21:8001/play/a03i/index.m3u8
-#EXTINF:-1 group-title="HBO VARIOS",HBO Family HD
-http://177.53.153.21:8001/play/a04g/index.m3u8
-#EXTINF:-1 group-title="HBO VARIOS",HBO HD
-http://177.53.153.21:8001/play/a03b/index.m3u8
-#EXTINF:-1 group-title="HBO VARIOS",HBO POP HD
-http://177.53.153.21:8001/play/a01y/index.m3u8
-#EXTINF:-1 group-title="HBO VARIOS",HBO XTREME HD
-http://177.53.153.21:8001/play/a04h/index.m3u8
-
-
 #EXTINF:-1 group-title="FX",FX (Mexico) (🇲🇽)
 http://177.234.230.226:8010/play/a00d/index.m3u8
-#EXTINF:-1 group-title="FX",FX HD
-http://177.53.153.21:8001/play/a02z/index.m3u8
-
-
-#EXTINF:-1 group-title="GOLDEN",Golden Plus (Mexico) (🇲🇽)
-http://45.191.234.189:15082/play/a03o/index.m3u8
-#EXTINF:-1 group-title="GOLDEN",Golden HD
-http://177.53.153.21:8001/play/a03o/index.m3u8
-#EXTINF:-1 group-title="GOLDEN",Golden Premiere 2 HD
-http://177.53.153.21:8001/play/a054/index.m3u8
-#EXTINF:-1 group-title="GOLDEN",Golden Premiere HD
-http://177.53.153.21:8001/play/a053/index.m3u8
 
 
 #EXTINF:-1 group-title="FOX SPORTS VARIOS",Fox Sports 2 HD
@@ -132,12 +74,8 @@ http://45.186.252.17:8000/play/a0av
 http://45.186.252.17:8000/play/a0bt
 
 
-#EXTINF:-1 group-title="FOX SPORTS 1",FOX Sports 1 (Mexico) (🇲🇽)
-http://187.102.208.155:8000/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10950
-#EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports 1 HD
-http://177.53.153.21:8001/play/a04e/index.m3u8
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports MX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155648
 #EXTINF:-1 group-title="FOX SPORTS 1",Fox Sports MX FHD
